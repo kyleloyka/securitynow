@@ -73,7 +73,7 @@ func parseEpisode(body []byte) (*episode.Episode, error) {
 		return nil, err
 	}
 
-	media := GenerateCDNURL(ep.Number)
+	media := generateCDNURL(ep.Number)
 	if link, err := url.Parse(media); err == nil {
 		ep.Media = *link
 	} else {
@@ -94,6 +94,22 @@ func parseEpisode(body []byte) (*episode.Episode, error) {
 	return ep, nil
 }
 
+func minimalParseEpisode(episodeNumber int) (*episode.Episode, error) {
+	ep := new(episode.Episode)
+	u, err := url.Parse(generateCDNURL(episodeNumber))
+	if err != nil {
+		return nil, err
+	}
+	ep.Title = fmt.Sprintf("SN %d", episodeNumber)
+	ep.Number = episodeNumber
+	ep.Series = "Security Now!"
+	ep.Hosts = showHosts
+	ep.Homepage = showURL
+	ep.Media = *u
+	ep.Date = time.Date(1970, time.January, 1, 0, 0, 0, 0, time.UTC)
+	return ep, nil
+}
+
 func findField(fields map[string]string, fieldNames []string, modelName string) (string, error) {
 	for _, name := range fieldNames {
 		if n, ok := fields[name]; ok {
@@ -104,7 +120,7 @@ func findField(fields map[string]string, fieldNames []string, modelName string) 
 }
 
 // GenerateCDNURL Generates the CDN mp3 url for the given episode number
-func GenerateCDNURL(episodeNumber int) string {
+func generateCDNURL(episodeNumber int) string {
 	return fmt.Sprintf(cdnMP3URL, episodeNumber, episodeNumber)
 }
 

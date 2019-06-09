@@ -2,6 +2,7 @@ package securitynow
 
 import (
 	"bytes"
+	"errors"
 	"fmt"
 	"io"
 	"io/ioutil"
@@ -10,7 +11,13 @@ import (
 	"github.com/kyleloyka/securitynow/pkg/episode"
 )
 
-// Fetch gets the metadata for a particular Security Now episode
+// ErrEpisodeNotesNotFound is returned when the attempt to fetch shownotes returns a 404 statuscode
+var ErrEpisodeNotesNotFound = errors.New("could not retrieve show notes for episode")
+
+// Fetch gets the metadata by parsing the show notes for a particular Security Now episode.
+// If the show notes cannot be retrieved, a minimal show entry is created by assuming the episode
+// media url and title name. In this case, ErrEpisodeNotesNotFound will be returned along with the
+// minimal episode entry.
 func Fetch(episodeNumber int) (*episode.Episode, error) {
 	metadataURL := fmt.Sprintf(showNotesURL, episodeNumber)
 
@@ -19,6 +26,14 @@ func Fetch(episodeNumber int) (*episode.Episode, error) {
 		return nil, err
 	}
 	if resp.StatusCode != 200 {
+		if resp.StatusCode == http.StatusNotFound {
+			ep, err := minimalParseEpisode(episodeNumber)
+			if err != nil {
+				return nil, fmt.Errorf("Security Now Fetch: couldn't retrieve show notes, "+
+					"recovery failed: %s", err)
+			}
+			return ep, ErrEpisodeNotesNotFound
+		}
 		return nil, fmt.Errorf("Security Now Fetch: %s failed with status (%d) %s",
 			metadataURL, resp.StatusCode, resp.Status)
 	}
