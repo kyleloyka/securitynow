@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Security Now! - 2019</title>
+    <link>https://www.twit.tv/shows/security-now</link>
+    <description>Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte.</description>
+    <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+    <image>
+      <url>https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg</url>
+      <title>Security Now! - 2019</title>
+      <link>https://www.twit.tv/shows/security-now</link>
+    </image>
+    <itunes:summary><![CDATA[Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte.]]></itunes:summary>
+    <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0696/sn0696.mp3</guid>
+      <title>Here Comes 2019!</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0696/sn0696.mp3</link>
+      <description>This week we look at the NSA&#39;s announced forthcoming release of an internal powerful reverse engineering tool for examining and understanding other people&#39;s code; emergency out-of-cycle patches from both Adobe and Microsoft; and, yes, we do need to mention PewDiePie again.  We also need to mention our prolific zero-day dropper SandboxEscaper, a new effort by the U.S. government to educate industry about the risks of cyberattacks, some welcome news on the ransomware front, some VERY welcome news of a new Windows 10 feature, and a note about a just-published side-channel attack on OS page caches.  Then we&#39;ll wrap with an update on my work on SQRL and my discovery of a VERY impressive and free large file transmission and sharing facility.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-696.pdf&#xA;https://www.grc.com/sn/sn-696.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0696/sn0696.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[This week we look at the NSA's announced forthcoming release of an internal powerful reverse engineering tool for examining and understanding other people's code; emergency out-of-cycle patches from both Adobe and Microsoft; and, yes, we do need to mention PewDiePie again.  We also need to mention our prolific zero-day dropper SandboxEscaper, a new effort by the U.S. government to educate industry about the risks of cyberattacks, some welcome news on the ransomware front, some VERY welcome news of a new Windows 10 feature, and a note about a just-published side-channel attack on OS page caches.  Then we'll wrap with an update on my work on SQRL and my discovery of a VERY impressive and free large file transmission and sharing facility.
+
+Show notes:
+https://www.grc.com/sn/sn-696.pdf
+https://www.grc.com/sn/sn-696.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0697/sn0697.mp3</guid>
+      <title>Zerodium</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0697/sn0697.mp3</link>
+      <description>This week we examine the intended and unintended consequences of last week&#39;s Windows Patch Tuesday; and, speaking of unintended consequences, the U.S. government shutdown has had some, too.  We also examine a significant privacy failure in WhatsApp, another ransomware decryptor (with a twist), movement on the DNS over TLS front, an expectation of the cyberthreat landscape for 2019, a cloudy forecast for The Weather Channel App, a successful 51%!a(int= 697)ttack against the Ethereum Classic cryptocurrency, another court reversing compelled biometric authentication, and an update on the lingering death of Flash, now in hospice care.  We then look at a bit of miscellany and errata and finish by examining the implications of the&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-697.pdf&#xA;https://www.grc.com/sn/sn-%!d(string=Steve Gibson &amp; Leo Laporte).txt&#xA;&#xA;Hosts: %!s(MISSING)</description>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0697/sn0697.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[This week we examine the intended and unintended consequences of last week's Windows Patch Tuesday; and, speaking of unintended consequences, the U.S. government shutdown has had some, too.  We also examine a significant privacy failure in WhatsApp, another ransomware decryptor (with a twist), movement on the DNS over TLS front, an expectation of the cyberthreat landscape for 2019, a cloudy forecast for The Weather Channel App, a successful 51%!a(int= 697)ttack against the Ethereum Classic cryptocurrency, another court reversing compelled biometric authentication, and an update on the lingering death of Flash, now in hospice care.  We then look at a bit of miscellany and errata and finish by examining the implications of the
+
+Show notes:
+https://www.grc.com/sn/sn-697.pdf
+https://www.grc.com/sn/sn-%!d(string=Steve Gibson & Leo Laporte).txt
+
+Hosts: %!s(MISSING)]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0698/sn0698.mp3</guid>
+      <title>Which Mobile VPN Client?</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0698/sn0698.mp3</link>
+      <description>This week we examine a very worrisome WiFi bug affecting billions of devices; a new fun category for the forthcoming Pwn2Own; Russia&#39;s ongoing, failing, and flailing efforts to control the Internet; the return of the Anubis Android banking malware; Google&#39;s changing policy for phone and SMS app access; Tim Cook&#39;s note in Time magazine; news of a nice Facebook ad auditing page; another Cisco default password nightmare in widely used, lower end devices; some errata, miscellany, and listener feedback.  Then we answer the age-old and apparently quite confusing question:  Which is the right VPN client for Android?&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-698.pdf&#xA;https://www.grc.com/sn/sn-698.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0698/sn0698.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[This week we examine a very worrisome WiFi bug affecting billions of devices; a new fun category for the forthcoming Pwn2Own; Russia's ongoing, failing, and flailing efforts to control the Internet; the return of the Anubis Android banking malware; Google's changing policy for phone and SMS app access; Tim Cook's note in Time magazine; news of a nice Facebook ad auditing page; another Cisco default password nightmare in widely used, lower end devices; some errata, miscellany, and listener feedback.  Then we answer the age-old and apparently quite confusing question:  Which is the right VPN client for Android?
+
+Show notes:
+https://www.grc.com/sn/sn-698.pdf
+https://www.grc.com/sn/sn-698.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0699/sn0699.mp3</guid>
+      <title>Browser Extension Security</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0699/sn0699.mp3</link>
+      <description>This week we look at the expressive power of the social media friends we keep, the persistent DNS hijacking campaign which has the U.S. government quite concerned, last week&#39;s iOS and macOS updates (and doubtless another one very soon!), a valiant effort to take down malware distribution domains, Chrome catching up to IE and Firefox with drive-by file downloads, two particularly worrisome vulnerabilities in two Cisco router models publicly disclosed last Friday, some interesting miscellany, a particularly poignant SpinRite data recovery testimonial, and then some close looks at the state of the industry and the consequences of extensions to our web browsers.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-699.pdf&#xA;https://www.grc.com/sn/sn-699.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0699/sn0699.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[This week we look at the expressive power of the social media friends we keep, the persistent DNS hijacking campaign which has the U.S. government quite concerned, last week's iOS and macOS updates (and doubtless another one very soon!), a valiant effort to take down malware distribution domains, Chrome catching up to IE and Firefox with drive-by file downloads, two particularly worrisome vulnerabilities in two Cisco router models publicly disclosed last Friday, some interesting miscellany, a particularly poignant SpinRite data recovery testimonial, and then some close looks at the state of the industry and the consequences of extensions to our web browsers.
+
+Show notes:
+https://www.grc.com/sn/sn-699.pdf
+https://www.grc.com/sn/sn-699.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0700/sn0700.mp3</guid>
+      <title>700 &amp; Counting</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0700/sn0700.mp3</link>
+      <description>This week we discuss Chrome getting spell check for URLs; a bunch of Linux news with reasons to be sure you&#39;re patched up; some performance enhancements, updates, additions, and deletions from Chrome and Firefox; more Facebook nonsense; a bold move planned by the Japanese government; Ubiquiti routers again in trouble; a hopeful and welcome new initiative for the Chrome browser; a piece of errata; a quick SQRL update; and some follow-up thoughts about VPN connectivity.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-700.pdf&#xA;https://www.grc.com/sn/sn-700.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0700/sn0700.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[This week we discuss Chrome getting spell check for URLs; a bunch of Linux news with reasons to be sure you're patched up; some performance enhancements, updates, additions, and deletions from Chrome and Firefox; more Facebook nonsense; a bold move planned by the Japanese government; Ubiquiti routers again in trouble; a hopeful and welcome new initiative for the Chrome browser; a piece of errata; a quick SQRL update; and some follow-up thoughts about VPN connectivity.
+
+Show notes:
+https://www.grc.com/sn/sn-700.pdf
+https://www.grc.com/sn/sn-700.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0701/sn0701.mp3</guid>
+      <title>Adiantum</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0701/sn0701.mp3</link>
+      <description>This week we look at Apple&#39;s most recent v12.1.4 iOS update and the two zero-day vulnerabilities it closed, as well as examine the very worrisome new Android image display vulnerability.  We dive into an interesting &#34;reverse RDP&#34; attack, look at the new LibreOffice and OpenOffice vulnerability, and consider Microsoft&#39;s research into the primary source of software vulnerabilities.  Mary Jo gets an early peek at enterprise pricing for extending Windows 7 support.  China and Russia continue their work to take control of their countries&#39; Internets.  Firefox resumes rollout of its AV-warning Release 65.  We offer up a few more SQRL anecdotes, share a bit of listener feedback, then see how Google does the ChaCha with their new &#34;Adiantum&#34; ultra-high-performance cryptographic cipher.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-701.pdf&#xA;https://www.grc.com/sn/sn-701.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0701/sn0701.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[This week we look at Apple's most recent v12.1.4 iOS update and the two zero-day vulnerabilities it closed, as well as examine the very worrisome new Android image display vulnerability.  We dive into an interesting "reverse RDP" attack, look at the new LibreOffice and OpenOffice vulnerability, and consider Microsoft's research into the primary source of software vulnerabilities.  Mary Jo gets an early peek at enterprise pricing for extending Windows 7 support.  China and Russia continue their work to take control of their countries' Internets.  Firefox resumes rollout of its AV-warning Release 65.  We offer up a few more SQRL anecdotes, share a bit of listener feedback, then see how Google does the ChaCha with their new "Adiantum" ultra-high-performance cryptographic cipher.
+
+Show notes:
+https://www.grc.com/sn/sn-701.pdf
+https://www.grc.com/sn/sn-701.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0702/sn0702.mp3</guid>
+      <title>Authenticity on the Internet</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0702/sn0702.mp3</link>
+      <description>This week we catch up with last week&#39;s doozy of a Patch Tuesday for both Microsoft and Adobe.  We also examine an interesting twist coming to Windows 7 and Server 2008 security updates, eight mining apps pulled from the Windows Store, another positive security initiative from Google, electric scooters being hacked, more chipping away at Tor&#39;s privacy guarantees, a year and a half after Equifax and where&#39;s the data?, the beginnings of GDPR-like legislation for the U.S., and some closing-the-loop feedback from our terrific listeners.  Then we take a look at an extremely concerning new and emerging threat for the Internet.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-702.pdf&#xA;https://www.grc.com/sn/sn-702.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0702/sn0702.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[This week we catch up with last week's doozy of a Patch Tuesday for both Microsoft and Adobe.  We also examine an interesting twist coming to Windows 7 and Server 2008 security updates, eight mining apps pulled from the Windows Store, another positive security initiative from Google, electric scooters being hacked, more chipping away at Tor's privacy guarantees, a year and a half after Equifax and where's the data?, the beginnings of GDPR-like legislation for the U.S., and some closing-the-loop feedback from our terrific listeners.  Then we take a look at an extremely concerning new and emerging threat for the Internet.
+
+Show notes:
+https://www.grc.com/sn/sn-702.pdf
+https://www.grc.com/sn/sn-702.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0703/sn0703.mp3</guid>
+      <title>Out in the Wild</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0703/sn0703.mp3</link>
+      <description>This week we discuss a number of ongoing out-in-the-wild attacks, along with a bunch of other news.  We have another early-warned Drupal vulnerability that has immediately come under attack in the wild, and a 19-year-old flaw in an obscure decompress for the &#34;ACE&#34; archive format, which until a few days ago WinRAR was supporting to its detriment.  Microsoft reveals an abuse of HTTP/2 protocol which is DoSing its IIS servers.  Mozilla faces a dilemma about a wannabe Certificate Authority, and they also send a worried letter to Australia.  Microsoft&#39;s Edge browser is revealed to be secretly whitelisting 58 web domains which are allowed to bypass its &#34;Click-to-Run&#34; permission for FLASH.  ICANN renews its plea for the Internet to adopt DNSSEC, NVIDIA releases a handful of critical driver updates for Windows, and Apple increases the intelligence of its Intelligent Tracking Prevention.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-703.pdf&#xA;https://www.grc.com/sn/sn-703.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0703/sn0703.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[This week we discuss a number of ongoing out-in-the-wild attacks, along with a bunch of other news.  We have another early-warned Drupal vulnerability that has immediately come under attack in the wild, and a 19-year-old flaw in an obscure decompress for the "ACE" archive format, which until a few days ago WinRAR was supporting to its detriment.  Microsoft reveals an abuse of HTTP/2 protocol which is DoSing its IIS servers.  Mozilla faces a dilemma about a wannabe Certificate Authority, and they also send a worried letter to Australia.  Microsoft's Edge browser is revealed to be secretly whitelisting 58 web domains which are allowed to bypass its "Click-to-Run" permission for FLASH.  ICANN renews its plea for the Internet to adopt DNSSEC, NVIDIA releases a handful of critical driver updates for Windows, and Apple increases the intelligence of its Intelligent Tracking Prevention.
+
+Show notes:
+https://www.grc.com/sn/sn-703.pdf
+https://www.grc.com/sn/sn-703.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0704/sn0704.mp3</guid>
+      <title>Careers in Bug Hunting</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0704/sn0704.mp3</link>
+      <description>This week we look at a newly available improvement in Spectre mitigation performance being rolled out by Microsoft and who can try it right now, Adobe&#39;s ColdFusion emergency and patch, more problems with AV and self-signed certs, a Docker vulnerability being exploited in the wild, the end of Coinhive, a new major Wireshark release, a nifty web browser website screenshot hack, continuing troubles with the over-privileged Thunderbolt interface, bot-based credential stuffing attacks, some SQRL, miscellany, SpinRite, and listener feedback.  Then we examine the increasing feasibility of making a sustainable career out of hunting for software bugs.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-704.pdf&#xA;https://www.grc.com/sn/sn-704.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0704/sn0704.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[This week we look at a newly available improvement in Spectre mitigation performance being rolled out by Microsoft and who can try it right now, Adobe's ColdFusion emergency and patch, more problems with AV and self-signed certs, a Docker vulnerability being exploited in the wild, the end of Coinhive, a new major Wireshark release, a nifty web browser website screenshot hack, continuing troubles with the over-privileged Thunderbolt interface, bot-based credential stuffing attacks, some SQRL, miscellany, SpinRite, and listener feedback.  Then we examine the increasing feasibility of making a sustainable career out of hunting for software bugs.
+
+Show notes:
+https://www.grc.com/sn/sn-704.pdf
+https://www.grc.com/sn/sn-704.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0705/sn0705.mp3</guid>
+      <title>Spoiler</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0705/sn0705.mp3</link>
+      <description>This week we look at the zero-day exploit bidding war that&#39;s underway, the NSA&#39;s release of Ghidra, Firefox&#39;s addition of privacy enhancements which were first developed for the Tor version of Firefox, a pair of zero-days that were biting people in the wild, news of a worrisome breach at Citrix, the risk of claiming to be an unhackable aftermarket car alarm, a new and interesting &#34;windows developers chatting with users&#34; idea at Microsoft, a semi-solution to Windows updates crashing systems, detailed news of the Marriott/Starwood breach, a bit of miscellany from Elaine, a SpinRite question answered, and then we finish with SPOILER - the latest research exploiting yet another new and different consequence of speculation on Intel machines.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-705.pdf&#xA;https://www.grc.com/sn/sn-705.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0705/sn0705.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[This week we look at the zero-day exploit bidding war that's underway, the NSA's release of Ghidra, Firefox's addition of privacy enhancements which were first developed for the Tor version of Firefox, a pair of zero-days that were biting people in the wild, news of a worrisome breach at Citrix, the risk of claiming to be an unhackable aftermarket car alarm, a new and interesting "windows developers chatting with users" idea at Microsoft, a semi-solution to Windows updates crashing systems, detailed news of the Marriott/Starwood breach, a bit of miscellany from Elaine, a SpinRite question answered, and then we finish with SPOILER - the latest research exploiting yet another new and different consequence of speculation on Intel machines.
+
+Show notes:
+https://www.grc.com/sn/sn-705.pdf
+https://www.grc.com/sn/sn-705.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0706/sn0706.mp3</guid>
+      <title>Open Source eVoting</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0706/sn0706.mp3</link>
+      <description>This week we look back at last week&#39;s March Patch Madness.  We have an answer about the Win7 SHA-256 Windows Update Update; big news regarding the many attacks leveraging the recently discovered WinRAR vulnerability; what happens when Apple, Google, and GoDaddy all drop a bit; an update on a big recent jump in Mirai Botnet capability; some worrisome news about compromised Counter Strike gaming servers; some welcome privacy enhancements coming in the next Android Q; a pair of very odd web browser extensions for Chrome and Firefox from Microsoft; a bit of follow-up on last week&#39;s Spoiler topic; some closing-the-loop feedback from our terrific listeners; and an early look at a VERY exciting and encouraging project to create an entirely open eVoting system.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-706.pdf&#xA;https://www.grc.com/sn/sn-706.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0706/sn0706.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[This week we look back at last week's March Patch Madness.  We have an answer about the Win7 SHA-256 Windows Update Update; big news regarding the many attacks leveraging the recently discovered WinRAR vulnerability; what happens when Apple, Google, and GoDaddy all drop a bit; an update on a big recent jump in Mirai Botnet capability; some worrisome news about compromised Counter Strike gaming servers; some welcome privacy enhancements coming in the next Android Q; a pair of very odd web browser extensions for Chrome and Firefox from Microsoft; a bit of follow-up on last week's Spoiler topic; some closing-the-loop feedback from our terrific listeners; and an early look at a VERY exciting and encouraging project to create an entirely open eVoting system.
+
+Show notes:
+https://www.grc.com/sn/sn-706.pdf
+https://www.grc.com/sn/sn-706.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0707/sn0707.mp3</guid>
+      <title>Tesla, Pwned</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0707/sn0707.mp3</link>
+      <description>This week on Security Now! we have the return of &#34;Clippy,&#34; Microsoft&#39;s much-loathed dancing paperclip; operation &#34;ShadowHammer,&#34; which reports say compromised ASUS (but did it?); the ransomware attack on Norsk Hydro aluminum; the surprise renaming of Windows Defender; a severe bug revealed in the most popular PDF-generating PHP library; an early look at Microsoft&#39;s forthcoming Chromium-based web browser; hope for preventing caller ID spoofing; a needed update for users of PuTTY; Mozilla&#39;s decision to conditionally rely upon Windows&#39; root store; Microsoft to offer virtual Windows 7 and 10 desktops through Azure; details of the Windows 7 End of Life warning dialog; then a bit of Sci-Fi, SQRL and SpinRite news, followed by our look at the results of the much anticipated Mid-March Vancouver Pwn2Own competition - one of the results of which our episode title gives away!&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-707.pdf&#xA;https://www.grc.com/sn/sn-707.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0707/sn0707.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[This week on Security Now! we have the return of "Clippy," Microsoft's much-loathed dancing paperclip; operation "ShadowHammer," which reports say compromised ASUS (but did it?); the ransomware attack on Norsk Hydro aluminum; the surprise renaming of Windows Defender; a severe bug revealed in the most popular PDF-generating PHP library; an early look at Microsoft's forthcoming Chromium-based web browser; hope for preventing caller ID spoofing; a needed update for users of PuTTY; Mozilla's decision to conditionally rely upon Windows' root store; Microsoft to offer virtual Windows 7 and 10 desktops through Azure; details of the Windows 7 End of Life warning dialog; then a bit of Sci-Fi, SQRL and SpinRite news, followed by our look at the results of the much anticipated Mid-March Vancouver Pwn2Own competition - one of the results of which our episode title gives away!
+
+Show notes:
+https://www.grc.com/sn/sn-707.pdf
+https://www.grc.com/sn/sn-707.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0708/sn0708.mp3</guid>
+      <title>Android Security</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0708/sn0708.mp3</link>
+      <description>This week we are primarily going to share Google&#39;s well-deserved, self-congratulatory, but also very honest update on the status of Android Security at its 10th birthday.  But before that we&#39;re going to share some of the continuing news of the WinRAR vulnerability, some really interesting data on Russian GPS hacking, Android&#39;s April Fools&#39; Day patches, Tesla autopilot spoofing, some follow-up on the ASUS &#34;ShadowHammer&#34; attack and the targeted MAC addresses, the final release of the Windows 10 (last) October 2018 update, a VMware update, a SQRL question, two bits of listener feedback, and a SpinRite development question.  Then we take a look at the state of Android 10 years in.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-708.pdf&#xA;https://www.grc.com/sn/sn-708.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0708/sn0708.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[This week we are primarily going to share Google's well-deserved, self-congratulatory, but also very honest update on the status of Android Security at its 10th birthday.  But before that we're going to share some of the continuing news of the WinRAR vulnerability, some really interesting data on Russian GPS hacking, Android's April Fools' Day patches, Tesla autopilot spoofing, some follow-up on the ASUS "ShadowHammer" attack and the targeted MAC addresses, the final release of the Windows 10 (last) October 2018 update, a VMware update, a SQRL question, two bits of listener feedback, and a SpinRite development question.  Then we take a look at the state of Android 10 years in.
+
+Show notes:
+https://www.grc.com/sn/sn-708.pdf
+https://www.grc.com/sn/sn-708.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0709/sn0709.mp3</guid>
+      <title>URL &#34;Ping&#34; Tracking</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0709/sn0709.mp3</link>
+      <description>This week we discuss more news of Microsoft&#39;s Chromium-based Edge browser; the U.K. government&#39;s plan to legislate, police, and enforce online social media content; improvements to Windows 10&#39;s update management; news from the &#34;spoofing biometrics&#34; department; the worrisome state of Android mobile financial apps; an update on the NSA&#39;s Ghidra software reverse engineering tool suite; perhaps the dumbest thing Facebook has done yet (and by policy, not by mistake); an important change in Win10 1809 external storage caching policy; and a bit of miscellany and closing-the-loop feedback from our terrific listeners.  Then we&#39;re going to take a close look at another capitulation in the (virtually lost) battle against tracking our behavior on the Internet with URL &#34;ping&#34; tracking.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-709.pdf&#xA;https://www.grc.com/sn/sn-709.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Jason Howell</description>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0709/sn0709.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[This week we discuss more news of Microsoft's Chromium-based Edge browser; the U.K. government's plan to legislate, police, and enforce online social media content; improvements to Windows 10's update management; news from the "spoofing biometrics" department; the worrisome state of Android mobile financial apps; an update on the NSA's Ghidra software reverse engineering tool suite; perhaps the dumbest thing Facebook has done yet (and by policy, not by mistake); an important change in Win10 1809 external storage caching policy; and a bit of miscellany and closing-the-loop feedback from our terrific listeners.  Then we're going to take a close look at another capitulation in the (virtually lost) battle against tracking our behavior on the Internet with URL "ping" tracking.
+
+Show notes:
+https://www.grc.com/sn/sn-709.pdf
+https://www.grc.com/sn/sn-709.txt
+
+Hosts: Steve Gibson & Jason Howell]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0710/sn0710.mp3</guid>
+      <title>Dragonblood</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0710/sn0710.mp3</link>
+      <description>This week we discuss a malicious use of the URL tracking &#34;ping&#34; attribute, more on WinRAR, more third-party AV troubles with Microsoft and other new trouble from last week&#39;s Patch Tuesday, good things that Patch Tuesday accomplished for Microsoft and for Adobe, another security-tightening change being proposed by Google, Russia&#39;s Roskomnadzor finally lowering the boom on Facebook, and the incredible TajMahal APT framework.  We touch on a bit of miscellany, answer a SpinRite upgrade question, and share some closing-the-loop feedback from our listeners.  We close with a look at Dragonblood, the first effective attack on the new WPA3 protocol (which didn&#39;t take long).&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-710.pdf&#xA;https://www.grc.com/sn/sn-710.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0710/sn0710.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[This week we discuss a malicious use of the URL tracking "ping" attribute, more on WinRAR, more third-party AV troubles with Microsoft and other new trouble from last week's Patch Tuesday, good things that Patch Tuesday accomplished for Microsoft and for Adobe, another security-tightening change being proposed by Google, Russia's Roskomnadzor finally lowering the boom on Facebook, and the incredible TajMahal APT framework.  We touch on a bit of miscellany, answer a SpinRite upgrade question, and share some closing-the-loop feedback from our listeners.  We close with a look at Dragonblood, the first effective attack on the new WPA3 protocol (which didn't take long).
+
+Show notes:
+https://www.grc.com/sn/sn-710.pdf
+https://www.grc.com/sn/sn-710.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0711/sn0711.mp3</guid>
+      <title>DNSpionage</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0711/sn0711.mp3</link>
+      <description>This week we discuss Google&#39;s use of their Sensorvault tracking to assist law enforcement.  It&#39;s time to update Drupal again.  And, speaking of &#34;again,&#34; Facebook.  We also look at Russia&#39;s newly approved legislation moving toward an Internet &#34;off switch,&#34; a reminder that &#34;USB Killers&#34; are a real thing, the news of Marcus Hutchins&#39;s plea deal, an actively exploited Windows zero-day, a bunch of Microsoft Edge news, the Win7 end-of-life notices, something from the &#34;I did say this was bound to happen&#34; department, and some miscellaneous news.  Then we examine the latest detailed threat research from Cisco&#39;s Talos Group about the leveraging of DNSpionage.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-711.pdf&#xA;https://www.grc.com/sn/sn-711.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0711/sn0711.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[This week we discuss Google's use of their Sensorvault tracking to assist law enforcement.  It's time to update Drupal again.  And, speaking of "again," Facebook.  We also look at Russia's newly approved legislation moving toward an Internet "off switch," a reminder that "USB Killers" are a real thing, the news of Marcus Hutchins's plea deal, an actively exploited Windows zero-day, a bunch of Microsoft Edge news, the Win7 end-of-life notices, something from the "I did say this was bound to happen" department, and some miscellaneous news.  Then we examine the latest detailed threat research from Cisco's Talos Group about the leveraging of DNSpionage.
+
+Show notes:
+https://www.grc.com/sn/sn-711.pdf
+https://www.grc.com/sn/sn-711.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0712/sn0712.mp3</guid>
+      <title>Credential Stuffing Attacks</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0712/sn0712.mp3</link>
+      <description>This week we look at more privacy fallout from our recent coverage of Facebook and Google.  We examine the uptake rate of recent Windows 10 feature releases.  We finally know the source of the AV troubles with the April Patch Tuesday updates.  We look at the NIST&#39;s formal fuzzing development, consider the source of a massive and ongoing database data leak involving more than half of all American households, note that Windows Insiders are already finding that their systems won&#39;t update to the May 2019 feature update, and address the concerns of United Airlines passengers who have noticed and been understandably upset by seatback cameras pointing at them.  Finally, we have the &#34;Cranky Old Guy Tip of the Week,&#34; touch on a bit of miscellany, then take a look at what many in the security industry are watching with concern:  the large and emerging threat of website credential stuffing attacks.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-712.pdf&#xA;https://www.grc.com/sn/sn-712.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0712/sn0712.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[This week we look at more privacy fallout from our recent coverage of Facebook and Google.  We examine the uptake rate of recent Windows 10 feature releases.  We finally know the source of the AV troubles with the April Patch Tuesday updates.  We look at the NIST's formal fuzzing development, consider the source of a massive and ongoing database data leak involving more than half of all American households, note that Windows Insiders are already finding that their systems won't update to the May 2019 feature update, and address the concerns of United Airlines passengers who have noticed and been understandably upset by seatback cameras pointing at them.  Finally, we have the "Cranky Old Guy Tip of the Week," touch on a bit of miscellany, then take a look at what many in the security industry are watching with concern:  the large and emerging threat of website credential stuffing attacks.
+
+Show notes:
+https://www.grc.com/sn/sn-712.pdf
+https://www.grc.com/sn/sn-712.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0713/sn0713.mp3</guid>
+      <title>Post-Coinhive Cryptojacking</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0713/sn0713.mp3</link>
+      <description>This week we look at the mess arising from Mozilla&#39;s intermediate certificate expiration (the most tweeted event in my feed in a LONG time!), Google&#39;s announcement of self-expiring data retention, another wrinkle in the exploit marketplace, Mozilla&#39;s announcement about deliberate code obfuscation, a hacker who hacked at least 29 other botnet hackers, a warning about a very popular D-Link netcam, who&#39;s paying and who&#39;s receiving bug bounties by country, another user-agent gotcha with Google Docs, a problem with Google Earth on the new Chromium Edge browser, and a bit more about Edge&#39;s future just dropped at the start of Microsoft&#39;s Build 2019 conference.  Then we take a look at the continuing and changing world of cryptojacking after Coinhive closed their doors last month.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-713.pdf&#xA;https://www.grc.com/sn/sn-713.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0713/sn0713.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[This week we look at the mess arising from Mozilla's intermediate certificate expiration (the most tweeted event in my feed in a LONG time!), Google's announcement of self-expiring data retention, another wrinkle in the exploit marketplace, Mozilla's announcement about deliberate code obfuscation, a hacker who hacked at least 29 other botnet hackers, a warning about a very popular D-Link netcam, who's paying and who's receiving bug bounties by country, another user-agent gotcha with Google Docs, a problem with Google Earth on the new Chromium Edge browser, and a bit more about Edge's future just dropped at the start of Microsoft's Build 2019 conference.  Then we take a look at the continuing and changing world of cryptojacking after Coinhive closed their doors last month.
+
+Show notes:
+https://www.grc.com/sn/sn-713.pdf
+https://www.grc.com/sn/sn-713.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0714/sn0714.mp3</guid>
+      <title>Android &#34;Q&#34;</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0714/sn0714.mp3</link>
+      <description>This week we look at a widespread problem affecting all WhatsApp users, many interesting bits of news arising from last week&#39;s Google I/O 2019 conference, a worrisome remotely exploitable flaw in all Linux kernels earlier than v5.0.8, the just released hours ago new set of flaws affecting all Intel processors known as ZombieLoad, a bit of miscellany, and some odds and ends.  Then we take a deep look into the significant security enhancements Google also announced in their next release of Android:  Q.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-714.pdf&#xA;https://www.grc.com/sn/sn-714.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0714/sn0714.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[This week we look at a widespread problem affecting all WhatsApp users, many interesting bits of news arising from last week's Google I/O 2019 conference, a worrisome remotely exploitable flaw in all Linux kernels earlier than v5.0.8, the just released hours ago new set of flaws affecting all Intel processors known as ZombieLoad, a bit of miscellany, and some odds and ends.  Then we take a deep look into the significant security enhancements Google also announced in their next release of Android:  Q.
+
+Show notes:
+https://www.grc.com/sn/sn-714.pdf
+https://www.grc.com/sn/sn-714.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0715/sn0715.mp3</guid>
+      <title>CPU.fail</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0715/sn0715.mp3</link>
+      <description>As expected after last week&#39;s Tuesday morning end-of-embargo on details of the next round of Intel processor information leakage problems, we will take a closer look at the new challenges they create and the impact of their remediation on system performance and stability.  But before that we look at last Tuesday&#39;s patches from Microsoft, Adobe, and Apple.  We examine a new big security problem for Cisco that even has stock analysts taking notice.  We check in on the ongoing troubles with the cryptocurrency market, see what Johns Hopkins associate professor Matthew Green tweeted about the trouble with Google&#39;s Titan Bluetooth dongle, and deal with yet another monthly problem with Windows 10 updates.  We touch on a bit of miscellany, then wrap up with a look at the new so-called Microarchitectural Data Sampling vulnerabilities.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-715.pdf&#xA;https://www.grc.com/sn/sn-715.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0715/sn0715.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[As expected after last week's Tuesday morning end-of-embargo on details of the next round of Intel processor information leakage problems, we will take a closer look at the new challenges they create and the impact of their remediation on system performance and stability.  But before that we look at last Tuesday's patches from Microsoft, Adobe, and Apple.  We examine a new big security problem for Cisco that even has stock analysts taking notice.  We check in on the ongoing troubles with the cryptocurrency market, see what Johns Hopkins associate professor Matthew Green tweeted about the trouble with Google's Titan Bluetooth dongle, and deal with yet another monthly problem with Windows 10 updates.  We touch on a bit of miscellany, then wrap up with a look at the new so-called Microarchitectural Data Sampling vulnerabilities.
+
+Show notes:
+https://www.grc.com/sn/sn-715.pdf
+https://www.grc.com/sn/sn-715.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0716/sn0716.mp3</guid>
+      <title>RDP:  Really Do Patch</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0716/sn0716.mp3</link>
+      <description>This week we primarily focus upon the almost certainly impending doom of the Internet, as the Windows Remote Desktop Protocol saga finishes out its second week with a great deal of news and new evidence-based expectation for the end of humanity as we have known it.  Okay, well, maybe it won&#39;t be quite that dramatic, but it already makes last year&#39;s Meltdown and Spectre flaws seem quaint.  But before we get to that, we take a look at the FIVE new zero-day exploits just dropped by SandboxEscaper, Google&#39;s discovery and confession of 14 years of cleartext password storage, Microsoft&#39;s just-released Win10 Feature Update 1903, Firefox&#39;s release 67, and some interesting new data about the prevalence of validly signed malware.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-716.pdf&#xA;https://www.grc.com/sn/sn-716.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0716/sn0716.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[This week we primarily focus upon the almost certainly impending doom of the Internet, as the Windows Remote Desktop Protocol saga finishes out its second week with a great deal of news and new evidence-based expectation for the end of humanity as we have known it.  Okay, well, maybe it won't be quite that dramatic, but it already makes last year's Meltdown and Spectre flaws seem quaint.  But before we get to that, we take a look at the FIVE new zero-day exploits just dropped by SandboxEscaper, Google's discovery and confession of 14 years of cleartext password storage, Microsoft's just-released Win10 Feature Update 1903, Firefox's release 67, and some interesting new data about the prevalence of validly signed malware.
+
+Show notes:
+https://www.grc.com/sn/sn-716.pdf
+https://www.grc.com/sn/sn-716.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+  </channel>
+</rss>

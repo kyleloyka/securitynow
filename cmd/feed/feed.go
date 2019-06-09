@@ -10,7 +10,7 @@ import (
 
 func main() {
 	startEp := flag.Int("startEpisode", 1, "start feed at episode number")
-	endEp := flag.Int("endEpisode", 716, "end feed at episode number")
+	endEp := flag.Int("endEpisode", 717, "end feed at episode number")
 	verbose := flag.Bool("v", false, "verbose logging (default: false)")
 	flag.Parse()
 
@@ -42,7 +42,7 @@ func addToFeed(feed *securitynow.Feed, ep *episode.Episode, verbose bool) *secur
 	if err != nil {
 		log.Printf("Error: adding episode to feed: %v", err)
 	} else if verbose {
-		log.Printf("Information: added episode %d to year %d", ep.Number, ep.Date.Year())
+		log.Printf("Information: added episode %d to year %d", ep.Number, feed.Year)
 	}
 	return feed
 }
@@ -50,7 +50,7 @@ func addToFeed(feed *securitynow.Feed, ep *episode.Episode, verbose bool) *secur
 func generateFeed(start, end int, verboseLogging bool) {
 	var feed *securitynow.Feed
 
-	for i := start; i < end; i++ {
+	for i := start; i < end+1; i++ {
 		ep, err := securitynow.Fetch(i)
 		if err != nil {
 			if err == securitynow.ErrEpisodeNotesNotFound {

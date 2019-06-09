@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Security Now! - 2005</title>
+    <link>https://www.twit.tv/shows/security-now</link>
+    <description>Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte.</description>
+    <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+    <image>
+      <url>https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg</url>
+      <title>Security Now! - 2005</title>
+      <link>https://www.twit.tv/shows/security-now</link>
+    </image>
+    <itunes:summary><![CDATA[Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte.]]></itunes:summary>
+    <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0001/sn0001.mp3</guid>
+      <title>As the worm turns: The first Internet worms of 2005</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0001/sn0001.mp3</link>
+      <description>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days.  What does this mean for the future of Internet security?&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-001.pdf&#xA;https://www.grc.com/sn/sn-001.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Fri, 19 Aug 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0001/sn0001.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days.  What does this mean for the future of Internet security?
+
+Show notes:
+https://www.grc.com/sn/sn-001.pdf
+https://www.grc.com/sn/sn-001.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0002/sn0002.mp3</guid>
+      <title>&#34;HoneyMonkeys&#34;</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0002/sn0002.mp3</link>
+      <description>How Microsoft&#39;s &#34;HoneyMonkey&#34; system works, how it finds malicious web sites before they find you, and what Microsoft is doing (and NOT doing) with this valuable security information it is now collecting.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-002.pdf&#xA;https://www.grc.com/sn/sn-002.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Thu, 25 Aug 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0002/sn0002.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[How Microsoft's "HoneyMonkey" system works, how it finds malicious web sites before they find you, and what Microsoft is doing (and NOT doing) with this valuable security information it is now collecting.
+
+Show notes:
+https://www.grc.com/sn/sn-002.pdf
+https://www.grc.com/sn/sn-002.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0003/sn0003.mp3</guid>
+      <title>NAT Router Firewalls</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0003/sn0003.mp3</link>
+      <description>How and why any simple NAT Router makes a terrific hardware firewall. (And what you must disable to prevent it from being bypassed!)&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-003.pdf&#xA;https://www.grc.com/sn/sn-003.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0003/sn0003.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[How and why any simple NAT Router makes a terrific hardware firewall. (And what you must disable to prevent it from being bypassed!)
+
+Show notes:
+https://www.grc.com/sn/sn-003.pdf
+https://www.grc.com/sn/sn-003.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0004/sn0004.mp3</guid>
+      <title>Personal Password Policy</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0004/sn0004.mp3</link>
+      <description>Everyone who uses web-based services such as eBay, Amazon, and Yahoo, needs to authenticate their identity with passwords.  Password quality is important since easily guessable passwords can be easily defeated.  Leo and I recap a bit from last week&#39;s program, then discuss passwords.  We suggest an approach that anyone can use to easily create unbreakable passwords.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-004.pdf&#xA;https://www.grc.com/sn/sn-004.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Thu, 08 Sep 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0004/sn0004.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[Everyone who uses web-based services such as eBay, Amazon, and Yahoo, needs to authenticate their identity with passwords.  Password quality is important since easily guessable passwords can be easily defeated.  Leo and I recap a bit from last week's program, then discuss passwords.  We suggest an approach that anyone can use to easily create unbreakable passwords.
+
+Show notes:
+https://www.grc.com/sn/sn-004.pdf
+https://www.grc.com/sn/sn-004.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0005/sn0005.mp3</guid>
+      <title>Personal Password Policy - Part 2</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0005/sn0005.mp3</link>
+      <description>Our previous episode (#4), which discussed personal password policies, generated so much great listener feedback, thoughts, ideas, and reminders about things we didn&#39;t mention, that we decided to wrap up this important topic with a final episode to share listeners&#39; ideas and to clarify some things we left unsaid.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-005.pdf&#xA;https://www.grc.com/sn/sn-005.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Thu, 15 Sep 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0005/sn0005.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[Our previous episode (#4), which discussed personal password policies, generated so much great listener feedback, thoughts, ideas, and reminders about things we didn't mention, that we decided to wrap up this important topic with a final episode to share listeners' ideas and to clarify some things we left unsaid.
+
+Show notes:
+https://www.grc.com/sn/sn-005.pdf
+https://www.grc.com/sn/sn-005.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0006/sn0006.mp3</guid>
+      <title>Mechanical &amp; Electromagnetic Information Leakage</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0006/sn0006.mp3</link>
+      <description>Triggered by a recent report of three UC Berkeley researchers recovering text typed at a keyboard (any keyboard) after simply listening to ten minutes of typing, Leo and I discuss the weird realm of &#34;alternative information leakage&#34; - from CRTs glowing, to radio emissions, to LED lamps on the front of network equipment...to a microphone listening to anyone typing.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-006.pdf&#xA;https://www.grc.com/sn/sn-006.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Thu, 22 Sep 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0006/sn0006.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[Triggered by a recent report of three UC Berkeley researchers recovering text typed at a keyboard (any keyboard) after simply listening to ten minutes of typing, Leo and I discuss the weird realm of "alternative information leakage" - from CRTs glowing, to radio emissions, to LED lamps on the front of network equipment...to a microphone listening to anyone typing.
+
+Show notes:
+https://www.grc.com/sn/sn-006.pdf
+https://www.grc.com/sn/sn-006.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0007/sn0007.mp3</guid>
+      <title>SPYaWAREness</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0007/sn0007.mp3</link>
+      <description>Any contemporary discussion of threats to Internet security must discuss the history, current situation, and future of spyware.  Leo and I spend a little more time than usual covering many aspects of this important topic. DON&#39;T MISS the Episode Notes Page for this episode!&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-007.pdf&#xA;https://www.grc.com/sn/sn-007.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Fri, 30 Sep 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0007/sn0007.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[Any contemporary discussion of threats to Internet security must discuss the history, current situation, and future of spyware.  Leo and I spend a little more time than usual covering many aspects of this important topic. DON'T MISS the Episode Notes Page for this episode!
+
+Show notes:
+https://www.grc.com/sn/sn-007.pdf
+https://www.grc.com/sn/sn-007.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0008/sn0008.mp3</guid>
+      <title>DDoS Attacks</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0008/sn0008.mp3</link>
+      <description>Distributed Denial of Service (DDoS) attacks are occurring with ever-greater frequency every day. Although these damaging attacks are often used to extort high-profile gaming and gambling sites before major gambling events, attacks are also launched against individual users who do something to annoy &#34;zombie fleet masters&#34; while they are online. Some router and firewall vendors claim that their devices prevent DDoS attacks. Is that possible? What can be done to dodge the bullet of a DDoS attack launched against you while you&#39;re online?&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-008.pdf&#xA;https://www.grc.com/sn/sn-008.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Thu, 06 Oct 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0008/sn0008.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[Distributed Denial of Service (DDoS) attacks are occurring with ever-greater frequency every day. Although these damaging attacks are often used to extort high-profile gaming and gambling sites before major gambling events, attacks are also launched against individual users who do something to annoy "zombie fleet masters" while they are online. Some router and firewall vendors claim that their devices prevent DDoS attacks. Is that possible? What can be done to dodge the bullet of a DDoS attack launched against you while you're online?
+
+Show notes:
+https://www.grc.com/sn/sn-008.pdf
+https://www.grc.com/sn/sn-008.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0009/sn0009.mp3</guid>
+      <title>Rootkits</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0009/sn0009.mp3</link>
+      <description>This week we explain &#34;rootkit technology.&#34;  We examine what rootkits are, why they have suddenly become a problem, and how that problem is rapidly growing in severity.  We also discuss their detection and removal and point listeners to some very effective free rootkit detection solutions.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-009.pdf&#xA;https://www.grc.com/sn/sn-009.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Thu, 13 Oct 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0009/sn0009.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[This week we explain "rootkit technology."  We examine what rootkits are, why they have suddenly become a problem, and how that problem is rapidly growing in severity.  We also discuss their detection and removal and point listeners to some very effective free rootkit detection solutions.
+
+Show notes:
+https://www.grc.com/sn/sn-009.pdf
+https://www.grc.com/sn/sn-009.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0010/sn0010.mp3</guid>
+      <title>Open Wireless Access Points</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0010/sn0010.mp3</link>
+      <description>Leo and I examine the security and privacy considerations of using non-encrypted (i.e., &#34;Open&#34;) wireless access points at home and in public locations.  We discuss the various ways of protecting privacy when untrusted strangers can &#34;sniff&#34; the data traffic flowing to and from your online PC.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-010.pdf&#xA;https://www.grc.com/sn/sn-010.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Thu, 20 Oct 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0010/sn0010.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[Leo and I examine the security and privacy considerations of using non-encrypted (i.e., "Open") wireless access points at home and in public locations.  We discuss the various ways of protecting privacy when untrusted strangers can "sniff" the data traffic flowing to and from your online PC.
+
+Show notes:
+https://www.grc.com/sn/sn-010.pdf
+https://www.grc.com/sn/sn-010.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0011/sn0011.mp3</guid>
+      <title>Bad WiFi Security (WEP and MAC address filtering)</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0011/sn0011.mp3</link>
+      <description>Leo and I answer some questions arising from last week&#39;s episode, then plow into a detailed discussion of the lack of security value of MAC address filtering, the futility of disabling SSIDs for security, and the extremely poor security offered by the first-generation WEP encryption system.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-011.pdf&#xA;https://www.grc.com/sn/sn-011.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Thu, 27 Oct 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0011/sn0011.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[Leo and I answer some questions arising from last week's episode, then plow into a detailed discussion of the lack of security value of MAC address filtering, the futility of disabling SSIDs for security, and the extremely poor security offered by the first-generation WEP encryption system.
+
+Show notes:
+https://www.grc.com/sn/sn-011.pdf
+https://www.grc.com/sn/sn-011.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0012/sn0012.mp3</guid>
+      <title>Sony&#39;s &#34;Rootkit Technology&#34; DRM  (copy protection gone bad)</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0012/sn0012.mp3</link>
+      <description>Leo and I discuss details and consequences of Sony Corporation&#39;s alarming &#34;Rootkit&#34; DRM (digital rights management) copy protection scheme.  This poorly written software unnecessarily employs classic rootkit technology (see episode #9) to hide from its users after installation.  It can not be uninstalled easily, it can be easily misused for malicious purposes, and it has been implicated in many repeated BSOD &#34;blue screen of death&#34; PC crashes.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-012.pdf&#xA;https://www.grc.com/sn/sn-012.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Wed, 02 Nov 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0012/sn0012.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[Leo and I discuss details and consequences of Sony Corporation's alarming "Rootkit" DRM (digital rights management) copy protection scheme.  This poorly written software unnecessarily employs classic rootkit technology (see episode #9) to hide from its users after installation.  It can not be uninstalled easily, it can be easily misused for malicious purposes, and it has been implicated in many repeated BSOD "blue screen of death" PC crashes.
+
+Show notes:
+https://www.grc.com/sn/sn-012.pdf
+https://www.grc.com/sn/sn-012.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0013/sn0013.mp3</guid>
+      <title>Unbreakable WiFi Security</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0013/sn0013.mp3</link>
+      <description>Leo and I follow up on last week&#39;s discussion of the Sony Rootkit debacle with the distressing news of &#34;phoning home&#34; (spyware) behavior from the Sony DRM software, and the rootkit&#39;s exploitation by a new malicious backdoor Trojan.  We then return to complete our discussion of WiFi security, demystifying the many confusing flavors of WPA encryption and presenting several critical MUST DO tips for WPA users.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-013.pdf&#xA;https://www.grc.com/sn/sn-013.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Thu, 10 Nov 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0013/sn0013.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[Leo and I follow up on last week's discussion of the Sony Rootkit debacle with the distressing news of "phoning home" (spyware) behavior from the Sony DRM software, and the rootkit's exploitation by a new malicious backdoor Trojan.  We then return to complete our discussion of WiFi security, demystifying the many confusing flavors of WPA encryption and presenting several critical MUST DO tips for WPA users.
+
+Show notes:
+https://www.grc.com/sn/sn-013.pdf
+https://www.grc.com/sn/sn-013.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0014/sn0014.mp3</guid>
+      <title>Virtual Private Networks (VPN): Theory</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0014/sn0014.mp3</link>
+      <description>Leo and I first follow-up on the past two episodes, discussing new developments in the continuing Sony Rootkit DRM drama, and some confusion over the crackability of WPA passphrases. Then, in this first of our two-part series on VPNs, we discuss the theory of VPN connections and tunnels, explaining how they work and why they represent such a terrific solution for anyone on the go.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-014.pdf&#xA;https://www.grc.com/sn/sn-014.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Thu, 17 Nov 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0014/sn0014.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[Leo and I first follow-up on the past two episodes, discussing new developments in the continuing Sony Rootkit DRM drama, and some confusion over the crackability of WPA passphrases. Then, in this first of our two-part series on VPNs, we discuss the theory of VPN connections and tunnels, explaining how they work and why they represent such a terrific solution for anyone on the go.
+
+Show notes:
+https://www.grc.com/sn/sn-014.pdf
+https://www.grc.com/sn/sn-014.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0015/sn0015.mp3</guid>
+      <title>VPN Secure Tunneling Solutions</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0015/sn0015.mp3</link>
+      <description>Leo and I discuss the use of SSL and SSH encrypted tunneling for providing privacy and security whenever an insecure local network is being used - such as at an open WiFi hotspot or when using a hotel&#39;s network.  These solutions are not transparent and tend to be configuration intensive.  They also require the use of a &#34;server&#34; of some sort at the user&#39;s home or office.  This makes these approaches less suitable for casual users, but offers a solution for the more technically inclined road warriors.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-015.pdf&#xA;https://www.grc.com/sn/sn-015.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Wed, 23 Nov 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0015/sn0015.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[Leo and I discuss the use of SSL and SSH encrypted tunneling for providing privacy and security whenever an insecure local network is being used - such as at an open WiFi hotspot or when using a hotel's network.  These solutions are not transparent and tend to be configuration intensive.  They also require the use of a "server" of some sort at the user's home or office.  This makes these approaches less suitable for casual users, but offers a solution for the more technically inclined road warriors.
+
+Show notes:
+https://www.grc.com/sn/sn-015.pdf
+https://www.grc.com/sn/sn-015.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0016/sn0016.mp3</guid>
+      <title>Listener Feedback Q&amp;A #1</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0016/sn0016.mp3</link>
+      <description>Leo and I discuss questions asked by listeners of our previous episodes.  We tie up loose ends, discuss a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#34;application notes&#34; for any of the security technologies we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-016.pdf&#xA;https://www.grc.com/sn/sn-016.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Thu, 01 Dec 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0016/sn0016.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[Leo and I discuss questions asked by listeners of our previous episodes.  We tie up loose ends, discuss a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world "application notes" for any of the security technologies we have previously discussed.
+
+Show notes:
+https://www.grc.com/sn/sn-016.pdf
+https://www.grc.com/sn/sn-016.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0017/sn0017.mp3</guid>
+      <title>PPTP and IPSec VPN Technology</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0017/sn0017.mp3</link>
+      <description>In our continuing exploration of VPN technology for protecting network users on networks they don&#39;t control, Leo and I discuss the oldest &#34;original&#34; VPN protocols: Industry standard IPSec, and Microsoft&#39;s own PPTP and L2TP/IPSec.  We examine and explain the trouble with interconnecting Windows machines to third-party VPN routers and examine the many reasons these older technologies are probably not optimal for on-the-go road warriors.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-017.pdf&#xA;https://www.grc.com/sn/sn-017.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Thu, 08 Dec 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0017/sn0017.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[In our continuing exploration of VPN technology for protecting network users on networks they don't control, Leo and I discuss the oldest "original" VPN protocols: Industry standard IPSec, and Microsoft's own PPTP and L2TP/IPSec.  We examine and explain the trouble with interconnecting Windows machines to third-party VPN routers and examine the many reasons these older technologies are probably not optimal for on-the-go road warriors.
+
+Show notes:
+https://www.grc.com/sn/sn-017.pdf
+https://www.grc.com/sn/sn-017.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0018/sn0018.mp3</guid>
+      <title>Hamachi Rocks!</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0018/sn0018.mp3</link>
+      <description>This week Leo and I discuss and describe the brand new, ready to emerge from its long development beta phase, ultra-secure, lightweight, high-performance, highly polished, multi-platform, peer-to-peer and FREE! personal virtual private networking system known as &#34;Hamachi.&#34;  After two solid weeks of testing and intense dialog with Hamachi&#39;s lead developer and designer, I have fully vetted the system&#39;s security architecture and have it running on many of my systems.  While I am traveling to Toronto this week, Hamachi is keeping my roaming laptop securely and directly connected to all of my machines back home. Don&#39;t miss this one!&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-018.pdf&#xA;https://www.grc.com/sn/sn-018.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Thu, 15 Dec 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0018/sn0018.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[This week Leo and I discuss and describe the brand new, ready to emerge from its long development beta phase, ultra-secure, lightweight, high-performance, highly polished, multi-platform, peer-to-peer and FREE! personal virtual private networking system known as "Hamachi."  After two solid weeks of testing and intense dialog with Hamachi's lead developer and designer, I have fully vetted the system's security architecture and have it running on many of my systems.  While I am traveling to Toronto this week, Hamachi is keeping my roaming laptop securely and directly connected to all of my machines back home. Don't miss this one!
+
+Show notes:
+https://www.grc.com/sn/sn-018.pdf
+https://www.grc.com/sn/sn-018.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0019/sn0019.mp3</guid>
+      <title>VPNs Three: Hamachi, iPig, and OpenVPN</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0019/sn0019.mp3</link>
+      <description>Leo and I wrap up our multi-week, in-depth coverage of PC VPN solutions by discussing some aftermath of the zero-configuration Hamachi system; introducing &#34;iPig,&#34; a very appealing new zero-configuration VPN contender; and describing the many faces of OpenVPN, the &#34;Swiss army knife&#34; of VPN solutions.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-019.pdf&#xA;https://www.grc.com/sn/sn-019.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Thu, 22 Dec 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0019/sn0019.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[Leo and I wrap up our multi-week, in-depth coverage of PC VPN solutions by discussing some aftermath of the zero-configuration Hamachi system; introducing "iPig," a very appealing new zero-configuration VPN contender; and describing the many faces of OpenVPN, the "Swiss army knife" of VPN solutions.
+
+Show notes:
+https://www.grc.com/sn/sn-019.pdf
+https://www.grc.com/sn/sn-019.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0020/sn0020.mp3</guid>
+      <title>A SERIOUS new Windows vulnerability - and Listener Q&amp;A #2</title>
+      <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0020/sn0020.mp3</link>
+      <description>On December 28th a serious new Windows vulnerability appeared and was immediately exploited by a growing number of malicious web sites to install malware.  Many worse viruses and worms are expected soon.  We start off discussing this, and our show notes provide a quick necessary workaround until Microsoft provides a patch.  Then we spend the next 45 minutes answering and discussing interesting listener questions.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-020.pdf&#xA;https://www.grc.com/sn/sn-020.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <pubDate>Thu, 29 Dec 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0020/sn0020.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:summary><![CDATA[On December 28th a serious new Windows vulnerability appeared and was immediately exploited by a growing number of malicious web sites to install malware.  Many worse viruses and worms are expected soon.  We start off discussing this, and our show notes provide a quick necessary workaround until Microsoft provides a patch.  Then we spend the next 45 minutes answering and discussing interesting listener questions.
+
+Show notes:
+https://www.grc.com/sn/sn-020.pdf
+https://www.grc.com/sn/sn-020.txt
+
+Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
+      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    </item>
+  </channel>
+</rss>
