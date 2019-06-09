@@ -6,6 +6,7 @@ import (
 	"errors"
 	"fmt"
 	"net/url"
+	"regexp"
 	"strconv"
 	"strings"
 	"time"
@@ -35,8 +36,10 @@ func parseEpisode(body []byte) (*episode.Episode, error) {
 		if len(x) <= 1 {
 			continue
 		}
-		fields[x[0]] = strings.Trim(strings.Replace(x[1], "\t", " ", -1), " ")
-		if x[0] == "DESCRIPTION" || linesReadAfterDesc != 0 {
+
+		fieldName := strings.ToLower(x[0])
+		fields[fieldName] = strings.Trim(strings.Replace(x[1], "\t", " ", -1), " ")
+		if fieldName == "description" || linesReadAfterDesc != 0 {
 			sawDescription = true
 			linesReadAfterDesc++
 		}
@@ -49,35 +52,40 @@ func parseEpisode(body []byte) (*episode.Episode, error) {
 	}
 
 	ep := new(episode.Episode)
-	ep.Series = fields["SERIES"]
-	ep.Title = fields["TITLE"]
-	ep.Description = fields["DESCRIPTION"]
+	ep.Series = fields["series"]
+	ep.Title = fields["title"]
+	ep.Description = fields["description"]
 
 	var err error
-	ep.Homepage, err = findField(fields, []string{"ARCHIVE", "FILE ARCHIVE"}, "Homepage")
+	ep.Homepage, err = findField(fields, []string{"archive", "file archive"}, "Homepage")
 	if err != nil {
 		return nil, err
 	}
 
-	ep.Hosts, err = findField(fields, []string{"HOSTS", "SPEAKERS"}, "Hosts")
+	ep.Hosts, err = findField(fields, []string{"hosts", "speakers"}, "Hosts")
 	if err != nil {
 		return nil, err
 	}
 
-	if number, err := strconv.Atoi(strings.TrimPrefix(fields["EPISODE"], "#")); err == nil {
+	if number, err := strconv.Atoi(strings.TrimPrefix(fields["episode"], "#")); err == nil {
 		ep.Number = number
 	} else {
 		return nil, err
 	}
 
-	media := fmt.Sprintf(cdnMP3URL, ep.Number, ep.Number)
+	media := GenerateCDNURL(ep.Number)
 	if link, err := url.Parse(media); err == nil {
 		ep.Media = *link
 	} else {
 		return nil, err
 	}
 
-	if date, err := time.Parse("January 2, 2006", fields["DATE"]); err == nil {
+	// Special handling for SN 199 date
+	if len(fields["date"]) >= 3 && fields["date"][:3] == "une" {
+		fields["date"] = "J" + fields["date"]
+	}
+
+	if date, err := time.Parse("January 2, 2006", ordinalToIntReplacement(fields["date"])); err == nil {
 		ep.Date = date
 	} else {
 		return nil, err
@@ -93,4 +101,16 @@ func findField(fields map[string]string, fieldNames []string, modelName string) 
 		}
 	}
 	return "", fmt.Errorf("Could not find field for %q", modelName)
+}
+
+// GenerateCDNURL Generates the CDN mp3 url for the given episode number
+func GenerateCDNURL(episodeNumber int) string {
+	return fmt.Sprintf(cdnMP3URL, episodeNumber, episodeNumber)
+}
+
+// ordinalToIntReplacement replaces all ordinal (1st, 2nd, 3rd, 4th etc.) substrings with their
+// corresponding integer values (1, 2, 3, 4, etc.)
+func ordinalToIntReplacement(s string) string {
+	re := regexp.MustCompile(`\b(\d{1,2})\s*([a-zA-Z]{2})\b`)
+	return re.ReplaceAllString(s, "$1")
 }
