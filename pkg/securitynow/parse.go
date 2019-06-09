@@ -64,15 +64,15 @@ func parseEpisode(body []byte) (*episode.Episode, error) {
 		return nil, err
 	}
 
-	media, err := findField(fields, []string{"SOURCE", "SOURCE FILE"}, "Media")
-	if link, err := url.Parse(media); err == nil {
-		ep.Media = *link
+	if number, err := strconv.Atoi(strings.TrimPrefix(fields["EPISODE"], "#")); err == nil {
+		ep.Number = number
 	} else {
 		return nil, err
 	}
 
-	if number, err := strconv.Atoi(strings.TrimPrefix(fields["EPISODE"], "#")); err == nil {
-		ep.Number = number
+	media := fmt.Sprintf(cdnMP3URL, ep.Number, ep.Number)
+	if link, err := url.Parse(media); err == nil {
+		ep.Media = *link
 	} else {
 		return nil, err
 	}

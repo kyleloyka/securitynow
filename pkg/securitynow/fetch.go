@@ -10,9 +10,6 @@ import (
 	"github.com/kyleloyka/securitynow/pkg/episode"
 )
 
-var showNotesURL = "https://www.grc.com/sn/sn-%03d.txt"
-var showNotesHeaderSize int64 = 3000
-
 // Fetch gets the metadata for a particular Security Now episode
 func Fetch(episodeNumber int) (*episode.Episode, error) {
 	metadataURL := fmt.Sprintf(showNotesURL, episodeNumber)

@@ -103,7 +103,8 @@ func indexAtPercent(b []byte, percent float64) int {
 	return int(float64(len(b)) * percent)
 }
 
-var SN001Url, _ = url.Parse("http://media.GRC.com/sn/SN-001.mp3")
+var SN001Url, _ = url.Parse("https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/" +
+	"cdn.twit.tv/audio/sn/sn0001/sn0001.mp3")
 var SN001Header = []byte(`GIBSON RESEARCH CORPORATION	http://www.GRC.com/
 
 SERIES:		Security Now!
@@ -120,7 +121,8 @@ LEO LAPORTE:  Hi, this is Leo Laporte, and I'd like to introduce a brand-new pod
 
 STEVE GIBSON:  Right.`)
 
-var SN700Url, _ = url.Parse("https://media.grc.com/sn/sn-700.mp3")
+var SN700Url, _ = url.Parse("https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/" +
+	"cdn.twit.tv/audio/sn/sn0700/sn0700.mp3")
 var SN700Header = []byte(`GIBSON RESEARCH CORPORATION		https://www.GRC.com/
 
 SERIES:		Security Now!
