@@ -9,12 +9,12 @@
     <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
     <image>
-      <url>https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg</url>
+      <url>https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png</url>
       <title>Security Now! - 2015</title>
       <link>https://www.twit.tv/shows/security-now</link>
     </image>
     <itunes:summary><![CDATA[Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte.]]></itunes:summary>
-    <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0489/sn0489.mp3</guid>
       <title>Listener Feedback #204</title>
@@ -29,7 +29,7 @@ https://www.grc.com/sn/sn-489.pdf
 https://www.grc.com/sn/sn-489.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0490/sn0490.mp3</guid>
@@ -45,7 +45,7 @@ https://www.grc.com/sn/sn-490.pdf
 https://www.grc.com/sn/sn-490.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0491/sn0491.mp3</guid>
@@ -61,7 +61,7 @@ https://www.grc.com/sn/sn-491.pdf
 https://www.grc.com/sn/sn-491.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0492/sn0492.mp3</guid>
@@ -77,7 +77,7 @@ https://www.grc.com/sn/sn-492.pdf
 https://www.grc.com/sn/sn-492.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0493/sn0493.mp3</guid>
@@ -93,7 +93,7 @@ https://www.grc.com/sn/sn-493.pdf
 https://www.grc.com/sn/sn-493.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0494/sn0494.mp3</guid>
@@ -109,7 +109,7 @@ https://www.grc.com/sn/sn-494.pdf
 https://www.grc.com/sn/sn-494.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0495/sn0495.mp3</guid>
@@ -125,7 +125,7 @@ https://www.grc.com/sn/sn-495.pdf
 https://www.grc.com/sn/sn-495.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0496/sn0496.mp3</guid>
@@ -141,7 +141,7 @@ https://www.grc.com/sn/sn-496.pdf
 https://www.grc.com/sn/sn-496.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0497/sn0497.mp3</guid>
@@ -157,7 +157,7 @@ https://www.grc.com/sn/sn-497.pdf
 https://www.grc.com/sn/sn-497.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0498/sn0498.mp3</guid>
@@ -173,7 +173,7 @@ https://www.grc.com/sn/sn-498.pdf
 https://www.grc.com/sn/sn-498.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0499/sn0499.mp3</guid>
@@ -189,7 +189,7 @@ https://www.grc.com/sn/sn-499.pdf
 https://www.grc.com/sn/sn-499.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0500/sn0500.mp3</guid>
@@ -205,7 +205,7 @@ https://www.grc.com/sn/sn-500.pdf
 https://www.grc.com/sn/sn-500.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0501/sn0501.mp3</guid>
@@ -221,7 +221,7 @@ https://www.grc.com/sn/sn-501.pdf
 https://www.grc.com/sn/sn-501.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0502/sn0502.mp3</guid>
@@ -237,7 +237,7 @@ https://www.grc.com/sn/sn-502.pdf
 https://www.grc.com/sn/sn-502.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0503/sn0503.mp3</guid>
@@ -253,7 +253,7 @@ https://www.grc.com/sn/sn-503.pdf
 https://www.grc.com/sn/sn-503.txt
 
 Hosts: Steve Gibson & Mike Elgan]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0504/sn0504.mp3</guid>
@@ -269,7 +269,7 @@ https://www.grc.com/sn/sn-504.pdf
 https://www.grc.com/sn/sn-504.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0505/sn0505.mp3</guid>
@@ -285,7 +285,7 @@ https://www.grc.com/sn/sn-505.pdf
 https://www.grc.com/sn/sn-505.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0506/sn0506.mp3</guid>
@@ -301,7 +301,7 @@ https://www.grc.com/sn/sn-506.pdf
 https://www.grc.com/sn/sn-506.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0507/sn0507.mp3</guid>
@@ -317,7 +317,7 @@ https://www.grc.com/sn/sn-507.pdf
 https://www.grc.com/sn/sn-507.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0508/sn0508.mp3</guid>
@@ -333,7 +333,7 @@ https://www.grc.com/sn/sn-508.pdf
 https://www.grc.com/sn/sn-508.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0509/sn0509.mp3</guid>
@@ -349,7 +349,7 @@ https://www.grc.com/sn/sn-509.pdf
 https://www.grc.com/sn/sn-509.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0510/sn0510.mp3</guid>
@@ -365,7 +365,7 @@ https://www.grc.com/sn/sn-510.pdf
 https://www.grc.com/sn/sn-510.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0511/sn0511.mp3</guid>
@@ -381,7 +381,7 @@ https://www.grc.com/sn/sn-511.pdf
 https://www.grc.com/sn/sn-511.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0512/sn0512.mp3</guid>
@@ -397,7 +397,7 @@ https://www.grc.com/sn/sn-512.pdf
 https://www.grc.com/sn/sn-512.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0513/sn0513.mp3</guid>
@@ -413,7 +413,7 @@ https://www.grc.com/sn/sn-513.pdf
 https://www.grc.com/sn/sn-513.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0514/sn0514.mp3</guid>
@@ -429,7 +429,7 @@ https://www.grc.com/sn/sn-514.pdf
 https://www.grc.com/sn/sn-514.txt
 
 Hosts: Steve Gibson & Father Robert Ballecer]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0515/sn0515.mp3</guid>
@@ -445,7 +445,7 @@ https://www.grc.com/sn/sn-515.pdf
 https://www.grc.com/sn/sn-515.txt
 
 Hosts: Steve Gibson & Father Robert Ballecer]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0516/sn0516.mp3</guid>
@@ -461,7 +461,7 @@ https://www.grc.com/sn/sn-516.pdf
 https://www.grc.com/sn/sn-516.txt
 
 Hosts: Steve Gibson & Father Robert Ballecer]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0517/sn0517.mp3</guid>
@@ -477,7 +477,7 @@ https://www.grc.com/sn/sn-517.pdf
 https://www.grc.com/sn/sn-517.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0518/sn0518.mp3</guid>
@@ -493,7 +493,7 @@ https://www.grc.com/sn/sn-518.pdf
 https://www.grc.com/sn/sn-518.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0519/sn0519.mp3</guid>
@@ -509,7 +509,7 @@ https://www.grc.com/sn/sn-519.pdf
 https://www.grc.com/sn/sn-519.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0520/sn0520.mp3</guid>
@@ -525,7 +525,7 @@ https://www.grc.com/sn/sn-520.pdf
 https://www.grc.com/sn/sn-520.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0521/sn0521.mp3</guid>
@@ -541,7 +541,7 @@ https://www.grc.com/sn/sn-521.pdf
 https://www.grc.com/sn/sn-521.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0522/sn0522.mp3</guid>
@@ -557,7 +557,7 @@ https://www.grc.com/sn/sn-522.pdf
 https://www.grc.com/sn/sn-522.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0523/sn0523.mp3</guid>
@@ -573,7 +573,7 @@ https://www.grc.com/sn/sn-523.pdf
 https://www.grc.com/sn/sn-523.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0524/sn0524.mp3</guid>
@@ -589,7 +589,7 @@ https://www.grc.com/sn/sn-524.pdf
 https://www.grc.com/sn/sn-524.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0525/sn0525.mp3</guid>
@@ -605,7 +605,7 @@ https://www.grc.com/sn/sn-525.pdf
 https://www.grc.com/sn/sn-525.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0526/sn0526.mp3</guid>
@@ -621,7 +621,7 @@ https://www.grc.com/sn/sn-526.pdf
 https://www.grc.com/sn/sn-526.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0527/sn0527.mp3</guid>
@@ -637,7 +637,7 @@ https://www.grc.com/sn/sn-527.pdf
 https://www.grc.com/sn/sn-527.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0528/sn0528.mp3</guid>
@@ -653,7 +653,7 @@ https://www.grc.com/sn/sn-528.pdf
 https://www.grc.com/sn/sn-528.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0529/sn0529.mp3</guid>
@@ -669,7 +669,7 @@ https://www.grc.com/sn/sn-529.pdf
 https://www.grc.com/sn/sn-529.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0530/sn0530.mp3</guid>
@@ -685,7 +685,7 @@ https://www.grc.com/sn/sn-530.pdf
 https://www.grc.com/sn/sn-530.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0531/sn0531.mp3</guid>
@@ -701,7 +701,7 @@ https://www.grc.com/sn/sn-531.pdf
 https://www.grc.com/sn/sn-531.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0532/sn0532.mp3</guid>
@@ -717,7 +717,7 @@ https://www.grc.com/sn/sn-532.pdf
 https://www.grc.com/sn/sn-532.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0533/sn0533.mp3</guid>
@@ -733,7 +733,7 @@ https://www.grc.com/sn/sn-533.pdf
 https://www.grc.com/sn/sn-533.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0534/sn0534.mp3</guid>
@@ -749,7 +749,7 @@ https://www.grc.com/sn/sn-534.pdf
 https://www.grc.com/sn/sn-534.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0535/sn0535.mp3</guid>
@@ -765,7 +765,7 @@ https://www.grc.com/sn/sn-535.pdf
 https://www.grc.com/sn/sn-535.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0536/sn0536.mp3</guid>
@@ -781,7 +781,7 @@ https://www.grc.com/sn/sn-536.pdf
 https://www.grc.com/sn/sn-536.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0537/sn0537.mp3</guid>
@@ -797,7 +797,7 @@ https://www.grc.com/sn/sn-537.pdf
 https://www.grc.com/sn/sn-537.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0538/sn0538.mp3</guid>
@@ -813,7 +813,7 @@ https://www.grc.com/sn/sn-538.pdf
 https://www.grc.com/sn/sn-538.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0539/sn0539.mp3</guid>
@@ -829,7 +829,7 @@ https://www.grc.com/sn/sn-539.pdf
 https://www.grc.com/sn/sn-539.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0540/sn0540.mp3</guid>
@@ -845,7 +845,7 @@ https://www.grc.com/sn/sn-540.pdf
 https://www.grc.com/sn/sn-540.txt
 
 Hosts: Steve Gibson, Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
   </channel>
 </rss>

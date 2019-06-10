@@ -9,12 +9,12 @@
     <lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
     <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
     <image>
-      <url>https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg</url>
+      <url>https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png</url>
       <title>Security Now! - 2006</title>
       <link>https://www.twit.tv/shows/security-now</link>
     </image>
     <itunes:summary><![CDATA[Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte.]]></itunes:summary>
-    <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0021/sn0021.mp3</guid>
       <title>The Windows MetaFile (WMF) Vulnerability</title>
@@ -29,7 +29,7 @@ https://www.grc.com/sn/sn-021.pdf
 https://www.grc.com/sn/sn-021.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0022/sn0022.mp3</guid>
@@ -45,7 +45,7 @@ https://www.grc.com/sn/sn-022.pdf
 https://www.grc.com/sn/sn-022.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0023/sn0023.mp3</guid>
@@ -61,7 +61,7 @@ https://www.grc.com/sn/sn-023.pdf
 https://www.grc.com/sn/sn-023.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0024/sn0024.mp3</guid>
@@ -77,7 +77,7 @@ https://www.grc.com/sn/sn-024.pdf
 https://www.grc.com/sn/sn-024.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0025/sn0025.mp3</guid>
@@ -93,7 +93,7 @@ https://www.grc.com/sn/sn-025.pdf
 https://www.grc.com/sn/sn-025.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0026/sn0026.mp3</guid>
@@ -109,7 +109,7 @@ https://www.grc.com/sn/sn-026.pdf
 https://www.grc.com/sn/sn-026.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0027/sn0027.mp3</guid>
@@ -125,7 +125,7 @@ https://www.grc.com/sn/sn-027.pdf
 https://www.grc.com/sn/sn-027.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0028/sn0028.mp3</guid>
@@ -141,7 +141,7 @@ https://www.grc.com/sn/sn-028.pdf
 https://www.grc.com/sn/sn-028.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0029/sn0029.mp3</guid>
@@ -157,7 +157,7 @@ https://www.grc.com/sn/sn-029.pdf
 https://www.grc.com/sn/sn-029.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0030/sn0030.mp3</guid>
@@ -173,7 +173,7 @@ https://www.grc.com/sn/sn-030.pdf
 https://www.grc.com/sn/sn-030.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0031/sn0031.mp3</guid>
@@ -189,7 +189,7 @@ https://www.grc.com/sn/sn-031.pdf
 https://www.grc.com/sn/sn-031.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0032/sn0032.mp3</guid>
@@ -205,7 +205,7 @@ https://www.grc.com/sn/sn-032.pdf
 https://www.grc.com/sn/sn-032.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0033/sn0033.mp3</guid>
@@ -221,87 +221,87 @@ https://www.grc.com/sn/sn-033.pdf
 https://www.grc.com/sn/sn-033.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0034/sn0034.mp3</guid>
       <title>Public Key Cryptography</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0034/sn0034.mp3</link>
-      <description>Having discussed symmetric (private) key ciphers during the last two weeks, this week Leo and Steve examine asymmetric key cryptography, commonly known as �Public Key Cryptography.�� They begin by examining the first public key cryptosystem, known as the Diffie-Hellman Key Exchange, invented in 1976.  Then they describe the operation of general purpose public key cryptosystems such as the one invented by RSA.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-034.pdf&#xA;https://www.grc.com/sn/sn-034.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Having discussed symmetric (private) key ciphers during the last two weeks, this week Leo and Steve examine asymmetric key cryptography, commonly known as “Public Key Cryptography.”  They begin by examining the first public key cryptosystem, known as the Diffie-Hellman Key Exchange, invented in 1976.  Then they describe the operation of general purpose public key cryptosystems such as the one invented by RSA.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-034.pdf&#xA;https://www.grc.com/sn/sn-034.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 06 Apr 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0034/sn0034.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Having discussed symmetric (private) key ciphers during the last two weeks, this week Leo and Steve examine asymmetric key cryptography, commonly known as �Public Key Cryptography.�� They begin by examining the first public key cryptosystem, known as the Diffie-Hellman Key Exchange, invented in 1976.  Then they describe the operation of general purpose public key cryptosystems such as the one invented by RSA.
+      <itunes:summary><![CDATA[Having discussed symmetric (private) key ciphers during the last two weeks, this week Leo and Steve examine asymmetric key cryptography, commonly known as “Public Key Cryptography.”  They begin by examining the first public key cryptosystem, known as the Diffie-Hellman Key Exchange, invented in 1976.  Then they describe the operation of general purpose public key cryptosystems such as the one invented by RSA.
 
 Show notes:
 https://www.grc.com/sn/sn-034.pdf
 https://www.grc.com/sn/sn-034.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0035/sn0035.mp3</guid>
       <title>Cryptographic Hashes</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0035/sn0035.mp3</link>
-      <description>Having covered stream and block symmetric ciphers and asymmetric ciphers, this week Leo and Steve describe and discuss �cryptographic hashes,� the final component to comprise a complete fundamental cryptographic function suite.  They discuss the roles of, and attacks against, many common and familiar cryptographic hashes including MD5 and SHA1.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-035.pdf&#xA;https://www.grc.com/sn/sn-035.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Having covered stream and block symmetric ciphers and asymmetric ciphers, this week Leo and Steve describe and discuss “cryptographic hashes,” the final component to comprise a complete fundamental cryptographic function suite.  They discuss the roles of, and attacks against, many common and familiar cryptographic hashes including MD5 and SHA1.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-035.pdf&#xA;https://www.grc.com/sn/sn-035.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 13 Apr 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0035/sn0035.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Having covered stream and block symmetric ciphers and asymmetric ciphers, this week Leo and Steve describe and discuss �cryptographic hashes,� the final component to comprise a complete fundamental cryptographic function suite.  They discuss the roles of, and attacks against, many common and familiar cryptographic hashes including MD5 and SHA1.
+      <itunes:summary><![CDATA[Having covered stream and block symmetric ciphers and asymmetric ciphers, this week Leo and Steve describe and discuss “cryptographic hashes,” the final component to comprise a complete fundamental cryptographic function suite.  They discuss the roles of, and attacks against, many common and familiar cryptographic hashes including MD5 and SHA1.
 
 Show notes:
 https://www.grc.com/sn/sn-035.pdf
 https://www.grc.com/sn/sn-035.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0036/sn0036.mp3</guid>
       <title>Listener Feedback Q&amp;A #6</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0036/sn0036.mp3</link>
-      <description>Leo and Steve discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous�installments, and present real world �application notes� for any of the security technologies they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-036.pdf&#xA;https://www.grc.com/sn/sn-036.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Leo and Steve discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world “application notes” for any of the security technologies they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-036.pdf&#xA;https://www.grc.com/sn/sn-036.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 20 Apr 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0036/sn0036.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Leo and Steve discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous�installments, and present real world �application notes� for any of the security technologies they have previously discussed.
+      <itunes:summary><![CDATA[Leo and Steve discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world “application notes” for any of the security technologies they have previously discussed.
 
 Show notes:
 https://www.grc.com/sn/sn-036.pdf
 https://www.grc.com/sn/sn-036.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0037/sn0037.mp3</guid>
       <title>Crypto Series Wrap-up</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0037/sn0037.mp3</link>
-      <description>Steve and Leo conclude their multi-week coverage of the fundamental technologies underlying modern cryptographic systems.� They discuss the number of 512-bit primes (two of which are used to form 1024-bit public keys) and the relative difficulty of performing prime factorizations at various bit lengths.� They discuss the importance of, and solutions to, private key recovery using varying numbers of trustees; and conclude by explaining the need for, and the operation of, security certificates.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-037.pdf&#xA;https://www.grc.com/sn/sn-037.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo conclude their multi-week coverage of the fundamental technologies underlying modern cryptographic systems.  They discuss the number of 512-bit primes (two of which are used to form 1024-bit public keys) and the relative difficulty of performing prime factorizations at various bit lengths.  They discuss the importance of, and solutions to, private key recovery using varying numbers of trustees; and conclude by explaining the need for, and the operation of, security certificates.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-037.pdf&#xA;https://www.grc.com/sn/sn-037.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 27 Apr 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0037/sn0037.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo conclude their multi-week coverage of the fundamental technologies underlying modern cryptographic systems.� They discuss the number of 512-bit primes (two of which are used to form 1024-bit public keys) and the relative difficulty of performing prime factorizations at various bit lengths.� They discuss the importance of, and solutions to, private key recovery using varying numbers of trustees; and conclude by explaining the need for, and the operation of, security certificates.
+      <itunes:summary><![CDATA[Steve and Leo conclude their multi-week coverage of the fundamental technologies underlying modern cryptographic systems.  They discuss the number of 512-bit primes (two of which are used to form 1024-bit public keys) and the relative difficulty of performing prime factorizations at various bit lengths.  They discuss the importance of, and solutions to, private key recovery using varying numbers of trustees; and conclude by explaining the need for, and the operation of, security certificates.
 
 Show notes:
 https://www.grc.com/sn/sn-037.pdf
 https://www.grc.com/sn/sn-037.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0038/sn0038.mp3</guid>
       <title>Browser Security</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0038/sn0038.mp3</link>
-      <description>Steve and Leo discuss the broad topic of web browser security.  They examine the implications of running &#34;client-side&#34; code in the form of interpreted scripting languages such as Java, JavaScript, and VBScript, and also the native object code contained within browser &#34;plug-ins&#34;�including Microsoft�s ActiveX.  Steve outlines the &#34;zone-based&#34; security model used by IE and explains how he surfs with high security under IE, only &#34;lowering his shields&#34; to a website after he�s had the chance to look around and decide that the site is trustworthy.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-038.pdf&#xA;https://www.grc.com/sn/sn-038.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the broad topic of web browser security.  They examine the implications of running &#34;client-side&#34; code in the form of interpreted scripting languages such as Java, JavaScript, and VBScript, and also the native object code contained within browser &#34;plug-ins&#34; including Microsoft’s ActiveX.  Steve outlines the &#34;zone-based&#34; security model used by IE and explains how he surfs with high security under IE, only &#34;lowering his shields&#34; to a website after he’s had the chance to look around and decide that the site is trustworthy.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-038.pdf&#xA;https://www.grc.com/sn/sn-038.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 04 May 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0038/sn0038.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo discuss the broad topic of web browser security.  They examine the implications of running "client-side" code in the form of interpreted scripting languages such as Java, JavaScript, and VBScript, and also the native object code contained within browser "plug-ins"�including Microsoft�s ActiveX.  Steve outlines the "zone-based" security model used by IE and explains how he surfs with high security under IE, only "lowering his shields" to a website after he�s had the chance to look around and decide that the site is trustworthy.
+      <itunes:summary><![CDATA[Steve and Leo discuss the broad topic of web browser security.  They examine the implications of running "client-side" code in the form of interpreted scripting languages such as Java, JavaScript, and VBScript, and also the native object code contained within browser "plug-ins" including Microsoft’s ActiveX.  Steve outlines the "zone-based" security model used by IE and explains how he surfs with high security under IE, only "lowering his shields" to a website after he’s had the chance to look around and decide that the site is trustworthy.
 
 Show notes:
 https://www.grc.com/sn/sn-038.pdf
 https://www.grc.com/sn/sn-038.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0039/sn0039.mp3</guid>
@@ -317,23 +317,23 @@ https://www.grc.com/sn/sn-039.pdf
 https://www.grc.com/sn/sn-039.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0040/sn0040.mp3</guid>
       <title>Listener Feedback Q&amp;A #7</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0040/sn0040.mp3</link>
-      <description>Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world �application notes&#34; for any of the security technologies and issues they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-040.pdf&#xA;https://www.grc.com/sn/sn-040.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world “application notes&#34; for any of the security technologies and issues they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-040.pdf&#xA;https://www.grc.com/sn/sn-040.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 18 May 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0040/sn0040.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world �application notes" for any of the security technologies and issues they have previously discussed.
+      <itunes:summary><![CDATA[Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world “application notes" for any of the security technologies and issues they have previously discussed.
 
 Show notes:
 https://www.grc.com/sn/sn-040.pdf
 https://www.grc.com/sn/sn-040.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0041/sn0041.mp3</guid>
@@ -349,7 +349,7 @@ https://www.grc.com/sn/sn-041.pdf
 https://www.grc.com/sn/sn-041.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0042/sn0042.mp3</guid>
@@ -365,71 +365,71 @@ https://www.grc.com/sn/sn-042.pdf
 https://www.grc.com/sn/sn-042.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0043/sn0043.mp3</guid>
       <title>Open Ports</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0043/sn0043.mp3</link>
-      <description>This week Leo and Steve cover the broad subject of �open ports� on Internet-connected machines.  They define ports, and what it means for them to be open, closed, and stealth.  They discuss what opens them, what it means to have ports �open&#34; from both a functional and security standpoint, how open ports can be detected, whether stealth ports are really more secure than closed ports, and differences between TCP and UDP port detection.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-043.pdf&#xA;https://www.grc.com/sn/sn-043.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>This week Leo and Steve cover the broad subject of “open ports” on Internet-connected machines.  They define ports, and what it means for them to be open, closed, and stealth.  They discuss what opens them, what it means to have ports “open&#34; from both a functional and security standpoint, how open ports can be detected, whether stealth ports are really more secure than closed ports, and differences between TCP and UDP port detection.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-043.pdf&#xA;https://www.grc.com/sn/sn-043.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 08 Jun 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0043/sn0043.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[This week Leo and Steve cover the broad subject of �open ports� on Internet-connected machines.  They define ports, and what it means for them to be open, closed, and stealth.  They discuss what opens them, what it means to have ports �open" from both a functional and security standpoint, how open ports can be detected, whether stealth ports are really more secure than closed ports, and differences between TCP and UDP port detection.
+      <itunes:summary><![CDATA[This week Leo and Steve cover the broad subject of “open ports” on Internet-connected machines.  They define ports, and what it means for them to be open, closed, and stealth.  They discuss what opens them, what it means to have ports “open" from both a functional and security standpoint, how open ports can be detected, whether stealth ports are really more secure than closed ports, and differences between TCP and UDP port detection.
 
 Show notes:
 https://www.grc.com/sn/sn-043.pdf
 https://www.grc.com/sn/sn-043.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0044/sn0044.mp3</guid>
       <title>Listener Feedback Q&amp;A #8</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0044/sn0044.mp3</link>
-      <description>Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world �application notes&#34; for any of the security technologies and issues they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-044.pdf&#xA;https://www.grc.com/sn/sn-044.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world “application notes&#34; for any of the security technologies and issues they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-044.pdf&#xA;https://www.grc.com/sn/sn-044.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 15 Jun 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0044/sn0044.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world �application notes" for any of the security technologies and issues they have previously discussed.
+      <itunes:summary><![CDATA[Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world “application notes" for any of the security technologies and issues they have previously discussed.
 
 Show notes:
 https://www.grc.com/sn/sn-044.pdf
 https://www.grc.com/sn/sn-044.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0045/sn0045.mp3</guid>
       <title>The &#39;Hosts&#39; File</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0045/sn0045.mp3</link>
-      <description>Steve and Leo reveal and describe the HOSTS file which is hidden away within every Internet-capable machine.  They explain how, because it is always the first place a machine looks for the IP address associated with any other machine name, it can be used to easily and conveniently intercept your computer&#39;s silent communication with any questionable web sites you�d rather have it not talking to.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-045.pdf&#xA;https://www.grc.com/sn/sn-045.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo reveal and describe the HOSTS file which is hidden away within every Internet-capable machine.  They explain how, because it is always the first place a machine looks for the IP address associated with any other machine name, it can be used to easily and conveniently intercept your computer&#39;s silent communication with any questionable web sites you’d rather have it not talking to.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-045.pdf&#xA;https://www.grc.com/sn/sn-045.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 22 Jun 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0045/sn0045.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo reveal and describe the HOSTS file which is hidden away within every Internet-capable machine.  They explain how, because it is always the first place a machine looks for the IP address associated with any other machine name, it can be used to easily and conveniently intercept your computer's silent communication with any questionable web sites you�d rather have it not talking to.
+      <itunes:summary><![CDATA[Steve and Leo reveal and describe the HOSTS file which is hidden away within every Internet-capable machine.  They explain how, because it is always the first place a machine looks for the IP address associated with any other machine name, it can be used to easily and conveniently intercept your computer's silent communication with any questionable web sites you’d rather have it not talking to.
 
 Show notes:
 https://www.grc.com/sn/sn-045.pdf
 https://www.grc.com/sn/sn-045.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0046/sn0046.mp3</guid>
       <title>Router Logs</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0046/sn0046.mp3</link>
-      <description>Steve and Leo clarify the confusion surrounding consumer NAT router logging.  They explain why routers tend to overreact to Internet �noise&#34; by �crying wolf&#34; too often, why the logs produced by consumer routers are unfortunately not very useful, and when paying attention to logs does and does not make sense.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-046.pdf&#xA;https://www.grc.com/sn/sn-046.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo clarify the confusion surrounding consumer NAT router logging.  They explain why routers tend to overreact to Internet “noise&#34; by “crying wolf&#34; too often, why the logs produced by consumer routers are unfortunately not very useful, and when paying attention to logs does and does not make sense.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-046.pdf&#xA;https://www.grc.com/sn/sn-046.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 29 Jun 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0046/sn0046.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo clarify the confusion surrounding consumer NAT router logging.  They explain why routers tend to overreact to Internet �noise" by �crying wolf" too often, why the logs produced by consumer routers are unfortunately not very useful, and when paying attention to logs does and does not make sense.
+      <itunes:summary><![CDATA[Steve and Leo clarify the confusion surrounding consumer NAT router logging.  They explain why routers tend to overreact to Internet “noise" by “crying wolf" too often, why the logs produced by consumer routers are unfortunately not very useful, and when paying attention to logs does and does not make sense.
 
 Show notes:
 https://www.grc.com/sn/sn-046.pdf
 https://www.grc.com/sn/sn-046.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0047/sn0047.mp3</guid>
@@ -445,135 +445,135 @@ https://www.grc.com/sn/sn-047.pdf
 https://www.grc.com/sn/sn-047.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0048/sn0048.mp3</guid>
       <title>Listener Feedback Q&amp;A #9</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0048/sn0048.mp3</link>
-      <description>Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world �application notes&#34; for any of the security technologies and issues they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-048.pdf&#xA;https://www.grc.com/sn/sn-048.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world “application notes&#34; for any of the security technologies and issues they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-048.pdf&#xA;https://www.grc.com/sn/sn-048.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 13 Jul 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0048/sn0048.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world �application notes" for any of the security technologies and issues they have previously discussed.
+      <itunes:summary><![CDATA[Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world “application notes" for any of the security technologies and issues they have previously discussed.
 
 Show notes:
 https://www.grc.com/sn/sn-048.pdf
 https://www.grc.com/sn/sn-048.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0049/sn0049.mp3</guid>
       <title>The NETSTAT Command</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0049/sn0049.mp3</link>
-      <description>Steve and Leo describe the operation and use of the universally available &#34;Netstat&#34; command � available in every desktop operating system from Unix and Linux through Windows and Macs.  &#34;Netstat&#34; allows anyone to instantly see what current Internet connections and listening ports any system has open and operating.  Mastering the power of this little-known command will greatly empower any security-conscious computer user.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-049.pdf&#xA;https://www.grc.com/sn/sn-049.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo describe the operation and use of the universally available &#34;Netstat&#34; command – available in every desktop operating system from Unix and Linux through Windows and Macs.  &#34;Netstat&#34; allows anyone to instantly see what current Internet connections and listening ports any system has open and operating.  Mastering the power of this little-known command will greatly empower any security-conscious computer user.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-049.pdf&#xA;https://www.grc.com/sn/sn-049.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 20 Jul 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0049/sn0049.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo describe the operation and use of the universally available "Netstat" command � available in every desktop operating system from Unix and Linux through Windows and Macs.  "Netstat" allows anyone to instantly see what current Internet connections and listening ports any system has open and operating.  Mastering the power of this little-known command will greatly empower any security-conscious computer user.
+      <itunes:summary><![CDATA[Steve and Leo describe the operation and use of the universally available "Netstat" command – available in every desktop operating system from Unix and Linux through Windows and Macs.  "Netstat" allows anyone to instantly see what current Internet connections and listening ports any system has open and operating.  Mastering the power of this little-known command will greatly empower any security-conscious computer user.
 
 Show notes:
 https://www.grc.com/sn/sn-049.pdf
 https://www.grc.com/sn/sn-049.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0050/sn0050.mp3</guid>
       <title>Virtual Machine History &amp; Technology</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0050/sn0050.mp3</link>
-      <description>Steve and Leo discuss the historical beginnings of Virtual Machine technology, from the 40-year-old IBM VM/360 operating system through virtual machine language emulators and today�s VMware and Virtual PC solutions.  This kicks off a multi-episode discussion of the tremendous security benefits and practical uses of modern day Virtual Machine technology.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-050.pdf&#xA;https://www.grc.com/sn/sn-050.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the historical beginnings of Virtual Machine technology, from the 40-year-old IBM VM/360 operating system through virtual machine language emulators and today’s VMware and Virtual PC solutions.  This kicks off a multi-episode discussion of the tremendous security benefits and practical uses of modern day Virtual Machine technology.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-050.pdf&#xA;https://www.grc.com/sn/sn-050.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 27 Jul 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0050/sn0050.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo discuss the historical beginnings of Virtual Machine technology, from the 40-year-old IBM VM/360 operating system through virtual machine language emulators and today�s VMware and Virtual PC solutions.  This kicks off a multi-episode discussion of the tremendous security benefits and practical uses of modern day Virtual Machine technology.
+      <itunes:summary><![CDATA[Steve and Leo discuss the historical beginnings of Virtual Machine technology, from the 40-year-old IBM VM/360 operating system through virtual machine language emulators and today’s VMware and Virtual PC solutions.  This kicks off a multi-episode discussion of the tremendous security benefits and practical uses of modern day Virtual Machine technology.
 
 Show notes:
 https://www.grc.com/sn/sn-050.pdf
 https://www.grc.com/sn/sn-050.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0051/sn0051.mp3</guid>
       <title>Vista&#39;s Virgin Stack</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0051/sn0051.mp3</link>
-      <description>Steve and Leo discuss the revelation, courtesy of a Symantec study and report, that Microsoft�s forthcoming Vista operating system has a brand new, written from scratch, networking stack supporting old and new network protocols.  They consider the sobering security consequences of Microsoft�s decision to scrap Window�s old but battled-hardened network stack in favor of one that�s new and unproven.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-051.pdf&#xA;https://www.grc.com/sn/sn-051.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the revelation, courtesy of a Symantec study and report, that Microsoft’s forthcoming Vista operating system has a brand new, written from scratch, networking stack supporting old and new network protocols.  They consider the sobering security consequences of Microsoft’s decision to scrap Window’s old but battled-hardened network stack in favor of one that’s new and unproven.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-051.pdf&#xA;https://www.grc.com/sn/sn-051.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 03 Aug 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0051/sn0051.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo discuss the revelation, courtesy of a Symantec study and report, that Microsoft�s forthcoming Vista operating system has a brand new, written from scratch, networking stack supporting old and new network protocols.  They consider the sobering security consequences of Microsoft�s decision to scrap Window�s old but battled-hardened network stack in favor of one that�s new and unproven.
+      <itunes:summary><![CDATA[Steve and Leo discuss the revelation, courtesy of a Symantec study and report, that Microsoft’s forthcoming Vista operating system has a brand new, written from scratch, networking stack supporting old and new network protocols.  They consider the sobering security consequences of Microsoft’s decision to scrap Window’s old but battled-hardened network stack in favor of one that’s new and unproven.
 
 Show notes:
 https://www.grc.com/sn/sn-051.pdf
 https://www.grc.com/sn/sn-051.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0052/sn0052.mp3</guid>
       <title>A Busy Week for Security Troubles</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0052/sn0052.mp3</link>
-      <description>Steve and Leo discuss the week�s security woes, covering D-Link and Centrino wireless buffer overflows which allow remote wireless compromise of user�s networks and machines.  They explore the recent revelation that JavaScript can be used to scan an unwitting user�s internal network to take over their equipment.  They talk about the purchase of Hamachi by LogMeIn and how Botnets are being used to create fraudulent eBay users with perfect �feedback� in order to defraud even careful eBay users.  And more!&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-052.pdf&#xA;https://www.grc.com/sn/sn-052.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week’s security woes, covering D-Link and Centrino wireless buffer overflows which allow remote wireless compromise of user’s networks and machines.  They explore the recent revelation that JavaScript can be used to scan an unwitting user’s internal network to take over their equipment.  They talk about the purchase of Hamachi by LogMeIn and how Botnets are being used to create fraudulent eBay users with perfect “feedback” in order to defraud even careful eBay users.  And more!&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-052.pdf&#xA;https://www.grc.com/sn/sn-052.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 10 Aug 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0052/sn0052.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo discuss the week�s security woes, covering D-Link and Centrino wireless buffer overflows which allow remote wireless compromise of user�s networks and machines.  They explore the recent revelation that JavaScript can be used to scan an unwitting user�s internal network to take over their equipment.  They talk about the purchase of Hamachi by LogMeIn and how Botnets are being used to create fraudulent eBay users with perfect �feedback� in order to defraud even careful eBay users.  And more!
+      <itunes:summary><![CDATA[Steve and Leo discuss the week’s security woes, covering D-Link and Centrino wireless buffer overflows which allow remote wireless compromise of user’s networks and machines.  They explore the recent revelation that JavaScript can be used to scan an unwitting user’s internal network to take over their equipment.  They talk about the purchase of Hamachi by LogMeIn and how Botnets are being used to create fraudulent eBay users with perfect “feedback” in order to defraud even careful eBay users.  And more!
 
 Show notes:
 https://www.grc.com/sn/sn-052.pdf
 https://www.grc.com/sn/sn-052.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0053/sn0053.mp3</guid>
       <title>VMware</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0053/sn0053.mp3</link>
-      <description>Steve and Leo briefly recap the concepts and technology of Virtual Machine (VM) technology, then thoroughly explore the free and commercial offerings of the earliest company to pioneer Intel-based high-performance virtual machines, VMware.  They focus upon the free VMware Player which allows Virtual Machine �Appliances� to be �played� on any supported platform.  They examine the value of these VMware solutions for creating highly secure �sandbox� containment environments as well as for cover-your-tracks privacy.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-053.pdf&#xA;https://www.grc.com/sn/sn-053.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo briefly recap the concepts and technology of Virtual Machine (VM) technology, then thoroughly explore the free and commercial offerings of the earliest company to pioneer Intel-based high-performance virtual machines, VMware.  They focus upon the free VMware Player which allows Virtual Machine “Appliances” to be “played” on any supported platform.  They examine the value of these VMware solutions for creating highly secure “sandbox” containment environments as well as for cover-your-tracks privacy.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-053.pdf&#xA;https://www.grc.com/sn/sn-053.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 17 Aug 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0053/sn0053.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo briefly recap the concepts and technology of Virtual Machine (VM) technology, then thoroughly explore the free and commercial offerings of the earliest company to pioneer Intel-based high-performance virtual machines, VMware.  They focus upon the free VMware Player which allows Virtual Machine �Appliances� to be �played� on any supported platform.  They examine the value of these VMware solutions for creating highly secure �sandbox� containment environments as well as for cover-your-tracks privacy.
+      <itunes:summary><![CDATA[Steve and Leo briefly recap the concepts and technology of Virtual Machine (VM) technology, then thoroughly explore the free and commercial offerings of the earliest company to pioneer Intel-based high-performance virtual machines, VMware.  They focus upon the free VMware Player which allows Virtual Machine “Appliances” to be “played” on any supported platform.  They examine the value of these VMware solutions for creating highly secure “sandbox” containment environments as well as for cover-your-tracks privacy.
 
 Show notes:
 https://www.grc.com/sn/sn-053.pdf
 https://www.grc.com/sn/sn-053.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0054/sn0054.mp3</guid>
       <title>Blue Pill</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0054/sn0054.mp3</link>
-      <description>Steve and Leo continue their ongoing discussion of the security implications and applications of virtualization and virtual machines.  This week they examine the &#34;Blue Pill&#34; OS subversion technology made possible by AMD�s next generation virtualization hardware support.  They debunk the hype surrounding this interesting and worrisome capability, placing it into a larger security and virtualization context.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-054.pdf&#xA;https://www.grc.com/sn/sn-054.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo continue their ongoing discussion of the security implications and applications of virtualization and virtual machines.  This week they examine the &#34;Blue Pill&#34; OS subversion technology made possible by AMD’s next generation virtualization hardware support.  They debunk the hype surrounding this interesting and worrisome capability, placing it into a larger security and virtualization context.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-054.pdf&#xA;https://www.grc.com/sn/sn-054.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 24 Aug 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0054/sn0054.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo continue their ongoing discussion of the security implications and applications of virtualization and virtual machines.  This week they examine the "Blue Pill" OS subversion technology made possible by AMD�s next generation virtualization hardware support.  They debunk the hype surrounding this interesting and worrisome capability, placing it into a larger security and virtualization context.
+      <itunes:summary><![CDATA[Steve and Leo continue their ongoing discussion of the security implications and applications of virtualization and virtual machines.  This week they examine the "Blue Pill" OS subversion technology made possible by AMD’s next generation virtualization hardware support.  They debunk the hype surrounding this interesting and worrisome capability, placing it into a larger security and virtualization context.
 
 Show notes:
 https://www.grc.com/sn/sn-054.pdf
 https://www.grc.com/sn/sn-054.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0055/sn0055.mp3</guid>
       <title>Application Sandboxes</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0055/sn0055.mp3</link>
-      <description>Having discussed �heavy weight&#34; virtualization technology in recent weeks, this week Steve and Leo examine �lighter weight&#34; application sandboxing technology and the software solutions currently available to perform this form of application �wrapping.&#34;  They discuss the inherent limitations of sandbox security and explain how valuable sandboxes can be for privacy enforcement.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-055.pdf&#xA;https://www.grc.com/sn/sn-055.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Having discussed “heavy weight&#34; virtualization technology in recent weeks, this week Steve and Leo examine “lighter weight&#34; application sandboxing technology and the software solutions currently available to perform this form of application “wrapping.&#34;  They discuss the inherent limitations of sandbox security and explain how valuable sandboxes can be for privacy enforcement.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-055.pdf&#xA;https://www.grc.com/sn/sn-055.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 31 Aug 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0055/sn0055.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Having discussed �heavy weight" virtualization technology in recent weeks, this week Steve and Leo examine �lighter weight" application sandboxing technology and the software solutions currently available to perform this form of application �wrapping."  They discuss the inherent limitations of sandbox security and explain how valuable sandboxes can be for privacy enforcement.
+      <itunes:summary><![CDATA[Having discussed “heavy weight" virtualization technology in recent weeks, this week Steve and Leo examine “lighter weight" application sandboxing technology and the software solutions currently available to perform this form of application “wrapping."  They discuss the inherent limitations of sandbox security and explain how valuable sandboxes can be for privacy enforcement.
 
 Show notes:
 https://www.grc.com/sn/sn-055.pdf
 https://www.grc.com/sn/sn-055.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0056/sn0056.mp3</guid>
@@ -589,71 +589,71 @@ https://www.grc.com/sn/sn-056.pdf
 https://www.grc.com/sn/sn-056.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0057/sn0057.mp3</guid>
       <title>Virtual PC versus VMware</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0057/sn0057.mp3</link>
-      <description>Steve and Leo wrap up their multi-week series about virtual machines and virtual machine technology by closely analyzing the differences and similarities between the free and commercial VM products offered by Microsoft and�VMware.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-057.pdf&#xA;https://www.grc.com/sn/sn-057.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo wrap up their multi-week series about virtual machines and virtual machine technology by closely analyzing the differences and similarities between the free and commercial VM products offered by Microsoft and VMware.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-057.pdf&#xA;https://www.grc.com/sn/sn-057.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 14 Sep 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0057/sn0057.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo wrap up their multi-week series about virtual machines and virtual machine technology by closely analyzing the differences and similarities between the free and commercial VM products offered by Microsoft and�VMware.
+      <itunes:summary><![CDATA[Steve and Leo wrap up their multi-week series about virtual machines and virtual machine technology by closely analyzing the differences and similarities between the free and commercial VM products offered by Microsoft and VMware.
 
 Show notes:
 https://www.grc.com/sn/sn-057.pdf
 https://www.grc.com/sn/sn-057.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0058/sn0058.mp3</guid>
       <title>Two New Critical Windows Problems</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0058/sn0058.mp3</link>
-      <description>Leo and I discuss the breaking news of two new critical Windows problems:  A new vulnerability that is being actively exploited on the web to install malware into innocent users� machines � and a workaround that all Windows users can employ to protect themselves.  And a serious file-corruption bug Microsoft introduced into last month&#39;s security update that affects all Windows 2000 users.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-058.pdf&#xA;https://www.grc.com/sn/sn-058.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Leo and I discuss the breaking news of two new critical Windows problems:  A new vulnerability that is being actively exploited on the web to install malware into innocent users’ machines – and a workaround that all Windows users can employ to protect themselves.  And a serious file-corruption bug Microsoft introduced into last month&#39;s security update that affects all Windows 2000 users.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-058.pdf&#xA;https://www.grc.com/sn/sn-058.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 21 Sep 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0058/sn0058.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Leo and I discuss the breaking news of two new critical Windows problems:  A new vulnerability that is being actively exploited on the web to install malware into innocent users� machines � and a workaround that all Windows users can employ to protect themselves.  And a serious file-corruption bug Microsoft introduced into last month's security update that affects all Windows 2000 users.
+      <itunes:summary><![CDATA[Leo and I discuss the breaking news of two new critical Windows problems:  A new vulnerability that is being actively exploited on the web to install malware into innocent users’ machines – and a workaround that all Windows users can employ to protect themselves.  And a serious file-corruption bug Microsoft introduced into last month's security update that affects all Windows 2000 users.
 
 Show notes:
 https://www.grc.com/sn/sn-058.pdf
 https://www.grc.com/sn/sn-058.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0059/sn0059.mp3</guid>
       <title>Comparing &#39;Parallels&#39; VMs</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0059/sn0059.mp3</link>
-      <description>Completing the topic of current virtual machine technology and products, Steve and Leo closely examine the commercial multiplatform virtual machine offerings from �Parallels,� comparing them to VMware and Virtual PC.  Steve also corrects an important incorrect statement he made the previous week about features missing from VMware�s free Server VM solution.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-059.pdf&#xA;https://www.grc.com/sn/sn-059.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Completing the topic of current virtual machine technology and products, Steve and Leo closely examine the commercial multiplatform virtual machine offerings from “Parallels,” comparing them to VMware and Virtual PC.  Steve also corrects an important incorrect statement he made the previous week about features missing from VMware’s free Server VM solution.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-059.pdf&#xA;https://www.grc.com/sn/sn-059.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 28 Sep 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0059/sn0059.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Completing the topic of current virtual machine technology and products, Steve and Leo closely examine the commercial multiplatform virtual machine offerings from �Parallels,� comparing them to VMware and Virtual PC.  Steve also corrects an important incorrect statement he made the previous week about features missing from VMware�s free Server VM solution.
+      <itunes:summary><![CDATA[Completing the topic of current virtual machine technology and products, Steve and Leo closely examine the commercial multiplatform virtual machine offerings from “Parallels,” comparing them to VMware and Virtual PC.  Steve also corrects an important incorrect statement he made the previous week about features missing from VMware’s free Server VM solution.
 
 Show notes:
 https://www.grc.com/sn/sn-059.pdf
 https://www.grc.com/sn/sn-059.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0060/sn0060.mp3</guid>
       <title>Listener Feedback Q&amp;A #11</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0060/sn0060.mp3</link>
-      <description>Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world �application notes&#34; for any of the security technologies and issues they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-060.pdf&#xA;https://www.grc.com/sn/sn-060.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world “application notes&#34; for any of the security technologies and issues they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-060.pdf&#xA;https://www.grc.com/sn/sn-060.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 05 Oct 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0060/sn0060.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world �application notes" for any of the security technologies and issues they have previously discussed.
+      <itunes:summary><![CDATA[Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world “application notes" for any of the security technologies and issues they have previously discussed.
 
 Show notes:
 https://www.grc.com/sn/sn-060.pdf
 https://www.grc.com/sn/sn-060.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0061/sn0061.mp3</guid>
@@ -669,7 +669,7 @@ https://www.grc.com/sn/sn-061.pdf
 https://www.grc.com/sn/sn-061.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0062/sn0062.mp3</guid>
@@ -685,7 +685,7 @@ https://www.grc.com/sn/sn-062.pdf
 https://www.grc.com/sn/sn-062.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0063/sn0063.mp3</guid>
@@ -701,7 +701,7 @@ https://www.grc.com/sn/sn-063.pdf
 https://www.grc.com/sn/sn-063.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0064/sn0064.mp3</guid>
@@ -717,23 +717,23 @@ https://www.grc.com/sn/sn-064.pdf
 https://www.grc.com/sn/sn-064.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0065/sn0065.mp3</guid>
       <title>Why Is Security So Difficult?</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0065/sn0065.mp3</link>
-      <description>Steve and Leo get a bit philosophical this week.  They discuss the broad nature of Security � all security, not just computer security.� They propose a new definition of &#34;Security&#34; and flesh it out with examples to illustrate why security is so difficult, if not impossible.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-065.pdf&#xA;https://www.grc.com/sn/sn-065.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo get a bit philosophical this week.  They discuss the broad nature of Security – all security, not just computer security.  They propose a new definition of &#34;Security&#34; and flesh it out with examples to illustrate why security is so difficult, if not impossible.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-065.pdf&#xA;https://www.grc.com/sn/sn-065.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 09 Nov 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0065/sn0065.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo get a bit philosophical this week.  They discuss the broad nature of Security � all security, not just computer security.� They propose a new definition of "Security" and flesh it out with examples to illustrate why security is so difficult, if not impossible.
+      <itunes:summary><![CDATA[Steve and Leo get a bit philosophical this week.  They discuss the broad nature of Security – all security, not just computer security.  They propose a new definition of "Security" and flesh it out with examples to illustrate why security is so difficult, if not impossible.
 
 Show notes:
 https://www.grc.com/sn/sn-065.pdf
 https://www.grc.com/sn/sn-065.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0066/sn0066.mp3</guid>
@@ -749,7 +749,7 @@ https://www.grc.com/sn/sn-066.pdf
 https://www.grc.com/sn/sn-066.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0067/sn0067.mp3</guid>
@@ -765,7 +765,7 @@ https://www.grc.com/sn/sn-067.pdf
 https://www.grc.com/sn/sn-067.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0068/sn0068.mp3</guid>
@@ -781,7 +781,7 @@ https://www.grc.com/sn/sn-068.pdf
 https://www.grc.com/sn/sn-068.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0069/sn0069.mp3</guid>
@@ -797,7 +797,7 @@ https://www.grc.com/sn/sn-069.pdf
 https://www.grc.com/sn/sn-069.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0070/sn0070.mp3</guid>
@@ -813,23 +813,23 @@ https://www.grc.com/sn/sn-070.pdf
 https://www.grc.com/sn/sn-070.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0071/sn0071.mp3</guid>
       <title>SecurAble</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0071/sn0071.mp3</link>
-      <description>This week Steve takes the wraps off his forthcoming security freeware utility:  SecurAble.  Although he&#39;s still working to get it finished, tested, and ready for initial release, Steve describes what SecurAble will do and some of the unexpected hurdles he�s encountered with the application and with details of Windows operation along the�way.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-071.pdf&#xA;https://www.grc.com/sn/sn-071.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>This week Steve takes the wraps off his forthcoming security freeware utility:  SecurAble.  Although he&#39;s still working to get it finished, tested, and ready for initial release, Steve describes what SecurAble will do and some of the unexpected hurdles he’s encountered with the application and with details of Windows operation along the way.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-071.pdf&#xA;https://www.grc.com/sn/sn-071.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 21 Dec 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0071/sn0071.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[This week Steve takes the wraps off his forthcoming security freeware utility:  SecurAble.  Although he's still working to get it finished, tested, and ready for initial release, Steve describes what SecurAble will do and some of the unexpected hurdles he�s encountered with the application and with details of Windows operation along the�way.
+      <itunes:summary><![CDATA[This week Steve takes the wraps off his forthcoming security freeware utility:  SecurAble.  Although he's still working to get it finished, tested, and ready for initial release, Steve describes what SecurAble will do and some of the unexpected hurdles he’s encountered with the application and with details of Windows operation along the way.
 
 Show notes:
 https://www.grc.com/sn/sn-071.pdf
 https://www.grc.com/sn/sn-071.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0072/sn0072.mp3</guid>
@@ -845,7 +845,7 @@ https://www.grc.com/sn/sn-072.pdf
 https://www.grc.com/sn/sn-072.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
   </channel>
 </rss>
