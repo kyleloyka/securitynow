@@ -37,7 +37,6 @@ func TestProperDecoding(t *testing.T) {
 		}
 		t.Error("decoded doesnt match expected")
 	}
-
 }
 
 func TestDecode(t *testing.T) {

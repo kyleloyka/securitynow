@@ -58,7 +58,6 @@ func parseEpisode(body []byte) (*episode.Episode, error) {
 
 	ep := new(episode.Episode)
 	ep.Series = fields["series"]
-	ep.Title = fields["title"]
 	ep.Description = fields["description"]
 
 	var err error
@@ -77,6 +76,8 @@ func parseEpisode(body []byte) (*episode.Episode, error) {
 	} else {
 		return nil, err
 	}
+
+	ep.Title = fmt.Sprintf("%d: %s", ep.Number, fields["title"])
 
 	media := generateCDNURL(ep.Number)
 	if link, err := url.Parse(media); err == nil {

@@ -4,6 +4,7 @@ import (
 	"testing"
 )
 
+// TestFetchEpisode requires an internet connection
 func TestFetchEpisode(t *testing.T) {
 	var tests = []struct {
 		number int
