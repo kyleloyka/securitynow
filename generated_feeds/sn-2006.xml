@@ -17,7 +17,7 @@
     <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0021/sn0021.mp3</guid>
-      <title>The Windows MetaFile (WMF) Vulnerability</title>
+      <title>21: The Windows MetaFile (WMF) Vulnerability</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0021/sn0021.mp3</link>
       <description>Leo and I discuss everything known about the first serious Windows security exploits of the New Year, caused by the Windows MetaFile (WMF) vulnerability.  In our show&#39;s first guest appearance, we are joined by Ilfak Guilfanov, the developer of the wildly popular - and very necessary - temporary patch that was used by millions of users to secure Windows systems while the world waited for Microsoft to respond.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-021.pdf&#xA;https://www.grc.com/sn/sn-021.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 05 Jan 2006 00:00:00 +0000</pubDate>
@@ -33,7 +33,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0022/sn0022.mp3</guid>
-      <title>The Windows MetaFile Backdoor?</title>
+      <title>22: The Windows MetaFile Backdoor?</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0022/sn0022.mp3</link>
       <description>Leo and I carefully examine the operation of the recently patched Windows MetaFile vulnerability.  I describe exactly how it works in an effort to explain why it doesn&#39;t have the feeling of another Microsoft &#34;coding error.&#34;  It has the feeling of something that Microsoft deliberately designed into Windows.  Given the nature of what it is, this would make it a remote code execution &#34;backdoor.&#34;  We will likely never know if this was the case, but the forensic evidence appears to be quite compelling.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-022.pdf&#xA;https://www.grc.com/sn/sn-022.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 12 Jan 2006 00:00:00 +0000</pubDate>
@@ -49,7 +49,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0023/sn0023.mp3</guid>
-      <title>GRC&#39;s MouseTrap</title>
+      <title>23: GRC&#39;s MouseTrap</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0023/sn0023.mp3</link>
       <description>Leo and Steve close the backdoor on the controversial Windows WMF MetaFile Image code Execution (MICE) vulnerability.  They discuss everything that&#39;s known about it, separate the facts from the spin, explain exactly which Windows versions are vulnerable and why, and introduce a new piece of GRC freeware - MouseTrap - which determines whether any Windows or Linux/WINE system has &#39;MICE&#39;.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-023.pdf&#xA;https://www.grc.com/sn/sn-023.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 19 Jan 2006 00:00:00 +0000</pubDate>
@@ -65,7 +65,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0024/sn0024.mp3</guid>
-      <title>Listener Feedback Q&amp;A #3</title>
+      <title>24: Listener Feedback Q&amp;A #3</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0024/sn0024.mp3</link>
       <description>Leo and Steve discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#34;application notes&#34; for any of the security technologies they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-024.pdf&#xA;https://www.grc.com/sn/sn-024.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 26 Jan 2006 00:00:00 +0000</pubDate>
@@ -81,7 +81,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0025/sn0025.mp3</guid>
-      <title>How the Internet Works, Part 1</title>
+      <title>25: How the Internet Works, Part 1</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0025/sn0025.mp3</link>
       <description>During this 49-minute episode, Leo and Steve briefly discuss the &#34;Kama Sutra&#34; virus that will become destructive on February 3rd.  We briefly discuss PC World Magazine&#39;s recent evaluation and ranking of ten top anti-malware systems.  And we begin our long-planned &#34;fundamental technology&#34; series with a two-part close look at the history and detailed operation of the global Internet.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-025.pdf&#xA;https://www.grc.com/sn/sn-025.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 02 Feb 2006 00:00:00 +0000</pubDate>
@@ -97,7 +97,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0026/sn0026.mp3</guid>
-      <title>How the Internet Works, Part 2</title>
+      <title>26: How the Internet Works, Part 2</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0026/sn0026.mp3</link>
       <description>During Part 2 of &#34;How the Internet Works,&#34; Leo and Steve briefly review last week&#39;s discussion of the ICMP protocol, then discuss the operational details of the Internet&#39;s two main data-carrying protocols: UDP and TCP.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-026.pdf&#xA;https://www.grc.com/sn/sn-026.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 09 Feb 2006 00:00:00 +0000</pubDate>
@@ -113,7 +113,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0027/sn0027.mp3</guid>
-      <title>How Local Area Networks Work, Part 1</title>
+      <title>27: How Local Area Networks Work, Part 1</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0027/sn0027.mp3</link>
       <description>Having covered the operation of the Internet&#39;s WAN (Wide Area Network) technology over the last two weeks, this week Leo and Steve turn to discussing the way Local Area Networks (LANs) operate and how they interface with the Internet WAN.  They address the configuration of subnet masks, default gateways, and DHCP to explain how packets are routed among machines and gateways within a LAN.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-027.pdf&#xA;https://www.grc.com/sn/sn-027.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 16 Feb 2006 00:00:00 +0000</pubDate>
@@ -129,7 +129,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0028/sn0028.mp3</guid>
-      <title>Listener Feedback Q&amp;A #4</title>
+      <title>28: Listener Feedback Q&amp;A #4</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0028/sn0028.mp3</link>
       <description>Leo and Steve discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#34;application notes&#34; for any of the security technologies they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-028.pdf&#xA;https://www.grc.com/sn/sn-028.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 23 Feb 2006 00:00:00 +0000</pubDate>
@@ -145,7 +145,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0029/sn0029.mp3</guid>
-      <title>Ethernet Insecurity</title>
+      <title>29: Ethernet Insecurity</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0029/sn0029.mp3</link>
       <description>Leo and Steve discuss the design, operation, and complete lack of security of Ethernet - the LAN technology that virtually all of the world uses.  They explain how this lack of security enables a wide range of serious attacks to be perpetrated by any other machine sharing the same Ethernet - such as in a wireless hotspot, within a corporate network, or even in a wired hotel where the entire hotel is one big exploitable Ethernet LAN.  GRC&#39;s ARP Cache Poisoning page contains a detailed explanation of these problems with diagrams and links to readily available Ethernet ARP exploitation malware.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-029.pdf&#xA;https://www.grc.com/sn/sn-029.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 02 Mar 2006 00:00:00 +0000</pubDate>
@@ -161,7 +161,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0030/sn0030.mp3</guid>
-      <title>Cryptographic Issues</title>
+      <title>30: Cryptographic Issues</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0030/sn0030.mp3</link>
       <description>Steve and Leo open their multi-week discussion of the operation and technology of cryptography.  This first week they start by examining the social consequences and ethical implications of common citizens being empowered with freely available cryptographic technology that no force on Earth - no government agency, no corporation, no private individual - can crack within their lifetimes.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-030.pdf&#xA;https://www.grc.com/sn/sn-030.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 09 Mar 2006 00:00:00 +0000</pubDate>
@@ -177,7 +177,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0031/sn0031.mp3</guid>
-      <title>Symmetric Stream Ciphers</title>
+      <title>31: Symmetric Stream Ciphers</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0031/sn0031.mp3</link>
       <description>Leo and Steve continue their multi-episode tour of cryptographic technology.  This week they analyze the cryptographic operation of secret decoder rings, which they use to develop a solid foundation of cryptographic terminology.  Then they examine the first of two forms of symmetric, private key cryptography known as &#34;symmetric stream ciphers.&#34;  Two weeks from now, after next week&#39;s Q&amp;A episode, they&#39;ll discuss the operation of symmetric block ciphers.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-031.pdf&#xA;https://www.grc.com/sn/sn-031.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 16 Mar 2006 00:00:00 +0000</pubDate>
@@ -193,7 +193,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0032/sn0032.mp3</guid>
-      <title>Listener Feedback Q&amp;A #5</title>
+      <title>32: Listener Feedback Q&amp;A #5</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0032/sn0032.mp3</link>
       <description>Steve and Leo briefly review last week&#39;s topic of symmetric stream ciphers, then pose the first Security Now! Puzzler/BrainTeaser which proposes a secure means for sending encrypted messages where neither party knows the other&#39;s key.  The Puzzler/BrainTeaser will be answered and resolved at the start of next week&#39;s episode.  Then, as always in their Q&amp;A episodes, they answer questions and discuss issues raised by listeners.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-032.pdf&#xA;https://www.grc.com/sn/sn-032.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 23 Mar 2006 00:00:00 +0000</pubDate>
@@ -209,7 +209,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0033/sn0033.mp3</guid>
-      <title>Symmetric Block Ciphers</title>
+      <title>33: Symmetric Block Ciphers</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0033/sn0033.mp3</link>
       <description>Leo and Steve answer last week&#39;s Puzzler/BrainTeaser which explored the idea of using two private one-time pad &#34;keys,&#34; like two padlocks, to securely convey a message between two parties, neither of whom would have the other&#39;s key.  They then continue their ongoing tour of fundamental crypto technology by describing the operation of Symmetric Block Ciphers.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-033.pdf&#xA;https://www.grc.com/sn/sn-033.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 30 Mar 2006 00:00:00 +0000</pubDate>
@@ -225,12 +225,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0034/sn0034.mp3</guid>
-      <title>Public Key Cryptography</title>
+      <title>34: Public Key Cryptography</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0034/sn0034.mp3</link>
-      <description>Having discussed symmetric (private) key ciphers during the last two weeks, this week Leo and Steve examine asymmetric key cryptography, commonly known as “Public Key Cryptography.”  They begin by examining the first public key cryptosystem, known as the Diffie-Hellman Key Exchange, invented in 1976.  Then they describe the operation of general purpose public key cryptosystems such as the one invented by RSA.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-034.pdf&#xA;https://www.grc.com/sn/sn-034.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Having discussed symmetric (private) key ciphers during the last two weeks, this week Leo and Steve examine asymmetric key cryptography, commonly known as Public Key Cryptography. They begin by examining the first public key cryptosystem, known as the Diffie-Hellman Key Exchange, invented in 1976.  Then they describe the operation of general purpose public key cryptosystems such as the one invented by RSA.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-034.pdf&#xA;https://www.grc.com/sn/sn-034.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 06 Apr 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0034/sn0034.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Having discussed symmetric (private) key ciphers during the last two weeks, this week Leo and Steve examine asymmetric key cryptography, commonly known as “Public Key Cryptography.”  They begin by examining the first public key cryptosystem, known as the Diffie-Hellman Key Exchange, invented in 1976.  Then they describe the operation of general purpose public key cryptosystems such as the one invented by RSA.
+      <itunes:summary><![CDATA[Having discussed symmetric (private) key ciphers during the last two weeks, this week Leo and Steve examine asymmetric key cryptography, commonly known as Public Key Cryptography. They begin by examining the first public key cryptosystem, known as the Diffie-Hellman Key Exchange, invented in 1976.  Then they describe the operation of general purpose public key cryptosystems such as the one invented by RSA.
 
 Show notes:
 https://www.grc.com/sn/sn-034.pdf
@@ -241,12 +241,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0035/sn0035.mp3</guid>
-      <title>Cryptographic Hashes</title>
+      <title>35: Cryptographic Hashes</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0035/sn0035.mp3</link>
-      <description>Having covered stream and block symmetric ciphers and asymmetric ciphers, this week Leo and Steve describe and discuss “cryptographic hashes,” the final component to comprise a complete fundamental cryptographic function suite.  They discuss the roles of, and attacks against, many common and familiar cryptographic hashes including MD5 and SHA1.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-035.pdf&#xA;https://www.grc.com/sn/sn-035.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Having covered stream and block symmetric ciphers and asymmetric ciphers, this week Leo and Steve describe and discuss cryptographic hashes, the final component to comprise a complete fundamental cryptographic function suite.  They discuss the roles of, and attacks against, many common and familiar cryptographic hashes including MD5 and SHA1.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-035.pdf&#xA;https://www.grc.com/sn/sn-035.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 13 Apr 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0035/sn0035.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Having covered stream and block symmetric ciphers and asymmetric ciphers, this week Leo and Steve describe and discuss “cryptographic hashes,” the final component to comprise a complete fundamental cryptographic function suite.  They discuss the roles of, and attacks against, many common and familiar cryptographic hashes including MD5 and SHA1.
+      <itunes:summary><![CDATA[Having covered stream and block symmetric ciphers and asymmetric ciphers, this week Leo and Steve describe and discuss cryptographic hashes, the final component to comprise a complete fundamental cryptographic function suite.  They discuss the roles of, and attacks against, many common and familiar cryptographic hashes including MD5 and SHA1.
 
 Show notes:
 https://www.grc.com/sn/sn-035.pdf
@@ -257,12 +257,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0036/sn0036.mp3</guid>
-      <title>Listener Feedback Q&amp;A #6</title>
+      <title>36: Listener Feedback Q&amp;A #6</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0036/sn0036.mp3</link>
-      <description>Leo and Steve discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world “application notes” for any of the security technologies they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-036.pdf&#xA;https://www.grc.com/sn/sn-036.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Leo and Steve discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previousinstallments, and present real world application notes for any of the security technologies they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-036.pdf&#xA;https://www.grc.com/sn/sn-036.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 20 Apr 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0036/sn0036.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Leo and Steve discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world “application notes” for any of the security technologies they have previously discussed.
+      <itunes:summary><![CDATA[Leo and Steve discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previousinstallments, and present real world application notes for any of the security technologies they have previously discussed.
 
 Show notes:
 https://www.grc.com/sn/sn-036.pdf
@@ -273,12 +273,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0037/sn0037.mp3</guid>
-      <title>Crypto Series Wrap-up</title>
+      <title>37: Crypto Series Wrap-up</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0037/sn0037.mp3</link>
-      <description>Steve and Leo conclude their multi-week coverage of the fundamental technologies underlying modern cryptographic systems.  They discuss the number of 512-bit primes (two of which are used to form 1024-bit public keys) and the relative difficulty of performing prime factorizations at various bit lengths.  They discuss the importance of, and solutions to, private key recovery using varying numbers of trustees; and conclude by explaining the need for, and the operation of, security certificates.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-037.pdf&#xA;https://www.grc.com/sn/sn-037.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo conclude their multi-week coverage of the fundamental technologies underlying modern cryptographic systems. They discuss the number of 512-bit primes (two of which are used to form 1024-bit public keys) and the relative difficulty of performing prime factorizations at various bit lengths. They discuss the importance of, and solutions to, private key recovery using varying numbers of trustees; and conclude by explaining the need for, and the operation of, security certificates.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-037.pdf&#xA;https://www.grc.com/sn/sn-037.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 27 Apr 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0037/sn0037.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo conclude their multi-week coverage of the fundamental technologies underlying modern cryptographic systems.  They discuss the number of 512-bit primes (two of which are used to form 1024-bit public keys) and the relative difficulty of performing prime factorizations at various bit lengths.  They discuss the importance of, and solutions to, private key recovery using varying numbers of trustees; and conclude by explaining the need for, and the operation of, security certificates.
+      <itunes:summary><![CDATA[Steve and Leo conclude their multi-week coverage of the fundamental technologies underlying modern cryptographic systems. They discuss the number of 512-bit primes (two of which are used to form 1024-bit public keys) and the relative difficulty of performing prime factorizations at various bit lengths. They discuss the importance of, and solutions to, private key recovery using varying numbers of trustees; and conclude by explaining the need for, and the operation of, security certificates.
 
 Show notes:
 https://www.grc.com/sn/sn-037.pdf
@@ -289,12 +289,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0038/sn0038.mp3</guid>
-      <title>Browser Security</title>
+      <title>38: Browser Security</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0038/sn0038.mp3</link>
-      <description>Steve and Leo discuss the broad topic of web browser security.  They examine the implications of running &#34;client-side&#34; code in the form of interpreted scripting languages such as Java, JavaScript, and VBScript, and also the native object code contained within browser &#34;plug-ins&#34; including Microsoft’s ActiveX.  Steve outlines the &#34;zone-based&#34; security model used by IE and explains how he surfs with high security under IE, only &#34;lowering his shields&#34; to a website after he’s had the chance to look around and decide that the site is trustworthy.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-038.pdf&#xA;https://www.grc.com/sn/sn-038.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the broad topic of web browser security.  They examine the implications of running &#34;client-side&#34; code in the form of interpreted scripting languages such as Java, JavaScript, and VBScript, and also the native object code contained within browser &#34;plug-ins&#34;including Microsofts ActiveX.  Steve outlines the &#34;zone-based&#34; security model used by IE and explains how he surfs with high security under IE, only &#34;lowering his shields&#34; to a website after hes had the chance to look around and decide that the site is trustworthy.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-038.pdf&#xA;https://www.grc.com/sn/sn-038.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 04 May 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0038/sn0038.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo discuss the broad topic of web browser security.  They examine the implications of running "client-side" code in the form of interpreted scripting languages such as Java, JavaScript, and VBScript, and also the native object code contained within browser "plug-ins" including Microsoft’s ActiveX.  Steve outlines the "zone-based" security model used by IE and explains how he surfs with high security under IE, only "lowering his shields" to a website after he’s had the chance to look around and decide that the site is trustworthy.
+      <itunes:summary><![CDATA[Steve and Leo discuss the broad topic of web browser security.  They examine the implications of running "client-side" code in the form of interpreted scripting languages such as Java, JavaScript, and VBScript, and also the native object code contained within browser "plug-ins"including Microsofts ActiveX.  Steve outlines the "zone-based" security model used by IE and explains how he surfs with high security under IE, only "lowering his shields" to a website after hes had the chance to look around and decide that the site is trustworthy.
 
 Show notes:
 https://www.grc.com/sn/sn-038.pdf
@@ -305,7 +305,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0039/sn0039.mp3</guid>
-      <title>Buffer Overruns</title>
+      <title>39: Buffer Overruns</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0039/sn0039.mp3</link>
       <description>In one of their more &#34;aggressively technical&#34; episodes, Steve and Leo discuss the pernicious nature of software security bugs from the programmer&#39;s perspective.  They explain how &#34;the system stack&#34; functions, then provide a detailed look at exactly how a small programming mistake can allow executable code to be remotely injected into a computer system despite the best intentions of security-conscious programmers.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-039.pdf&#xA;https://www.grc.com/sn/sn-039.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 11 May 2006 00:00:00 +0000</pubDate>
@@ -321,12 +321,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0040/sn0040.mp3</guid>
-      <title>Listener Feedback Q&amp;A #7</title>
+      <title>40: Listener Feedback Q&amp;A #7</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0040/sn0040.mp3</link>
-      <description>Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world “application notes&#34; for any of the security technologies and issues they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-040.pdf&#xA;https://www.grc.com/sn/sn-040.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes&#34; for any of the security technologies and issues they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-040.pdf&#xA;https://www.grc.com/sn/sn-040.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 18 May 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0040/sn0040.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world “application notes" for any of the security technologies and issues they have previously discussed.
+      <itunes:summary><![CDATA[Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes" for any of the security technologies and issues they have previously discussed.
 
 Show notes:
 https://www.grc.com/sn/sn-040.pdf
@@ -337,7 +337,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0041/sn0041.mp3</guid>
-      <title>TrueCrypt</title>
+      <title>41: TrueCrypt</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0041/sn0041.mp3</link>
       <description>This week Steve and Leo explain why they love &#34;TrueCrypt,&#34; a fabulous, free, open source, on-the-fly storage encryption tool that is fast, flexible, super-well-engineered, feature packed, and able to provide advanced state-of-the-art encryption services for many applications.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-041.pdf&#xA;https://www.grc.com/sn/sn-041.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 25 May 2006 00:00:00 +0000</pubDate>
@@ -353,7 +353,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0042/sn0042.mp3</guid>
-      <title>NAT Traversal</title>
+      <title>42: NAT Traversal</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0042/sn0042.mp3</link>
       <description>Steve and Leo delve into the inner workings of NAT routers.  They examine the trouble NAT routers present to peer-to-peer networks where users are behind NAT routers that block incoming connections, and they explain how a third-party server can be briefly used to help each router get its packets through to the other, thus allowing them to directly connect.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-042.pdf&#xA;https://www.grc.com/sn/sn-042.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
@@ -369,12 +369,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0043/sn0043.mp3</guid>
-      <title>Open Ports</title>
+      <title>43: Open Ports</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0043/sn0043.mp3</link>
-      <description>This week Leo and Steve cover the broad subject of “open ports” on Internet-connected machines.  They define ports, and what it means for them to be open, closed, and stealth.  They discuss what opens them, what it means to have ports “open&#34; from both a functional and security standpoint, how open ports can be detected, whether stealth ports are really more secure than closed ports, and differences between TCP and UDP port detection.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-043.pdf&#xA;https://www.grc.com/sn/sn-043.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>This week Leo and Steve cover the broad subject of open ports on Internet-connected machines.  They define ports, and what it means for them to be open, closed, and stealth.  They discuss what opens them, what it means to have ports open&#34; from both a functional and security standpoint, how open ports can be detected, whether stealth ports are really more secure than closed ports, and differences between TCP and UDP port detection.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-043.pdf&#xA;https://www.grc.com/sn/sn-043.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 08 Jun 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0043/sn0043.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[This week Leo and Steve cover the broad subject of “open ports” on Internet-connected machines.  They define ports, and what it means for them to be open, closed, and stealth.  They discuss what opens them, what it means to have ports “open" from both a functional and security standpoint, how open ports can be detected, whether stealth ports are really more secure than closed ports, and differences between TCP and UDP port detection.
+      <itunes:summary><![CDATA[This week Leo and Steve cover the broad subject of open ports on Internet-connected machines.  They define ports, and what it means for them to be open, closed, and stealth.  They discuss what opens them, what it means to have ports open" from both a functional and security standpoint, how open ports can be detected, whether stealth ports are really more secure than closed ports, and differences between TCP and UDP port detection.
 
 Show notes:
 https://www.grc.com/sn/sn-043.pdf
@@ -385,12 +385,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0044/sn0044.mp3</guid>
-      <title>Listener Feedback Q&amp;A #8</title>
+      <title>44: Listener Feedback Q&amp;A #8</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0044/sn0044.mp3</link>
-      <description>Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world “application notes&#34; for any of the security technologies and issues they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-044.pdf&#xA;https://www.grc.com/sn/sn-044.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes&#34; for any of the security technologies and issues they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-044.pdf&#xA;https://www.grc.com/sn/sn-044.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 15 Jun 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0044/sn0044.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world “application notes" for any of the security technologies and issues they have previously discussed.
+      <itunes:summary><![CDATA[Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes" for any of the security technologies and issues they have previously discussed.
 
 Show notes:
 https://www.grc.com/sn/sn-044.pdf
@@ -401,12 +401,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0045/sn0045.mp3</guid>
-      <title>The &#39;Hosts&#39; File</title>
+      <title>45: The &#39;Hosts&#39; File</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0045/sn0045.mp3</link>
-      <description>Steve and Leo reveal and describe the HOSTS file which is hidden away within every Internet-capable machine.  They explain how, because it is always the first place a machine looks for the IP address associated with any other machine name, it can be used to easily and conveniently intercept your computer&#39;s silent communication with any questionable web sites you’d rather have it not talking to.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-045.pdf&#xA;https://www.grc.com/sn/sn-045.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo reveal and describe the HOSTS file which is hidden away within every Internet-capable machine.  They explain how, because it is always the first place a machine looks for the IP address associated with any other machine name, it can be used to easily and conveniently intercept your computer&#39;s silent communication with any questionable web sites youd rather have it not talking to.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-045.pdf&#xA;https://www.grc.com/sn/sn-045.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 22 Jun 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0045/sn0045.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo reveal and describe the HOSTS file which is hidden away within every Internet-capable machine.  They explain how, because it is always the first place a machine looks for the IP address associated with any other machine name, it can be used to easily and conveniently intercept your computer's silent communication with any questionable web sites you’d rather have it not talking to.
+      <itunes:summary><![CDATA[Steve and Leo reveal and describe the HOSTS file which is hidden away within every Internet-capable machine.  They explain how, because it is always the first place a machine looks for the IP address associated with any other machine name, it can be used to easily and conveniently intercept your computer's silent communication with any questionable web sites youd rather have it not talking to.
 
 Show notes:
 https://www.grc.com/sn/sn-045.pdf
@@ -417,12 +417,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0046/sn0046.mp3</guid>
-      <title>Router Logs</title>
+      <title>46: Router Logs</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0046/sn0046.mp3</link>
-      <description>Steve and Leo clarify the confusion surrounding consumer NAT router logging.  They explain why routers tend to overreact to Internet “noise&#34; by “crying wolf&#34; too often, why the logs produced by consumer routers are unfortunately not very useful, and when paying attention to logs does and does not make sense.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-046.pdf&#xA;https://www.grc.com/sn/sn-046.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo clarify the confusion surrounding consumer NAT router logging.  They explain why routers tend to overreact to Internet noise&#34; by crying wolf&#34; too often, why the logs produced by consumer routers are unfortunately not very useful, and when paying attention to logs does and does not make sense.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-046.pdf&#xA;https://www.grc.com/sn/sn-046.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 29 Jun 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0046/sn0046.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo clarify the confusion surrounding consumer NAT router logging.  They explain why routers tend to overreact to Internet “noise" by “crying wolf" too often, why the logs produced by consumer routers are unfortunately not very useful, and when paying attention to logs does and does not make sense.
+      <itunes:summary><![CDATA[Steve and Leo clarify the confusion surrounding consumer NAT router logging.  They explain why routers tend to overreact to Internet noise" by crying wolf" too often, why the logs produced by consumer routers are unfortunately not very useful, and when paying attention to logs does and does not make sense.
 
 Show notes:
 https://www.grc.com/sn/sn-046.pdf
@@ -433,7 +433,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0047/sn0047.mp3</guid>
-      <title>Internet Weaponry</title>
+      <title>47: Internet Weaponry</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0047/sn0047.mp3</link>
       <description>Steve and Leo trace the history and rapid growth of Internet Denial of Service (DoS) attack techniques, tools, and motivations over the past eight years.  They discuss many different types of attacks while focusing upon the distributed bandwidth flooding attacks that are the most destructive and difficult to block.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-047.pdf&#xA;https://www.grc.com/sn/sn-047.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 06 Jul 2006 00:00:00 +0000</pubDate>
@@ -449,12 +449,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0048/sn0048.mp3</guid>
-      <title>Listener Feedback Q&amp;A #9</title>
+      <title>48: Listener Feedback Q&amp;A #9</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0048/sn0048.mp3</link>
-      <description>Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world “application notes&#34; for any of the security technologies and issues they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-048.pdf&#xA;https://www.grc.com/sn/sn-048.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes&#34; for any of the security technologies and issues they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-048.pdf&#xA;https://www.grc.com/sn/sn-048.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 13 Jul 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0048/sn0048.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world “application notes" for any of the security technologies and issues they have previously discussed.
+      <itunes:summary><![CDATA[Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes" for any of the security technologies and issues they have previously discussed.
 
 Show notes:
 https://www.grc.com/sn/sn-048.pdf
@@ -465,12 +465,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0049/sn0049.mp3</guid>
-      <title>The NETSTAT Command</title>
+      <title>49: The NETSTAT Command</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0049/sn0049.mp3</link>
-      <description>Steve and Leo describe the operation and use of the universally available &#34;Netstat&#34; command – available in every desktop operating system from Unix and Linux through Windows and Macs.  &#34;Netstat&#34; allows anyone to instantly see what current Internet connections and listening ports any system has open and operating.  Mastering the power of this little-known command will greatly empower any security-conscious computer user.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-049.pdf&#xA;https://www.grc.com/sn/sn-049.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo describe the operation and use of the universally available &#34;Netstat&#34; command  available in every desktop operating system from Unix and Linux through Windows and Macs.  &#34;Netstat&#34; allows anyone to instantly see what current Internet connections and listening ports any system has open and operating.  Mastering the power of this little-known command will greatly empower any security-conscious computer user.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-049.pdf&#xA;https://www.grc.com/sn/sn-049.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 20 Jul 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0049/sn0049.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo describe the operation and use of the universally available "Netstat" command – available in every desktop operating system from Unix and Linux through Windows and Macs.  "Netstat" allows anyone to instantly see what current Internet connections and listening ports any system has open and operating.  Mastering the power of this little-known command will greatly empower any security-conscious computer user.
+      <itunes:summary><![CDATA[Steve and Leo describe the operation and use of the universally available "Netstat" command  available in every desktop operating system from Unix and Linux through Windows and Macs.  "Netstat" allows anyone to instantly see what current Internet connections and listening ports any system has open and operating.  Mastering the power of this little-known command will greatly empower any security-conscious computer user.
 
 Show notes:
 https://www.grc.com/sn/sn-049.pdf
@@ -481,12 +481,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0050/sn0050.mp3</guid>
-      <title>Virtual Machine History &amp; Technology</title>
+      <title>50: Virtual Machine History &amp; Technology</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0050/sn0050.mp3</link>
-      <description>Steve and Leo discuss the historical beginnings of Virtual Machine technology, from the 40-year-old IBM VM/360 operating system through virtual machine language emulators and today’s VMware and Virtual PC solutions.  This kicks off a multi-episode discussion of the tremendous security benefits and practical uses of modern day Virtual Machine technology.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-050.pdf&#xA;https://www.grc.com/sn/sn-050.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the historical beginnings of Virtual Machine technology, from the 40-year-old IBM VM/360 operating system through virtual machine language emulators and todays VMware and Virtual PC solutions.  This kicks off a multi-episode discussion of the tremendous security benefits and practical uses of modern day Virtual Machine technology.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-050.pdf&#xA;https://www.grc.com/sn/sn-050.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 27 Jul 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0050/sn0050.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo discuss the historical beginnings of Virtual Machine technology, from the 40-year-old IBM VM/360 operating system through virtual machine language emulators and today’s VMware and Virtual PC solutions.  This kicks off a multi-episode discussion of the tremendous security benefits and practical uses of modern day Virtual Machine technology.
+      <itunes:summary><![CDATA[Steve and Leo discuss the historical beginnings of Virtual Machine technology, from the 40-year-old IBM VM/360 operating system through virtual machine language emulators and todays VMware and Virtual PC solutions.  This kicks off a multi-episode discussion of the tremendous security benefits and practical uses of modern day Virtual Machine technology.
 
 Show notes:
 https://www.grc.com/sn/sn-050.pdf
@@ -497,12 +497,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0051/sn0051.mp3</guid>
-      <title>Vista&#39;s Virgin Stack</title>
+      <title>51: Vista&#39;s Virgin Stack</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0051/sn0051.mp3</link>
-      <description>Steve and Leo discuss the revelation, courtesy of a Symantec study and report, that Microsoft’s forthcoming Vista operating system has a brand new, written from scratch, networking stack supporting old and new network protocols.  They consider the sobering security consequences of Microsoft’s decision to scrap Window’s old but battled-hardened network stack in favor of one that’s new and unproven.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-051.pdf&#xA;https://www.grc.com/sn/sn-051.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the revelation, courtesy of a Symantec study and report, that Microsofts forthcoming Vista operating system has a brand new, written from scratch, networking stack supporting old and new network protocols.  They consider the sobering security consequences of Microsofts decision to scrap Windows old but battled-hardened network stack in favor of one thats new and unproven.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-051.pdf&#xA;https://www.grc.com/sn/sn-051.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 03 Aug 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0051/sn0051.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo discuss the revelation, courtesy of a Symantec study and report, that Microsoft’s forthcoming Vista operating system has a brand new, written from scratch, networking stack supporting old and new network protocols.  They consider the sobering security consequences of Microsoft’s decision to scrap Window’s old but battled-hardened network stack in favor of one that’s new and unproven.
+      <itunes:summary><![CDATA[Steve and Leo discuss the revelation, courtesy of a Symantec study and report, that Microsofts forthcoming Vista operating system has a brand new, written from scratch, networking stack supporting old and new network protocols.  They consider the sobering security consequences of Microsofts decision to scrap Windows old but battled-hardened network stack in favor of one thats new and unproven.
 
 Show notes:
 https://www.grc.com/sn/sn-051.pdf
@@ -513,12 +513,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0052/sn0052.mp3</guid>
-      <title>A Busy Week for Security Troubles</title>
+      <title>52: A Busy Week for Security Troubles</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0052/sn0052.mp3</link>
-      <description>Steve and Leo discuss the week’s security woes, covering D-Link and Centrino wireless buffer overflows which allow remote wireless compromise of user’s networks and machines.  They explore the recent revelation that JavaScript can be used to scan an unwitting user’s internal network to take over their equipment.  They talk about the purchase of Hamachi by LogMeIn and how Botnets are being used to create fraudulent eBay users with perfect “feedback” in order to defraud even careful eBay users.  And more!&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-052.pdf&#xA;https://www.grc.com/sn/sn-052.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the weeks security woes, covering D-Link and Centrino wireless buffer overflows which allow remote wireless compromise of users networks and machines.  They explore the recent revelation that JavaScript can be used to scan an unwitting users internal network to take over their equipment.  They talk about the purchase of Hamachi by LogMeIn and how Botnets are being used to create fraudulent eBay users with perfect feedback in order to defraud even careful eBay users.  And more!&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-052.pdf&#xA;https://www.grc.com/sn/sn-052.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 10 Aug 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0052/sn0052.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo discuss the week’s security woes, covering D-Link and Centrino wireless buffer overflows which allow remote wireless compromise of user’s networks and machines.  They explore the recent revelation that JavaScript can be used to scan an unwitting user’s internal network to take over their equipment.  They talk about the purchase of Hamachi by LogMeIn and how Botnets are being used to create fraudulent eBay users with perfect “feedback” in order to defraud even careful eBay users.  And more!
+      <itunes:summary><![CDATA[Steve and Leo discuss the weeks security woes, covering D-Link and Centrino wireless buffer overflows which allow remote wireless compromise of users networks and machines.  They explore the recent revelation that JavaScript can be used to scan an unwitting users internal network to take over their equipment.  They talk about the purchase of Hamachi by LogMeIn and how Botnets are being used to create fraudulent eBay users with perfect feedback in order to defraud even careful eBay users.  And more!
 
 Show notes:
 https://www.grc.com/sn/sn-052.pdf
@@ -529,12 +529,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0053/sn0053.mp3</guid>
-      <title>VMware</title>
+      <title>53: VMware</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0053/sn0053.mp3</link>
-      <description>Steve and Leo briefly recap the concepts and technology of Virtual Machine (VM) technology, then thoroughly explore the free and commercial offerings of the earliest company to pioneer Intel-based high-performance virtual machines, VMware.  They focus upon the free VMware Player which allows Virtual Machine “Appliances” to be “played” on any supported platform.  They examine the value of these VMware solutions for creating highly secure “sandbox” containment environments as well as for cover-your-tracks privacy.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-053.pdf&#xA;https://www.grc.com/sn/sn-053.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo briefly recap the concepts and technology of Virtual Machine (VM) technology, then thoroughly explore the free and commercial offerings of the earliest company to pioneer Intel-based high-performance virtual machines, VMware.  They focus upon the free VMware Player which allows Virtual Machine Appliances to be played on any supported platform.  They examine the value of these VMware solutions for creating highly secure sandbox containment environments as well as for cover-your-tracks privacy.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-053.pdf&#xA;https://www.grc.com/sn/sn-053.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 17 Aug 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0053/sn0053.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo briefly recap the concepts and technology of Virtual Machine (VM) technology, then thoroughly explore the free and commercial offerings of the earliest company to pioneer Intel-based high-performance virtual machines, VMware.  They focus upon the free VMware Player which allows Virtual Machine “Appliances” to be “played” on any supported platform.  They examine the value of these VMware solutions for creating highly secure “sandbox” containment environments as well as for cover-your-tracks privacy.
+      <itunes:summary><![CDATA[Steve and Leo briefly recap the concepts and technology of Virtual Machine (VM) technology, then thoroughly explore the free and commercial offerings of the earliest company to pioneer Intel-based high-performance virtual machines, VMware.  They focus upon the free VMware Player which allows Virtual Machine Appliances to be played on any supported platform.  They examine the value of these VMware solutions for creating highly secure sandbox containment environments as well as for cover-your-tracks privacy.
 
 Show notes:
 https://www.grc.com/sn/sn-053.pdf
@@ -545,12 +545,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0054/sn0054.mp3</guid>
-      <title>Blue Pill</title>
+      <title>54: Blue Pill</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0054/sn0054.mp3</link>
-      <description>Steve and Leo continue their ongoing discussion of the security implications and applications of virtualization and virtual machines.  This week they examine the &#34;Blue Pill&#34; OS subversion technology made possible by AMD’s next generation virtualization hardware support.  They debunk the hype surrounding this interesting and worrisome capability, placing it into a larger security and virtualization context.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-054.pdf&#xA;https://www.grc.com/sn/sn-054.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo continue their ongoing discussion of the security implications and applications of virtualization and virtual machines.  This week they examine the &#34;Blue Pill&#34; OS subversion technology made possible by AMDs next generation virtualization hardware support.  They debunk the hype surrounding this interesting and worrisome capability, placing it into a larger security and virtualization context.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-054.pdf&#xA;https://www.grc.com/sn/sn-054.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 24 Aug 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0054/sn0054.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo continue their ongoing discussion of the security implications and applications of virtualization and virtual machines.  This week they examine the "Blue Pill" OS subversion technology made possible by AMD’s next generation virtualization hardware support.  They debunk the hype surrounding this interesting and worrisome capability, placing it into a larger security and virtualization context.
+      <itunes:summary><![CDATA[Steve and Leo continue their ongoing discussion of the security implications and applications of virtualization and virtual machines.  This week they examine the "Blue Pill" OS subversion technology made possible by AMDs next generation virtualization hardware support.  They debunk the hype surrounding this interesting and worrisome capability, placing it into a larger security and virtualization context.
 
 Show notes:
 https://www.grc.com/sn/sn-054.pdf
@@ -561,12 +561,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0055/sn0055.mp3</guid>
-      <title>Application Sandboxes</title>
+      <title>55: Application Sandboxes</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0055/sn0055.mp3</link>
-      <description>Having discussed “heavy weight&#34; virtualization technology in recent weeks, this week Steve and Leo examine “lighter weight&#34; application sandboxing technology and the software solutions currently available to perform this form of application “wrapping.&#34;  They discuss the inherent limitations of sandbox security and explain how valuable sandboxes can be for privacy enforcement.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-055.pdf&#xA;https://www.grc.com/sn/sn-055.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Having discussed heavy weight&#34; virtualization technology in recent weeks, this week Steve and Leo examine lighter weight&#34; application sandboxing technology and the software solutions currently available to perform this form of application wrapping.&#34;  They discuss the inherent limitations of sandbox security and explain how valuable sandboxes can be for privacy enforcement.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-055.pdf&#xA;https://www.grc.com/sn/sn-055.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 31 Aug 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0055/sn0055.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Having discussed “heavy weight" virtualization technology in recent weeks, this week Steve and Leo examine “lighter weight" application sandboxing technology and the software solutions currently available to perform this form of application “wrapping."  They discuss the inherent limitations of sandbox security and explain how valuable sandboxes can be for privacy enforcement.
+      <itunes:summary><![CDATA[Having discussed heavy weight" virtualization technology in recent weeks, this week Steve and Leo examine lighter weight" application sandboxing technology and the software solutions currently available to perform this form of application wrapping."  They discuss the inherent limitations of sandbox security and explain how valuable sandboxes can be for privacy enforcement.
 
 Show notes:
 https://www.grc.com/sn/sn-055.pdf
@@ -577,7 +577,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0056/sn0056.mp3</guid>
-      <title>Listener Feedback Q&amp;A #10</title>
+      <title>56: Listener Feedback Q&amp;A #10</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0056/sn0056.mp3</link>
       <description>Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#34;application notes&#34; for any of the security technologies and issues they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-056.pdf&#xA;https://www.grc.com/sn/sn-056.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 07 Sep 2006 00:00:00 +0000</pubDate>
@@ -593,12 +593,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0057/sn0057.mp3</guid>
-      <title>Virtual PC versus VMware</title>
+      <title>57: Virtual PC versus VMware</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0057/sn0057.mp3</link>
-      <description>Steve and Leo wrap up their multi-week series about virtual machines and virtual machine technology by closely analyzing the differences and similarities between the free and commercial VM products offered by Microsoft and VMware.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-057.pdf&#xA;https://www.grc.com/sn/sn-057.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo wrap up their multi-week series about virtual machines and virtual machine technology by closely analyzing the differences and similarities between the free and commercial VM products offered by Microsoft andVMware.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-057.pdf&#xA;https://www.grc.com/sn/sn-057.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 14 Sep 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0057/sn0057.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo wrap up their multi-week series about virtual machines and virtual machine technology by closely analyzing the differences and similarities between the free and commercial VM products offered by Microsoft and VMware.
+      <itunes:summary><![CDATA[Steve and Leo wrap up their multi-week series about virtual machines and virtual machine technology by closely analyzing the differences and similarities between the free and commercial VM products offered by Microsoft andVMware.
 
 Show notes:
 https://www.grc.com/sn/sn-057.pdf
@@ -609,12 +609,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0058/sn0058.mp3</guid>
-      <title>Two New Critical Windows Problems</title>
+      <title>58: Two New Critical Windows Problems</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0058/sn0058.mp3</link>
-      <description>Leo and I discuss the breaking news of two new critical Windows problems:  A new vulnerability that is being actively exploited on the web to install malware into innocent users’ machines – and a workaround that all Windows users can employ to protect themselves.  And a serious file-corruption bug Microsoft introduced into last month&#39;s security update that affects all Windows 2000 users.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-058.pdf&#xA;https://www.grc.com/sn/sn-058.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Leo and I discuss the breaking news of two new critical Windows problems:  A new vulnerability that is being actively exploited on the web to install malware into innocent users machines  and a workaround that all Windows users can employ to protect themselves.  And a serious file-corruption bug Microsoft introduced into last month&#39;s security update that affects all Windows 2000 users.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-058.pdf&#xA;https://www.grc.com/sn/sn-058.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 21 Sep 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0058/sn0058.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Leo and I discuss the breaking news of two new critical Windows problems:  A new vulnerability that is being actively exploited on the web to install malware into innocent users’ machines – and a workaround that all Windows users can employ to protect themselves.  And a serious file-corruption bug Microsoft introduced into last month's security update that affects all Windows 2000 users.
+      <itunes:summary><![CDATA[Leo and I discuss the breaking news of two new critical Windows problems:  A new vulnerability that is being actively exploited on the web to install malware into innocent users machines  and a workaround that all Windows users can employ to protect themselves.  And a serious file-corruption bug Microsoft introduced into last month's security update that affects all Windows 2000 users.
 
 Show notes:
 https://www.grc.com/sn/sn-058.pdf
@@ -625,12 +625,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0059/sn0059.mp3</guid>
-      <title>Comparing &#39;Parallels&#39; VMs</title>
+      <title>59: Comparing &#39;Parallels&#39; VMs</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0059/sn0059.mp3</link>
-      <description>Completing the topic of current virtual machine technology and products, Steve and Leo closely examine the commercial multiplatform virtual machine offerings from “Parallels,” comparing them to VMware and Virtual PC.  Steve also corrects an important incorrect statement he made the previous week about features missing from VMware’s free Server VM solution.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-059.pdf&#xA;https://www.grc.com/sn/sn-059.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Completing the topic of current virtual machine technology and products, Steve and Leo closely examine the commercial multiplatform virtual machine offerings from Parallels, comparing them to VMware and Virtual PC.  Steve also corrects an important incorrect statement he made the previous week about features missing from VMwares free Server VM solution.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-059.pdf&#xA;https://www.grc.com/sn/sn-059.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 28 Sep 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0059/sn0059.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Completing the topic of current virtual machine technology and products, Steve and Leo closely examine the commercial multiplatform virtual machine offerings from “Parallels,” comparing them to VMware and Virtual PC.  Steve also corrects an important incorrect statement he made the previous week about features missing from VMware’s free Server VM solution.
+      <itunes:summary><![CDATA[Completing the topic of current virtual machine technology and products, Steve and Leo closely examine the commercial multiplatform virtual machine offerings from Parallels, comparing them to VMware and Virtual PC.  Steve also corrects an important incorrect statement he made the previous week about features missing from VMwares free Server VM solution.
 
 Show notes:
 https://www.grc.com/sn/sn-059.pdf
@@ -641,12 +641,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0060/sn0060.mp3</guid>
-      <title>Listener Feedback Q&amp;A #11</title>
+      <title>60: Listener Feedback Q&amp;A #11</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0060/sn0060.mp3</link>
-      <description>Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world “application notes&#34; for any of the security technologies and issues they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-060.pdf&#xA;https://www.grc.com/sn/sn-060.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes&#34; for any of the security technologies and issues they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-060.pdf&#xA;https://www.grc.com/sn/sn-060.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 05 Oct 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0060/sn0060.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world “application notes" for any of the security technologies and issues they have previously discussed.
+      <itunes:summary><![CDATA[Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes" for any of the security technologies and issues they have previously discussed.
 
 Show notes:
 https://www.grc.com/sn/sn-060.pdf
@@ -657,7 +657,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0061/sn0061.mp3</guid>
-      <title>ISP Privacy and Security</title>
+      <title>61: ISP Privacy and Security</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0061/sn0061.mp3</link>
       <description>Steve and Leo discuss two new 0-day Internet Explorer vulnerabilities (both now being exploited on the Internet); then they explore the commonly expressed privacy and security concerns presented by the need to trust Internet Service Providers (ISP).&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-061.pdf&#xA;https://www.grc.com/sn/sn-061.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 12 Oct 2006 00:00:00 +0000</pubDate>
@@ -673,7 +673,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0062/sn0062.mp3</guid>
-      <title>Internet Proxies</title>
+      <title>62: Internet Proxies</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0062/sn0062.mp3</link>
       <description>Steve and Leo discuss the entire range of applications for Internet Proxies and Proxy Servers.  They describe the many different uses for proxies while discussing both the benefits and the potential security and privacy liabilities created by filtering and caching web and other Internet content.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-062.pdf&#xA;https://www.grc.com/sn/sn-062.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 19 Oct 2006 00:00:00 +0000</pubDate>
@@ -689,7 +689,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0063/sn0063.mp3</guid>
-      <title>MojoPac</title>
+      <title>63: MojoPac</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0063/sn0063.mp3</link>
       <description>Steve and Leo get deeply into the new MojoPac product from RingCube Technologies.  After spending several days plumbing the depths of this intriguing new idea for installing secure and private Windows program and file installations onto transportable USB devices, Steve tells all about what he found and what he believes it means now and in the future.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-063.pdf&#xA;https://www.grc.com/sn/sn-063.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 26 Oct 2006 00:00:00 +0000</pubDate>
@@ -705,7 +705,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0064/sn0064.mp3</guid>
-      <title>Listener Feedback Q&amp;A #12</title>
+      <title>64: Listener Feedback Q&amp;A #12</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0064/sn0064.mp3</link>
       <description>Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#34;application notes&#34; for any of the security technologies and issues they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-064.pdf&#xA;https://www.grc.com/sn/sn-064.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 02 Nov 2006 00:00:00 +0000</pubDate>
@@ -721,12 +721,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0065/sn0065.mp3</guid>
-      <title>Why Is Security So Difficult?</title>
+      <title>65: Why Is Security So Difficult?</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0065/sn0065.mp3</link>
-      <description>Steve and Leo get a bit philosophical this week.  They discuss the broad nature of Security – all security, not just computer security.  They propose a new definition of &#34;Security&#34; and flesh it out with examples to illustrate why security is so difficult, if not impossible.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-065.pdf&#xA;https://www.grc.com/sn/sn-065.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo get a bit philosophical this week.  They discuss the broad nature of Security  all security, not just computer security. They propose a new definition of &#34;Security&#34; and flesh it out with examples to illustrate why security is so difficult, if not impossible.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-065.pdf&#xA;https://www.grc.com/sn/sn-065.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 09 Nov 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0065/sn0065.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo get a bit philosophical this week.  They discuss the broad nature of Security – all security, not just computer security.  They propose a new definition of "Security" and flesh it out with examples to illustrate why security is so difficult, if not impossible.
+      <itunes:summary><![CDATA[Steve and Leo get a bit philosophical this week.  They discuss the broad nature of Security  all security, not just computer security. They propose a new definition of "Security" and flesh it out with examples to illustrate why security is so difficult, if not impossible.
 
 Show notes:
 https://www.grc.com/sn/sn-065.pdf
@@ -737,12 +737,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0066/sn0066.mp3</guid>
-      <title>Windows Vista Security</title>
+      <title>66: Windows Vista Security</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0066/sn0066.mp3</link>
-      <description>Steve and Leo describe the new security features Microsoft has designed and built into their new version of Windows, Vista.  They examine the impact of having such features built into the base product rather than offered by third parties as add-ons.  And they carefully compare the security benefits of Vista on 64-bit versus 32�bit hardware platforms.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-066.pdf&#xA;https://www.grc.com/sn/sn-066.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo describe the new security features Microsoft has designed and built into their new version of Windows, Vista.  They examine the impact of having such features built into the base product rather than offered by third parties as add-ons.  And they carefully compare the security benefits of Vista on 64-bit versus 32 bit hardware platforms.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-066.pdf&#xA;https://www.grc.com/sn/sn-066.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 16 Nov 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0066/sn0066.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[Steve and Leo describe the new security features Microsoft has designed and built into their new version of Windows, Vista.  They examine the impact of having such features built into the base product rather than offered by third parties as add-ons.  And they carefully compare the security benefits of Vista on 64-bit versus 32bit hardware platforms.
+      <itunes:summary><![CDATA[Steve and Leo describe the new security features Microsoft has designed and built into their new version of Windows, Vista.  They examine the impact of having such features built into the base product rather than offered by third parties as add-ons.  And they carefully compare the security benefits of Vista on 64-bit versus 32 bit hardware platforms.
 
 Show notes:
 https://www.grc.com/sn/sn-066.pdf
@@ -753,7 +753,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0067/sn0067.mp3</guid>
-      <title>Kernel Patch Protection</title>
+      <title>67: Kernel Patch Protection</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0067/sn0067.mp3</link>
       <description>Steve and Leo first discuss errata from previous episodes, correcting, among other things, Steve&#39;s first poor impression of Vista&#39;s performance. Then they discuss the results of Steve&#39;s in-depth research into the inner workings of Vista&#39;s Kernel Patch Protection (aka PatchGuard) to uncover its limitations, benefits, and real purpose.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-067.pdf&#xA;https://www.grc.com/sn/sn-067.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 23 Nov 2006 00:00:00 +0000</pubDate>
@@ -769,7 +769,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0068/sn0068.mp3</guid>
-      <title>Listener Feedback Q&amp;A #13</title>
+      <title>68: Listener Feedback Q&amp;A #13</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0068/sn0068.mp3</link>
       <description>Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#34;application notes&#34; for any of the security technologies and issues they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-068.pdf&#xA;https://www.grc.com/sn/sn-068.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 30 Nov 2006 00:00:00 +0000</pubDate>
@@ -785,7 +785,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0069/sn0069.mp3</guid>
-      <title>The Social Implications of Internet Anonymity</title>
+      <title>69: The Social Implications of Internet Anonymity</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0069/sn0069.mp3</link>
       <description>To create some background for next week&#39;s discussion about the significant technical challenges involved in creating true anonymity on the Internet, this week Steve and Leo discuss the consequences of use and abuse of the extreme power afforded by many different forms of Internet anonymity, privacy, and freedom of speech.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-069.pdf&#xA;https://www.grc.com/sn/sn-069.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 07 Dec 2006 00:00:00 +0000</pubDate>
@@ -801,7 +801,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0070/sn0070.mp3</guid>
-      <title>Achieving Internet Anonymity</title>
+      <title>70: Achieving Internet Anonymity</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0070/sn0070.mp3</link>
       <description>Last week Steve and Leo discussed the social implications and the social power of Internet Anonymity.  This week they discuss the technology of Freenet and TOR (Onion Router) networks, and Steve describes the detailed technical operation of both systems.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-070.pdf&#xA;https://www.grc.com/sn/sn-070.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 14 Dec 2006 00:00:00 +0000</pubDate>
@@ -817,12 +817,12 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0071/sn0071.mp3</guid>
-      <title>SecurAble</title>
+      <title>71: SecurAble</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0071/sn0071.mp3</link>
-      <description>This week Steve takes the wraps off his forthcoming security freeware utility:  SecurAble.  Although he&#39;s still working to get it finished, tested, and ready for initial release, Steve describes what SecurAble will do and some of the unexpected hurdles he’s encountered with the application and with details of Windows operation along the way.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-071.pdf&#xA;https://www.grc.com/sn/sn-071.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>This week Steve takes the wraps off his forthcoming security freeware utility:  SecurAble.  Although he&#39;s still working to get it finished, tested, and ready for initial release, Steve describes what SecurAble will do and some of the unexpected hurdles hes encountered with the application and with details of Windows operation along theway.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-071.pdf&#xA;https://www.grc.com/sn/sn-071.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 21 Dec 2006 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0071/sn0071.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[This week Steve takes the wraps off his forthcoming security freeware utility:  SecurAble.  Although he's still working to get it finished, tested, and ready for initial release, Steve describes what SecurAble will do and some of the unexpected hurdles he’s encountered with the application and with details of Windows operation along the way.
+      <itunes:summary><![CDATA[This week Steve takes the wraps off his forthcoming security freeware utility:  SecurAble.  Although he's still working to get it finished, tested, and ready for initial release, Steve describes what SecurAble will do and some of the unexpected hurdles hes encountered with the application and with details of Windows operation along theway.
 
 Show notes:
 https://www.grc.com/sn/sn-071.pdf
@@ -833,7 +833,7 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0072/sn0072.mp3</guid>
-      <title>Listener Feedback Q&amp;A #14</title>
+      <title>72: Listener Feedback Q&amp;A #14</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0072/sn0072.mp3</link>
       <description>Steve and Leo discuss questions asked by listeners of their previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#34;application notes&#34; for any of the security technologies and issues they have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-072.pdf&#xA;https://www.grc.com/sn/sn-072.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 28 Dec 2006 00:00:00 +0000</pubDate>

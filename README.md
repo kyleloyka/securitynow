@@ -4,7 +4,7 @@ Security Now! is a great computer security podcast that's been producing weekly 
 
 ## Feed URLs
 | Year        | Feed URL |
-| ----------- |----------|
+| :----------- |----------|
 | 2005 | https://raw.githubusercontent.com/kyleloyka/securitynow/master/generated_feeds/sn-2005.xml |
 | 2006 | https://raw.githubusercontent.com/kyleloyka/securitynow/master/generated_feeds/sn-2006.xml |
 | 2007 | https://raw.githubusercontent.com/kyleloyka/securitynow/master/generated_feeds/sn-2007.xml |
@@ -22,7 +22,6 @@ Security Now! is a great computer security podcast that's been producing weekly 
 | 2019 (partial) | https://raw.githubusercontent.com/kyleloyka/securitynow/master/generated_feeds/sn-2019.xml |
 
 ## Dependencies
-  * `go get -u` golang.org/x/text/encoding/charmap
   * `go get -u` github.com/eduncan911/podcast
 
 This project is not affiliated with TWIT.tv or Security Now!
