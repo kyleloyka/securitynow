@@ -10,6 +10,7 @@ import (
 	"strconv"
 	"strings"
 	"time"
+	"unicode"
 	"unicode/utf8"
 
 	"github.com/kyleloyka/securitynow/pkg/episode"
@@ -143,7 +144,7 @@ func toValidUTF8(enc []byte) []byte {
 		if r == utf8.RuneError {
 			continue
 		}
-		if r == '\x1e' {
+		if r != '\x0a' && unicode.IsControl(r) {
 			out = append(out, ' ')
 			continue
 		}
