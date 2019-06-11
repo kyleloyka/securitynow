@@ -51,9 +51,18 @@ func Fetch(episodeNumber int) (*episode.Episode, error) {
 		ep, err = parseEpisode(header)
 		if err != nil {
 			if err == errIncompleteHeader {
-				// resets resp.Body back to its initial state
-				resp.Body = ioutil.NopCloser(io.MultiReader(bytes.NewReader(header), resp.Body))
-				continue
+				if i < 2 {
+					// resets resp.Body back to its initial state
+					resp.Body = ioutil.NopCloser(io.MultiReader(bytes.NewReader(header), resp.Body))
+					continue
+				} else {
+					ep, err := minimalParseEpisode(episodeNumber)
+					if err != nil {
+						return nil, fmt.Errorf("Security Now Fetch: couldn't retrieve show notes, "+
+							"recovery failed: %s", err)
+					}
+					return ep, ErrEpisodeNotesNotFound
+				}
 			}
 			return nil, err
 		}

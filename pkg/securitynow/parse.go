@@ -10,19 +10,17 @@ import (
 	"strconv"
 	"strings"
 	"time"
+	"unicode/utf8"
 
 	"github.com/kyleloyka/securitynow/pkg/episode"
-
-	"golang.org/x/text/encoding/charmap"
 )
 
 var errIncompleteHeader = errors.New("Show notes header too small." +
 	"Couldn't parse all episode metadata")
 
 func parseEpisode(body []byte) (*episode.Episode, error) {
-	// some show notes use this Windows text encoding, which causes issues with UTF-8
-	// and the podcast feed
-	body = decodeWindows1250(body)
+	// some show notes include non UTF-8 characters
+	body = toValidUTF8(body)
 
 	fields := make(map[string]string)
 	buf := bytes.NewBuffer(body)
@@ -137,8 +135,19 @@ func ordinalToIntReplacement(s string) string {
 	return re.ReplaceAllString(s, "$1")
 }
 
-func decodeWindows1250(enc []byte) []byte {
-	dec := charmap.Windows1250.NewDecoder()
-	out, _ := dec.Bytes(enc)
-	return out
+func toValidUTF8(enc []byte) []byte {
+	out := make([]rune, 0, len(enc))
+	for len(enc) > 0 {
+		r, size := utf8.DecodeRune(enc)
+		enc = enc[size:]
+		if r == utf8.RuneError {
+			continue
+		}
+		if r == '\x1e' {
+			out = append(out, ' ')
+			continue
+		}
+		out = append(out, r)
+	}
+	return []byte(string(out))
 }
