@@ -5,21 +5,21 @@ Security Now! is a great computer security podcast that's been producing weekly 
 ## Feed URLs
 | Year        | Feed URL |
 | :----------- |----------|
-| 2005 | kyleloyka.com/securitynow/sn-2005.xml |
-| 2006 | kyleloyka.com/securitynow/sn-2006.xml |
-| 2007 | kyleloyka.com/securitynow/sn-2007.xml |
-| 2008 | kyleloyka.com/securitynow/sn-2008.xml |
-| 2009 | kyleloyka.com/securitynow/sn-2009.xml |
-| 2010 | kyleloyka.com/securitynow/sn-2010.xml |
-| 2011 | kyleloyka.com/securitynow/sn-2011.xml |
-| 2012 | kyleloyka.com/securitynow/sn-2012.xml |
-| 2013 | kyleloyka.com/securitynow/sn-2013.xml |
-| 2014 | kyleloyka.com/securitynow/sn-2014.xml |
-| 2015 | kyleloyka.com/securitynow/sn-2015.xml |
-| 2016 | kyleloyka.com/securitynow/sn-2016.xml |
-| 2017 | kyleloyka.com/securitynow/sn-2017.xml |
-| 2018 | kyleloyka.com/securitynow/sn-2018.xml |
-| 2019 (partial) | kyleloyka.com/securitynow/sn-2019.xml |
+| 2005 | https://kyleloyka.com/securitynow/sn-2005.xml |
+| 2006 | https://kyleloyka.com/securitynow/sn-2006.xml |
+| 2007 | https://kyleloyka.com/securitynow/sn-2007.xml |
+| 2008 | https://kyleloyka.com/securitynow/sn-2008.xml |
+| 2009 | https://kyleloyka.com/securitynow/sn-2009.xml |
+| 2010 | https://kyleloyka.com/securitynow/sn-2010.xml |
+| 2011 | https://kyleloyka.com/securitynow/sn-2011.xml |
+| 2012 | https://kyleloyka.com/securitynow/sn-2012.xml |
+| 2013 | https://kyleloyka.com/securitynow/sn-2013.xml |
+| 2014 | https://kyleloyka.com/securitynow/sn-2014.xml |
+| 2015 | https://kyleloyka.com/securitynow/sn-2015.xml |
+| 2016 | https://kyleloyka.com/securitynow/sn-2016.xml |
+| 2017 | https://kyleloyka.com/securitynow/sn-2017.xml |
+| 2018 | https://kyleloyka.com/securitynow/sn-2018.xml |
+| 2019 (partial) | https://kyleloyka.com/securitynow/sn-2019.xml |
 
 ## Dependencies
   * `go get -u` github.com/eduncan911/podcast
