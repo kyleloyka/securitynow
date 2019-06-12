@@ -3,7 +3,7 @@
 Security Now! is a great computer security podcast that's been producing weekly shows for over 15 years. The official Security Now! podcast feed only offers the latest 10 episodes. This project will generate podcast feeds for the episodes that are no longer offered on the official feed.
 
 ## Feed URLs
-| Year        | Feed URL |
+| Year        | Feed URL (these links point to the files in the `/docs` folder of this repo)|
 | :----------- |----------|
 | 2005 | https://kyleloyka.com/securitynow/sn-2005.xml |
 | 2006 | https://kyleloyka.com/securitynow/sn-2006.xml |
