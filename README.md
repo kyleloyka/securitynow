@@ -26,7 +26,8 @@ Security Now is a great computer security podcast that's been producing weekly s
 ## Dependencies
   * `go get -u` github.com/eduncan911/podcast
 
-This project is not affiliated with TWIT.tv or Security Now
+This project is not affiliated with TWIT.tv or Security Now.
+
 Official Security Now podcast resources: 
   * https://www.twit.tv/shows/security-now
   * https://www.grc.com/securitynow.htm
