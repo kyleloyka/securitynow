@@ -36,7 +36,7 @@ func TestFeedGeneration(t *testing.T) {
 var expectedXML = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Security Now! - 2019</title>
+    <title>Security Now - 2019</title>
     <link>https://www.twit.tv/shows/security-now</link>
     <description>Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte.</description>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
@@ -44,15 +44,15 @@ var expectedXML = `<?xml version="1.0" encoding="UTF-8"?>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
     <image>
-      <url>https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg</url>
-      <title>Security Now! - 2019</title>
+      <url>https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png</url>
+      <title>Security Now - 2019</title>
       <link>https://www.twit.tv/shows/security-now</link>
     </image>
     <itunes:summary><![CDATA[Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte.]]></itunes:summary>
-    <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+    <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0001/sn0001.mp3</guid>
-      <title>As the worm turns: The first Internet worms of 2005</title>
+      <title>1: As the worm turns: The first Internet worms of 2005</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0001/sn0001.mp3</link>
       <description>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days.  What does this mean for the future of Internet security?&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-001.pdf&#xA;https://www.grc.com/sn/sn-001.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Fri, 19 Aug 2005 00:00:00 +0000</pubDate>
@@ -64,11 +64,11 @@ https://www.grc.com/sn/sn-001.pdf
 https://www.grc.com/sn/sn-001.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0700/sn0700.mp3</guid>
-      <title>700 &amp; Counting</title>
+      <title>700: 700 &amp; Counting</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0700/sn0700.mp3</link>
       <description>This week we discuss Chrome getting spell check for URLs; a bunch of Linux news with reasons to be sure you&#39;re patched up; some performance enhancements, updates, additions, and deletions from Chrome and Firefox; more Facebook nonsense; a bold move planned by the Japanese government; Ubiquiti routers again in trouble; a hopeful and welcome new initiative for the Chrome browser; a piece of errata; a quick SQRL update; and some follow-up thoughts about VPN connectivity.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-700.pdf&#xA;https://www.grc.com/sn/sn-700.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -80,7 +80,7 @@ https://www.grc.com/sn/sn-700.pdf
 https://www.grc.com/sn/sn-700.txt
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
-      <itunes:image href="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn1400audio.jpg"></itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     </item>
   </channel>
 </rss>`

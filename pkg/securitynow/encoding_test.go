@@ -38,12 +38,3 @@ func TestProperDecoding(t *testing.T) {
 		t.Error("decoded doesnt match expected")
 	}
 }
-
-func TestDecode(t *testing.T) {
-	const sample = "\xbd\xb2\x3d\xbc\x20\xe2\x8c\x98"
-	const expect = "= "
-	resp := toValidUTF8([]byte(sample))
-	if string(resp) != expect {
-		t.Errorf("got %q, want %q", resp, expect)
-	}
-}

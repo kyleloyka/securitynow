@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Security Now! - 2010</title>
+    <title>Security Now - 2010</title>
     <link>https://www.twit.tv/shows/security-now</link>
     <description>Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte.</description>
     <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
@@ -10,7 +10,7 @@
     <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
     <image>
       <url>https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png</url>
-      <title>Security Now! - 2010</title>
+      <title>Security Now - 2010</title>
       <link>https://www.twit.tv/shows/security-now</link>
     </image>
     <itunes:summary><![CDATA[Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte.]]></itunes:summary>

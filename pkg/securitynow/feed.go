@@ -15,7 +15,7 @@ type Feed struct {
 	Year int
 }
 
-// NewFeed creates a new Security Now! podcast feed
+// NewFeed creates a new Security Now podcast feed
 func NewFeed(year int) *Feed {
 	feed := new(Feed)
 	feed.Year = year
@@ -25,7 +25,7 @@ func NewFeed(year int) *Feed {
 		modified = time.Now()
 	}
 	feed.Podcast = podcast.New(
-		fmt.Sprintf("Security Now! - %d", year),
+		fmt.Sprintf("Security Now - %d", year),
 		showURL,
 		showSummary,
 		&create, &modified,

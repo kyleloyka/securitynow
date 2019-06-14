@@ -4,11 +4,12 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"path/filepath"
 
 	"github.com/kyleloyka/securitynow/pkg/securitynow"
 )
 
-var outputFolder = "generated_feeds"
+var outputFolder = "docs"
 
 func makeOutputFolder() error {
 	if err := os.Mkdir(outputFolder, 0755); err != nil {
@@ -21,10 +22,11 @@ func makeOutputFolder() error {
 
 func writeFeedToFile(feed *securitynow.Feed) {
 	writeToFile := true
-	file, err := os.OpenFile(fmt.Sprintf("generated_feeds/sn-%04d.xml", feed.Year),
+	fullpath := filepath.Join(outputFolder, "/sn-%04d.xml")
+	file, err := os.OpenFile(fmt.Sprintf(fullpath, feed.Year),
 		os.O_CREATE|os.O_RDWR, 0755)
 	if err != nil {
-		log.Printf("Error: can't open generated_feeds/sn-%04d.xml: %v", feed.Year, err)
+		log.Printf("Error: can't open "+fullpath+": %v", feed.Year, err)
 		writeToFile = false
 	}
 	if writeToFile {
