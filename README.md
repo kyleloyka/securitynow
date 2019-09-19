@@ -7,6 +7,9 @@ Security Now is a great computer security podcast that's been producing weekly s
 
 | Year        | Feed URL |
 | :----------- |----------|
+| All | https://kyleloyka.com/securitynow/sn-all.xml |
+| | |
+| By Year | |
 | 2005 | https://kyleloyka.com/securitynow/sn-2005.xml |
 | 2006 | https://kyleloyka.com/securitynow/sn-2006.xml |
 | 2007 | https://kyleloyka.com/securitynow/sn-2007.xml |
