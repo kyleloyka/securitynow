@@ -19,7 +19,7 @@ var ErrEpisodeNotesNotFound = errors.New("could not retrieve show notes for epis
 // media url and title name. In this case, ErrEpisodeNotesNotFound will be returned along with the
 // minimal episode entry.
 func Fetch(episodeNumber int) (*episode.Episode, error) {
-	metadataURL := fmt.Sprintf(showNotesURL, episodeNumber)
+	metadataURL := fmt.Sprintf(showTranscriptTXTURL, episodeNumber)
 
 	resp, err := http.Get(metadataURL)
 	if err != nil {

@@ -7,7 +7,7 @@ import (
 )
 
 func TestFeedGeneration(t *testing.T) {
-	feed := NewFeed(2019)
+	feed := NewFeed(2019, false)
 	ep1, err := parseEpisode(SN001Header)
 	ep700, err := parseEpisode(SN700Header)
 	if err != nil {
@@ -29,7 +29,7 @@ func TestFeedGeneration(t *testing.T) {
 	}
 
 	// // Uncomment to write generated xml to a file
-	// f, _ := os.OpenFile("feed.xml", os.O_CREATE|os.O_RDWR, 0666)
+	// f, _ := os.OpenFile("test-feed.xml", os.O_CREATE|os.O_RDWR, 0666)
 	// feed.Write(f)
 }
 
@@ -54,15 +54,16 @@ var expectedXML = `<?xml version="1.0" encoding="UTF-8"?>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0001/sn0001.mp3</guid>
       <title>1: As the worm turns: The first Internet worms of 2005</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0001/sn0001.mp3</link>
-      <description>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days.  What does this mean for the future of Internet security?&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-001.pdf&#xA;https://www.grc.com/sn/sn-001.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days.  What does this mean for the future of Internet security?&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-001.txt&#xA;https://www.grc.com/sn/sn-001.pdf&#xA;https://www.grc.com/sn/sn-001-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Fri, 19 Aug 2005 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0001/sn0001.mp3" length="0" type="audio/mpeg"></enclosure>
       <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days.  What does this mean for the future of Internet security?
 
 Show notes:
-https://www.grc.com/sn/sn-001.pdf
-https://www.grc.com/sn/sn-001.txt
+<a href="https://www.grc.com/sn/sn-001.txt">https://www.grc.com/sn/sn-001.txt</a>
+<a href="https://www.grc.com/sn/sn-001.pdf">https://www.grc.com/sn/sn-001.pdf</a>
+<a href="https://www.grc.com/sn/sn-001-notes.pdf">https://www.grc.com/sn/sn-001-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -71,15 +72,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0700/sn0700.mp3</guid>
       <title>700: 700 &amp; Counting</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0700/sn0700.mp3</link>
-      <description>This week we discuss Chrome getting spell check for URLs; a bunch of Linux news with reasons to be sure you&#39;re patched up; some performance enhancements, updates, additions, and deletions from Chrome and Firefox; more Facebook nonsense; a bold move planned by the Japanese government; Ubiquiti routers again in trouble; a hopeful and welcome new initiative for the Chrome browser; a piece of errata; a quick SQRL update; and some follow-up thoughts about VPN connectivity.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-700.pdf&#xA;https://www.grc.com/sn/sn-700.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>This week we discuss Chrome getting spell check for URLs; a bunch of Linux news with reasons to be sure you&#39;re patched up; some performance enhancements, updates, additions, and deletions from Chrome and Firefox; more Facebook nonsense; a bold move planned by the Japanese government; Ubiquiti routers again in trouble; a hopeful and welcome new initiative for the Chrome browser; a piece of errata; a quick SQRL update; and some follow-up thoughts about VPN connectivity.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-700.txt&#xA;https://www.grc.com/sn/sn-700.pdf&#xA;https://www.grc.com/sn/sn-700-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0700/sn0700.mp3" length="0" type="audio/mpeg"></enclosure>
       <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[This week we discuss Chrome getting spell check for URLs; a bunch of Linux news with reasons to be sure you're patched up; some performance enhancements, updates, additions, and deletions from Chrome and Firefox; more Facebook nonsense; a bold move planned by the Japanese government; Ubiquiti routers again in trouble; a hopeful and welcome new initiative for the Chrome browser; a piece of errata; a quick SQRL update; and some follow-up thoughts about VPN connectivity.
 
 Show notes:
-https://www.grc.com/sn/sn-700.pdf
-https://www.grc.com/sn/sn-700.txt
+<a href="https://www.grc.com/sn/sn-700.txt">https://www.grc.com/sn/sn-700.txt</a>
+<a href="https://www.grc.com/sn/sn-700.pdf">https://www.grc.com/sn/sn-700.pdf</a>
+<a href="https://www.grc.com/sn/sn-700-notes.pdf">https://www.grc.com/sn/sn-700-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>

@@ -20,13 +20,19 @@ func makeOutputFolder() error {
 	return nil
 }
 
-func writeFeedToFile(feed *securitynow.Feed) {
+func writeFeedToFile(feed *securitynow.Feed, singleFeed bool) {
 	writeToFile := true
-	fullpath := filepath.Join(outputFolder, "/sn-%04d.xml")
-	file, err := os.OpenFile(fmt.Sprintf(fullpath, feed.Year),
+	fullpath := filepath.Join(outputFolder, "/sn-%s.xml")
+
+	specifier := fmt.Sprintf("%d", feed.Year)
+	if singleFeed {
+		specifier = "all"
+	}
+
+	file, err := os.OpenFile(fmt.Sprintf(fullpath, specifier),
 		os.O_CREATE|os.O_RDWR, 0755)
 	if err != nil {
-		log.Printf("Error: can't open "+fullpath+": %v", feed.Year, err)
+		log.Printf("Error: can't open "+fullpath+": %v", specifier, err)
 		writeToFile = false
 	}
 	if writeToFile {

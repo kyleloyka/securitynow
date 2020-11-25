@@ -16,7 +16,7 @@ type Feed struct {
 }
 
 // NewFeed creates a new Security Now podcast feed
-func NewFeed(year int) *Feed {
+func NewFeed(year int, allYears bool) *Feed {
 	feed := new(Feed)
 	feed.Year = year
 	create := time.Date(year, time.January, 1, 0, 0, 0, 0, time.UTC)
@@ -24,8 +24,14 @@ func NewFeed(year int) *Feed {
 	if modified.After(time.Now()) {
 		modified = time.Now()
 	}
+
+	specifier := fmt.Sprintf("%d", year)
+	if allYears {
+		specifier = "All"
+	}
+
 	feed.Podcast = podcast.New(
-		fmt.Sprintf("Security Now - %d", year),
+		fmt.Sprintf("Security Now - %s", specifier),
 		showURL,
 		showSummary,
 		&create, &modified,
@@ -39,14 +45,29 @@ func NewFeed(year int) *Feed {
 	return feed
 }
 
+func toHref(url string) string {
+	return fmt.Sprintf("<a href=\"%s\">%s</a>", url, url)
+}
+
 // AddEpisode adds an episode to the podcast feed
 func (feed *Feed) AddEpisode(e *episode.Episode) error {
-	fullDescription := fmt.Sprintf(e.Description+"\n\nShow notes:\n"+showNotesURLPDF+"\n"+
-		showNotesURL+"\n\nHosts: %s", e.Number, e.Number, e.Hosts)
+	fullDescription := fmt.Sprintf(e.Description+
+		"\n\nShow notes:\n"+
+		toHref(fmt.Sprintf(showTranscriptTXTURL, e.Number))+"\n"+
+		toHref(fmt.Sprintf(showTranscriptPDFURL, e.Number))+"\n"+
+		toHref(fmt.Sprintf(showNotesPDFURL, e.Number))+
+		"\n\nHosts: %s", e.Hosts)
+
+	plainDescription := fmt.Sprintf(e.Description+
+		"\n\nShow notes:\n"+
+		fmt.Sprintf(showTranscriptTXTURL, e.Number)+"\n"+
+		fmt.Sprintf(showTranscriptPDFURL, e.Number)+"\n"+
+		fmt.Sprintf(showNotesPDFURL, e.Number)+
+		"\n\nHosts: %s", e.Hosts)
 
 	item := podcast.Item{
 		Title:       e.Title,
-		Description: fullDescription,
+		Description: plainDescription,
 		PubDate:     &e.Date,
 	}
 	item.AddImage(showLargeAlbumArt)

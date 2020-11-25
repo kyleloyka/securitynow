@@ -4,29 +4,31 @@
     <title>Security Now - 2009</title>
     <link>https://www.twit.tv/shows/security-now</link>
     <description>Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte.</description>
-    <generator>go podcast v1.3.1 (github.com/eduncan911/podcast)</generator>
+    <generator>go podcast v1.3.0 (github.com/eduncan911/podcast)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <managingEditor> (Steve Gibson, Leo Laporte)</managingEditor>
     <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
     <image>
       <url>https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png</url>
-      <title>Security Now - 2009</title>
-      <link>https://www.twit.tv/shows/security-now</link>
     </image>
+    <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
     <itunes:summary><![CDATA[Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte.]]></itunes:summary>
     <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
     <item>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0177/sn0177.mp3</guid>
       <title>177: Breaking SSL, PDP-8&#39;s and UltraCapacitors</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0177/sn0177.mp3</link>
-      <description>Steve and Leo discuss the newly discovered cracks in SSL (Secure Sockets Layer), antique PDP-8 minicomputers, and the importance of next-generation UltraCapacitors.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-177.pdf&#xA;https://www.grc.com/sn/sn-177.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the newly discovered cracks in SSL (Secure Sockets Layer), antique PDP-8 minicomputers, and the importance of next-generation UltraCapacitors.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-177.txt&#xA;https://www.grc.com/sn/sn-177.pdf&#xA;https://www.grc.com/sn/sn-177-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0177/sn0177.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the newly discovered cracks in SSL (Secure Sockets Layer), antique PDP-8 minicomputers, and the importance of next-generation UltraCapacitors.
 
 Show notes:
-https://www.grc.com/sn/sn-177.pdf
-https://www.grc.com/sn/sn-177.txt
+<a href="https://www.grc.com/sn/sn-177.txt">https://www.grc.com/sn/sn-177.txt</a>
+<a href="https://www.grc.com/sn/sn-177.pdf">https://www.grc.com/sn/sn-177.pdf</a>
+<a href="https://www.grc.com/sn/sn-177-notes.pdf">https://www.grc.com/sn/sn-177-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -35,14 +37,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0178/sn0178.mp3</guid>
       <title>178: Listener Feedback Q&amp;A #57</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0178/sn0178.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-178.pdf&#xA;https://www.grc.com/sn/sn-178.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-178.txt&#xA;https://www.grc.com/sn/sn-178.pdf&#xA;https://www.grc.com/sn/sn-178-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 08 Jan 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0178/sn0178.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-178.pdf
-https://www.grc.com/sn/sn-178.txt
+<a href="https://www.grc.com/sn/sn-178.txt">https://www.grc.com/sn/sn-178.txt</a>
+<a href="https://www.grc.com/sn/sn-178.pdf">https://www.grc.com/sn/sn-178.pdf</a>
+<a href="https://www.grc.com/sn/sn-178-notes.pdf">https://www.grc.com/sn/sn-178-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -51,14 +55,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0179/sn0179.mp3</guid>
       <title>179: Cracking Security Certificates</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0179/sn0179.mp3</link>
-      <description>Steve and Leo delve into the detailed inner workings of security certificates upon which the Internet depends for establishing the identity of users, websites, and other remote entities.  After establishing how certificates perform these functions, Steve describes how a team of security researchers successfully cracked this &#34;uncrackable&#34; security to create fraudulent identifications.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-179.pdf&#xA;https://www.grc.com/sn/sn-179.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo delve into the detailed inner workings of security certificates upon which the Internet depends for establishing the identity of users, websites, and other remote entities.  After establishing how certificates perform these functions, Steve describes how a team of security researchers successfully cracked this &#34;uncrackable&#34; security to create fraudulent identifications.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-179.txt&#xA;https://www.grc.com/sn/sn-179.pdf&#xA;https://www.grc.com/sn/sn-179-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 15 Jan 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0179/sn0179.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo delve into the detailed inner workings of security certificates upon which the Internet depends for establishing the identity of users, websites, and other remote entities.  After establishing how certificates perform these functions, Steve describes how a team of security researchers successfully cracked this "uncrackable" security to create fraudulent identifications.
 
 Show notes:
-https://www.grc.com/sn/sn-179.pdf
-https://www.grc.com/sn/sn-179.txt
+<a href="https://www.grc.com/sn/sn-179.txt">https://www.grc.com/sn/sn-179.txt</a>
+<a href="https://www.grc.com/sn/sn-179.pdf">https://www.grc.com/sn/sn-179.pdf</a>
+<a href="https://www.grc.com/sn/sn-179-notes.pdf">https://www.grc.com/sn/sn-179-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -67,14 +73,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0180/sn0180.mp3</guid>
       <title>180: Listener Feedback Q&amp;A #58</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0180/sn0180.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-180.pdf&#xA;https://www.grc.com/sn/sn-180.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-180.txt&#xA;https://www.grc.com/sn/sn-180.pdf&#xA;https://www.grc.com/sn/sn-180-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 22 Jan 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0180/sn0180.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-180.pdf
-https://www.grc.com/sn/sn-180.txt
+<a href="https://www.grc.com/sn/sn-180.txt">https://www.grc.com/sn/sn-180.txt</a>
+<a href="https://www.grc.com/sn/sn-180.pdf">https://www.grc.com/sn/sn-180.pdf</a>
+<a href="https://www.grc.com/sn/sn-180-notes.pdf">https://www.grc.com/sn/sn-180-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -83,14 +91,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0181/sn0181.mp3</guid>
       <title>181: Crypto Rehash</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0181/sn0181.mp3</link>
-      <description>Before tackling the complete description of the operation of the SSL (Secure Socket Layer) protocol, this week Steve and Leo take a step back to survey and review much of the cryptographic material they have covered during past 3+ years of podcasts.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-181.pdf&#xA;https://www.grc.com/sn/sn-181.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Before tackling the complete description of the operation of the SSL (Secure Socket Layer) protocol, this week Steve and Leo take a step back to survey and review much of the cryptographic material they have covered during past 3+ years of podcasts.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-181.txt&#xA;https://www.grc.com/sn/sn-181.pdf&#xA;https://www.grc.com/sn/sn-181-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 29 Jan 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0181/sn0181.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Before tackling the complete description of the operation of the SSL (Secure Socket Layer) protocol, this week Steve and Leo take a step back to survey and review much of the cryptographic material they have covered during past 3+ years of podcasts.
 
 Show notes:
-https://www.grc.com/sn/sn-181.pdf
-https://www.grc.com/sn/sn-181.txt
+<a href="https://www.grc.com/sn/sn-181.txt">https://www.grc.com/sn/sn-181.txt</a>
+<a href="https://www.grc.com/sn/sn-181.pdf">https://www.grc.com/sn/sn-181.pdf</a>
+<a href="https://www.grc.com/sn/sn-181-notes.pdf">https://www.grc.com/sn/sn-181-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -99,14 +109,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0182/sn0182.mp3</guid>
       <title>182: Listener Feedback Q&amp;A #59</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0182/sn0182.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-182.pdf&#xA;https://www.grc.com/sn/sn-182.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-182.txt&#xA;https://www.grc.com/sn/sn-182.pdf&#xA;https://www.grc.com/sn/sn-182-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 05 Feb 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0182/sn0182.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-182.pdf
-https://www.grc.com/sn/sn-182.txt
+<a href="https://www.grc.com/sn/sn-182.txt">https://www.grc.com/sn/sn-182.txt</a>
+<a href="https://www.grc.com/sn/sn-182.pdf">https://www.grc.com/sn/sn-182.pdf</a>
+<a href="https://www.grc.com/sn/sn-182-notes.pdf">https://www.grc.com/sn/sn-182-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -115,14 +127,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0183/sn0183.mp3</guid>
       <title>183: Modes of Encryption</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0183/sn0183.mp3</link>
-      <description>In preparation for a deep and detailed discussion of Secure Sockets Layer (SSL), Steve and Leo first establish some formal crypto theory and practice of encryption operating modes.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-183.pdf&#xA;https://www.grc.com/sn/sn-183.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>In preparation for a deep and detailed discussion of Secure Sockets Layer (SSL), Steve and Leo first establish some formal crypto theory and practice of encryption operating modes.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-183.txt&#xA;https://www.grc.com/sn/sn-183.pdf&#xA;https://www.grc.com/sn/sn-183-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 12 Feb 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0183/sn0183.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[In preparation for a deep and detailed discussion of Secure Sockets Layer (SSL), Steve and Leo first establish some formal crypto theory and practice of encryption operating modes.
 
 Show notes:
-https://www.grc.com/sn/sn-183.pdf
-https://www.grc.com/sn/sn-183.txt
+<a href="https://www.grc.com/sn/sn-183.txt">https://www.grc.com/sn/sn-183.txt</a>
+<a href="https://www.grc.com/sn/sn-183.pdf">https://www.grc.com/sn/sn-183.pdf</a>
+<a href="https://www.grc.com/sn/sn-183-notes.pdf">https://www.grc.com/sn/sn-183-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -131,14 +145,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0184/sn0184.mp3</guid>
       <title>184: Listener Feedback Q&amp;A #60</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0184/sn0184.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-184.pdf&#xA;https://www.grc.com/sn/sn-184.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-184.txt&#xA;https://www.grc.com/sn/sn-184.pdf&#xA;https://www.grc.com/sn/sn-184-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 19 Feb 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0184/sn0184.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-184.pdf
-https://www.grc.com/sn/sn-184.txt
+<a href="https://www.grc.com/sn/sn-184.txt">https://www.grc.com/sn/sn-184.txt</a>
+<a href="https://www.grc.com/sn/sn-184.pdf">https://www.grc.com/sn/sn-184.pdf</a>
+<a href="https://www.grc.com/sn/sn-184-notes.pdf">https://www.grc.com/sn/sn-184-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -147,14 +163,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0185/sn0185.mp3</guid>
       <title>185: Cryptographic HMACs</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0185/sn0185.mp3</link>
-      <description>Steve and Leo discuss the role, importance and operation of cryptographically-keyed message digest algorithms and their use to securely authenticate messages:  Hashed Messages Authentication Codes.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-185.pdf&#xA;https://www.grc.com/sn/sn-185.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the role, importance and operation of cryptographically-keyed message digest algorithms and their use to securely authenticate messages:  Hashed Messages Authentication Codes.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-185.txt&#xA;https://www.grc.com/sn/sn-185.pdf&#xA;https://www.grc.com/sn/sn-185-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 26 Feb 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0185/sn0185.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the role, importance and operation of cryptographically-keyed message digest algorithms and their use to securely authenticate messages:  Hashed Messages Authentication Codes.
 
 Show notes:
-https://www.grc.com/sn/sn-185.pdf
-https://www.grc.com/sn/sn-185.txt
+<a href="https://www.grc.com/sn/sn-185.txt">https://www.grc.com/sn/sn-185.txt</a>
+<a href="https://www.grc.com/sn/sn-185.pdf">https://www.grc.com/sn/sn-185.pdf</a>
+<a href="https://www.grc.com/sn/sn-185-notes.pdf">https://www.grc.com/sn/sn-185-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -163,14 +181,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0186/sn0186.mp3</guid>
       <title>186: Listener Feedback #61</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0186/sn0186.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-186.pdf&#xA;https://www.grc.com/sn/sn-186.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-186.txt&#xA;https://www.grc.com/sn/sn-186.pdf&#xA;https://www.grc.com/sn/sn-186-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 05 Mar 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0186/sn0186.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-186.pdf
-https://www.grc.com/sn/sn-186.txt
+<a href="https://www.grc.com/sn/sn-186.txt">https://www.grc.com/sn/sn-186.txt</a>
+<a href="https://www.grc.com/sn/sn-186.pdf">https://www.grc.com/sn/sn-186.pdf</a>
+<a href="https://www.grc.com/sn/sn-186-notes.pdf">https://www.grc.com/sn/sn-186-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -179,14 +199,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0187/sn0187.mp3</guid>
       <title>187: Windows Autorun-around</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0187/sn0187.mp3</link>
-      <description>Steve and Leo discuss the inglorious past of Windows Autorun.  They explain how, until recently, disabling &#34;Autorun&#34; never really worked, how Microsoft hoped to fix it while bringing minimal attention to the problem, and how Microsoft&#39;s documentation of their recent fix still &#34;got it wrong.&#34;&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-187.pdf&#xA;https://www.grc.com/sn/sn-187.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the inglorious past of Windows Autorun.  They explain how, until recently, disabling &#34;Autorun&#34; never really worked, how Microsoft hoped to fix it while bringing minimal attention to the problem, and how Microsoft&#39;s documentation of their recent fix still &#34;got it wrong.&#34;&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-187.txt&#xA;https://www.grc.com/sn/sn-187.pdf&#xA;https://www.grc.com/sn/sn-187-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 12 Mar 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0187/sn0187.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the inglorious past of Windows Autorun.  They explain how, until recently, disabling "Autorun" never really worked, how Microsoft hoped to fix it while bringing minimal attention to the problem, and how Microsoft's documentation of their recent fix still "got it wrong."
 
 Show notes:
-https://www.grc.com/sn/sn-187.pdf
-https://www.grc.com/sn/sn-187.txt
+<a href="https://www.grc.com/sn/sn-187.txt">https://www.grc.com/sn/sn-187.txt</a>
+<a href="https://www.grc.com/sn/sn-187.pdf">https://www.grc.com/sn/sn-187.pdf</a>
+<a href="https://www.grc.com/sn/sn-187-notes.pdf">https://www.grc.com/sn/sn-187-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -195,14 +217,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0188/sn0188.mp3</guid>
       <title>188: Listener Feedback #62</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0188/sn0188.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-188.pdf&#xA;https://www.grc.com/sn/sn-188.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-188.txt&#xA;https://www.grc.com/sn/sn-188.pdf&#xA;https://www.grc.com/sn/sn-188-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 19 Mar 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0188/sn0188.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-188.pdf
-https://www.grc.com/sn/sn-188.txt
+<a href="https://www.grc.com/sn/sn-188.txt">https://www.grc.com/sn/sn-188.txt</a>
+<a href="https://www.grc.com/sn/sn-188.pdf">https://www.grc.com/sn/sn-188.pdf</a>
+<a href="https://www.grc.com/sn/sn-188-notes.pdf">https://www.grc.com/sn/sn-188-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -211,14 +235,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0189/sn0189.mp3</guid>
       <title>189: Internet Explorer 8</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0189/sn0189.mp3</link>
-      <description>Steve and Leo closely examine and discuss Microsoft&#39;s just released major version 8 of Internet Explorer.  Steve has studied this major new web browser closely, so he examines the many new features and foibles from the standpoint of its short- and long-term impact on Internet security.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-189.pdf&#xA;https://www.grc.com/sn/sn-189.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo closely examine and discuss Microsoft&#39;s just released major version 8 of Internet Explorer.  Steve has studied this major new web browser closely, so he examines the many new features and foibles from the standpoint of its short- and long-term impact on Internet security.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-189.txt&#xA;https://www.grc.com/sn/sn-189.pdf&#xA;https://www.grc.com/sn/sn-189-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 26 Mar 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0189/sn0189.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo closely examine and discuss Microsoft's just released major version 8 of Internet Explorer.  Steve has studied this major new web browser closely, so he examines the many new features and foibles from the standpoint of its short- and long-term impact on Internet security.
 
 Show notes:
-https://www.grc.com/sn/sn-189.pdf
-https://www.grc.com/sn/sn-189.txt
+<a href="https://www.grc.com/sn/sn-189.txt">https://www.grc.com/sn/sn-189.txt</a>
+<a href="https://www.grc.com/sn/sn-189.pdf">https://www.grc.com/sn/sn-189.pdf</a>
+<a href="https://www.grc.com/sn/sn-189-notes.pdf">https://www.grc.com/sn/sn-189-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -227,14 +253,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0190/sn0190.mp3</guid>
       <title>190: Listener Feedback #63</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0190/sn0190.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-190.pdf&#xA;https://www.grc.com/sn/sn-190.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-190.txt&#xA;https://www.grc.com/sn/sn-190.pdf&#xA;https://www.grc.com/sn/sn-190-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 02 Apr 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0190/sn0190.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-190.pdf
-https://www.grc.com/sn/sn-190.txt
+<a href="https://www.grc.com/sn/sn-190.txt">https://www.grc.com/sn/sn-190.txt</a>
+<a href="https://www.grc.com/sn/sn-190.pdf">https://www.grc.com/sn/sn-190.pdf</a>
+<a href="https://www.grc.com/sn/sn-190-notes.pdf">https://www.grc.com/sn/sn-190-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -243,14 +271,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0191/sn0191.mp3</guid>
       <title>191: GhostNet</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0191/sn0191.mp3</link>
-      <description>Steve and Leo begin by discussing the week&#39;s security news.  Then Steve carefully and completely describes the construction and operation of a worldwide covert cyberspace intelligence gathering network, operating in 103 countries, that was named &#34;GhostNet&#34; by its Canadian discoverers.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-191.pdf&#xA;https://www.grc.com/sn/sn-191.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo begin by discussing the week&#39;s security news.  Then Steve carefully and completely describes the construction and operation of a worldwide covert cyberspace intelligence gathering network, operating in 103 countries, that was named &#34;GhostNet&#34; by its Canadian discoverers.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-191.txt&#xA;https://www.grc.com/sn/sn-191.pdf&#xA;https://www.grc.com/sn/sn-191-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 09 Apr 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0191/sn0191.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo begin by discussing the week's security news.  Then Steve carefully and completely describes the construction and operation of a worldwide covert cyberspace intelligence gathering network, operating in 103 countries, that was named "GhostNet" by its Canadian discoverers.
 
 Show notes:
-https://www.grc.com/sn/sn-191.pdf
-https://www.grc.com/sn/sn-191.txt
+<a href="https://www.grc.com/sn/sn-191.txt">https://www.grc.com/sn/sn-191.txt</a>
+<a href="https://www.grc.com/sn/sn-191.pdf">https://www.grc.com/sn/sn-191.pdf</a>
+<a href="https://www.grc.com/sn/sn-191-notes.pdf">https://www.grc.com/sn/sn-191-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -259,14 +289,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0192/sn0192.mp3</guid>
       <title>192: Listener Feedback #64</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0192/sn0192.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-192.pdf&#xA;https://www.grc.com/sn/sn-192.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-192.txt&#xA;https://www.grc.com/sn/sn-192.pdf&#xA;https://www.grc.com/sn/sn-192-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 16 Apr 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0192/sn0192.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-192.pdf
-https://www.grc.com/sn/sn-192.txt
+<a href="https://www.grc.com/sn/sn-192.txt">https://www.grc.com/sn/sn-192.txt</a>
+<a href="https://www.grc.com/sn/sn-192.pdf">https://www.grc.com/sn/sn-192.pdf</a>
+<a href="https://www.grc.com/sn/sn-192-notes.pdf">https://www.grc.com/sn/sn-192-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -275,14 +307,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0193/sn0193.mp3</guid>
       <title>193: Conficker</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0193/sn0193.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s security news; then they closely examine the detailed operation and evolution of &#34;Conficker,&#34; the most technically sophisticated worm the Internet has ever encountered.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-193.pdf&#xA;https://www.grc.com/sn/sn-193.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s security news; then they closely examine the detailed operation and evolution of &#34;Conficker,&#34; the most technically sophisticated worm the Internet has ever encountered.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-193.txt&#xA;https://www.grc.com/sn/sn-193.pdf&#xA;https://www.grc.com/sn/sn-193-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 23 Apr 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0193/sn0193.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's security news; then they closely examine the detailed operation and evolution of "Conficker," the most technically sophisticated worm the Internet has ever encountered.
 
 Show notes:
-https://www.grc.com/sn/sn-193.pdf
-https://www.grc.com/sn/sn-193.txt
+<a href="https://www.grc.com/sn/sn-193.txt">https://www.grc.com/sn/sn-193.txt</a>
+<a href="https://www.grc.com/sn/sn-193.pdf">https://www.grc.com/sn/sn-193.pdf</a>
+<a href="https://www.grc.com/sn/sn-193-notes.pdf">https://www.grc.com/sn/sn-193-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -291,14 +325,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0194/sn0194.mp3</guid>
       <title>194: Listener Feedback #65</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0194/sn0194.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-194.pdf&#xA;https://www.grc.com/sn/sn-194.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-194.txt&#xA;https://www.grc.com/sn/sn-194.pdf&#xA;https://www.grc.com/sn/sn-194-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 30 Apr 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0194/sn0194.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-194.pdf
-https://www.grc.com/sn/sn-194.txt
+<a href="https://www.grc.com/sn/sn-194.txt">https://www.grc.com/sn/sn-194.txt</a>
+<a href="https://www.grc.com/sn/sn-194.pdf">https://www.grc.com/sn/sn-194.pdf</a>
+<a href="https://www.grc.com/sn/sn-194-notes.pdf">https://www.grc.com/sn/sn-194-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -307,14 +343,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0195/sn0195.mp3</guid>
       <title>195: The SSL/TLS Protocol</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0195/sn0195.mp3</link>
-      <description>Steve and Leo plow into the detailed operation of the Internet&#39;s most-used security protocol, originally called &#34;SSL&#34; and now evolved into &#34;TLS.&#34;  The security of this crucial protocol protects all of our online logins, financial transactions, and pretty much everything else.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-195.pdf&#xA;https://www.grc.com/sn/sn-195.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo plow into the detailed operation of the Internet&#39;s most-used security protocol, originally called &#34;SSL&#34; and now evolved into &#34;TLS.&#34;  The security of this crucial protocol protects all of our online logins, financial transactions, and pretty much everything else.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-195.txt&#xA;https://www.grc.com/sn/sn-195.pdf&#xA;https://www.grc.com/sn/sn-195-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 07 May 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0195/sn0195.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo plow into the detailed operation of the Internet's most-used security protocol, originally called "SSL" and now evolved into "TLS."  The security of this crucial protocol protects all of our online logins, financial transactions, and pretty much everything else.
 
 Show notes:
-https://www.grc.com/sn/sn-195.pdf
-https://www.grc.com/sn/sn-195.txt
+<a href="https://www.grc.com/sn/sn-195.txt">https://www.grc.com/sn/sn-195.txt</a>
+<a href="https://www.grc.com/sn/sn-195.pdf">https://www.grc.com/sn/sn-195.pdf</a>
+<a href="https://www.grc.com/sn/sn-195-notes.pdf">https://www.grc.com/sn/sn-195-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -323,14 +361,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0196/sn0196.mp3</guid>
       <title>196: Listener Feedback #66</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0196/sn0196.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-196.pdf&#xA;https://www.grc.com/sn/sn-196.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-196.txt&#xA;https://www.grc.com/sn/sn-196.pdf&#xA;https://www.grc.com/sn/sn-196-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 14 May 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0196/sn0196.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-196.pdf
-https://www.grc.com/sn/sn-196.txt
+<a href="https://www.grc.com/sn/sn-196.txt">https://www.grc.com/sn/sn-196.txt</a>
+<a href="https://www.grc.com/sn/sn-196.pdf">https://www.grc.com/sn/sn-196.pdf</a>
+<a href="https://www.grc.com/sn/sn-196-notes.pdf">https://www.grc.com/sn/sn-196-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -339,14 +379,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0197/sn0197.mp3</guid>
       <title>197: Windows 7 Security</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0197/sn0197.mp3</link>
-      <description>This week, Steve and Leo discuss the changes, additions and enhancements Microsoft has made to the security of their forthcoming release of Windows 7.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-197.pdf&#xA;https://www.grc.com/sn/sn-197.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>This week, Steve and Leo discuss the changes, additions and enhancements Microsoft has made to the security of their forthcoming release of Windows 7.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-197.txt&#xA;https://www.grc.com/sn/sn-197.pdf&#xA;https://www.grc.com/sn/sn-197-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 21 May 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0197/sn0197.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[This week, Steve and Leo discuss the changes, additions and enhancements Microsoft has made to the security of their forthcoming release of Windows 7.
 
 Show notes:
-https://www.grc.com/sn/sn-197.pdf
-https://www.grc.com/sn/sn-197.txt
+<a href="https://www.grc.com/sn/sn-197.txt">https://www.grc.com/sn/sn-197.txt</a>
+<a href="https://www.grc.com/sn/sn-197.pdf">https://www.grc.com/sn/sn-197.pdf</a>
+<a href="https://www.grc.com/sn/sn-197-notes.pdf">https://www.grc.com/sn/sn-197-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -355,14 +397,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0198/sn0198.mp3</guid>
       <title>198: Listener Feedback #67</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0198/sn0198.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-198.pdf&#xA;https://www.grc.com/sn/sn-198.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-198.txt&#xA;https://www.grc.com/sn/sn-198.pdf&#xA;https://www.grc.com/sn/sn-198-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 28 May 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0198/sn0198.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-198.pdf
-https://www.grc.com/sn/sn-198.txt
+<a href="https://www.grc.com/sn/sn-198.txt">https://www.grc.com/sn/sn-198.txt</a>
+<a href="https://www.grc.com/sn/sn-198.pdf">https://www.grc.com/sn/sn-198.pdf</a>
+<a href="https://www.grc.com/sn/sn-198-notes.pdf">https://www.grc.com/sn/sn-198-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -371,14 +415,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0199/sn0199.mp3</guid>
       <title>199: &#34;The Geek Atlas,&#34; IPv6 &amp; Non-VPN</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0199/sn0199.mp3</link>
-      <description>This week Steve and Leo explore three different topics:  a terrific new book of interest to geeks or non-geeks alike; the still-questionable future and operation of IPv6 (the next version of the Internet protocol); and Steve&#39;s novel idea for making secure TCP  connections across the Internet without using a VPN tunnel.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-199.pdf&#xA;https://www.grc.com/sn/sn-199.txt&#xA;&#xA;Hosts: teve Gibson &amp; Leo Laporte</description>
+      <description>This week Steve and Leo explore three different topics:  a terrific new book of interest to geeks or non-geeks alike; the still-questionable future and operation of IPv6 (the next version of the Internet protocol); and Steve&#39;s novel idea for making secure TCP  connections across the Internet without using a VPN tunnel.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-199.txt&#xA;https://www.grc.com/sn/sn-199.pdf&#xA;https://www.grc.com/sn/sn-199-notes.pdf&#xA;&#xA;Hosts: teve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 04 Jun 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0199/sn0199.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[This week Steve and Leo explore three different topics:  a terrific new book of interest to geeks or non-geeks alike; the still-questionable future and operation of IPv6 (the next version of the Internet protocol); and Steve's novel idea for making secure TCP  connections across the Internet without using a VPN tunnel.
 
 Show notes:
-https://www.grc.com/sn/sn-199.pdf
-https://www.grc.com/sn/sn-199.txt
+<a href="https://www.grc.com/sn/sn-199.txt">https://www.grc.com/sn/sn-199.txt</a>
+<a href="https://www.grc.com/sn/sn-199.pdf">https://www.grc.com/sn/sn-199.pdf</a>
+<a href="https://www.grc.com/sn/sn-199-notes.pdf">https://www.grc.com/sn/sn-199-notes.pdf</a>
 
 Hosts: teve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -387,14 +433,16 @@ Hosts: teve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0200/sn0200.mp3</guid>
       <title>200: Listener Feedback #68</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0200/sn0200.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-200.pdf&#xA;https://www.grc.com/sn/sn-200.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-200.txt&#xA;https://www.grc.com/sn/sn-200.pdf&#xA;https://www.grc.com/sn/sn-200-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0200/sn0200.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-200.pdf
-https://www.grc.com/sn/sn-200.txt
+<a href="https://www.grc.com/sn/sn-200.txt">https://www.grc.com/sn/sn-200.txt</a>
+<a href="https://www.grc.com/sn/sn-200.pdf">https://www.grc.com/sn/sn-200.pdf</a>
+<a href="https://www.grc.com/sn/sn-200-notes.pdf">https://www.grc.com/sn/sn-200-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -403,14 +451,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0201/sn0201.mp3</guid>
       <title>201: SecureZIP</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0201/sn0201.mp3</link>
-      <description>Steve and Leo examine the operation, features, and security of PKWARE&#39;s FREE SecureZIP file archiving and encrypting utility.  This very compelling and free offering implements a complete PKI (Public Key Infrastructure) system with per-user/per-installation certificates, public and private keys, secure encryption, digital signing, and other security features we have discussed during previous podcasts.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-201.pdf&#xA;https://www.grc.com/sn/sn-201.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo examine the operation, features, and security of PKWARE&#39;s FREE SecureZIP file archiving and encrypting utility.  This very compelling and free offering implements a complete PKI (Public Key Infrastructure) system with per-user/per-installation certificates, public and private keys, secure encryption, digital signing, and other security features we have discussed during previous podcasts.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-201.txt&#xA;https://www.grc.com/sn/sn-201.pdf&#xA;https://www.grc.com/sn/sn-201-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 18 Jun 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0201/sn0201.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo examine the operation, features, and security of PKWARE's FREE SecureZIP file archiving and encrypting utility.  This very compelling and free offering implements a complete PKI (Public Key Infrastructure) system with per-user/per-installation certificates, public and private keys, secure encryption, digital signing, and other security features we have discussed during previous podcasts.
 
 Show notes:
-https://www.grc.com/sn/sn-201.pdf
-https://www.grc.com/sn/sn-201.txt
+<a href="https://www.grc.com/sn/sn-201.txt">https://www.grc.com/sn/sn-201.txt</a>
+<a href="https://www.grc.com/sn/sn-201.pdf">https://www.grc.com/sn/sn-201.pdf</a>
+<a href="https://www.grc.com/sn/sn-201-notes.pdf">https://www.grc.com/sn/sn-201-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -419,14 +469,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0202/sn0202.mp3</guid>
       <title>202: Listener Feedback #69</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0202/sn0202.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-202.pdf&#xA;https://www.grc.com/sn/sn-202.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-202.txt&#xA;https://www.grc.com/sn/sn-202.pdf&#xA;https://www.grc.com/sn/sn-202-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 25 Jun 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0202/sn0202.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-202.pdf
-https://www.grc.com/sn/sn-202.txt
+<a href="https://www.grc.com/sn/sn-202.txt">https://www.grc.com/sn/sn-202.txt</a>
+<a href="https://www.grc.com/sn/sn-202.pdf">https://www.grc.com/sn/sn-202.pdf</a>
+<a href="https://www.grc.com/sn/sn-202-notes.pdf">https://www.grc.com/sn/sn-202-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -435,14 +487,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0203/sn0203.mp3</guid>
       <title>203: Boyer &amp; Moore</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0203/sn0203.mp3</link>
-      <description>Leo and Steve explore the invention of the best, and very non-intuitive, means for &#34;string searching&#34; - finding a specific pattern of bytes within a larger buffer.  This is crucial not only for searching documents but also for finding viruses hidden within a computer&#39;s file system.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-203.pdf&#xA;https://www.grc.com/sn/sn-203.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Leo and Steve explore the invention of the best, and very non-intuitive, means for &#34;string searching&#34; - finding a specific pattern of bytes within a larger buffer.  This is crucial not only for searching documents but also for finding viruses hidden within a computer&#39;s file system.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-203.txt&#xA;https://www.grc.com/sn/sn-203.pdf&#xA;https://www.grc.com/sn/sn-203-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 02 Jul 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0203/sn0203.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Leo and Steve explore the invention of the best, and very non-intuitive, means for "string searching" - finding a specific pattern of bytes within a larger buffer.  This is crucial not only for searching documents but also for finding viruses hidden within a computer's file system.
 
 Show notes:
-https://www.grc.com/sn/sn-203.pdf
-https://www.grc.com/sn/sn-203.txt
+<a href="https://www.grc.com/sn/sn-203.txt">https://www.grc.com/sn/sn-203.txt</a>
+<a href="https://www.grc.com/sn/sn-203.pdf">https://www.grc.com/sn/sn-203.pdf</a>
+<a href="https://www.grc.com/sn/sn-203-notes.pdf">https://www.grc.com/sn/sn-203-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -451,14 +505,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0204/sn0204.mp3</guid>
       <title>204: Listener Feedback #70</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0204/sn0204.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-204.pdf&#xA;https://www.grc.com/sn/sn-204.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-204.txt&#xA;https://www.grc.com/sn/sn-204.pdf&#xA;https://www.grc.com/sn/sn-204-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0204/sn0204.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-204.pdf
-https://www.grc.com/sn/sn-204.txt
+<a href="https://www.grc.com/sn/sn-204.txt">https://www.grc.com/sn/sn-204.txt</a>
+<a href="https://www.grc.com/sn/sn-204.pdf">https://www.grc.com/sn/sn-204.pdf</a>
+<a href="https://www.grc.com/sn/sn-204-notes.pdf">https://www.grc.com/sn/sn-204-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -467,14 +523,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0205/sn0205.mp3</guid>
       <title>205: Lempel &amp; Ziv</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0205/sn0205.mp3</link>
-      <description>Steve and Leo examine the operation of one of the most prevalent computer algorithm inventions in history: Lempel-Ziv data compression.  Variations of this invention form the foundation of all modern data compression technologies.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-205.pdf&#xA;https://www.grc.com/sn/sn-205.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo examine the operation of one of the most prevalent computer algorithm inventions in history: Lempel-Ziv data compression.  Variations of this invention form the foundation of all modern data compression technologies.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-205.txt&#xA;https://www.grc.com/sn/sn-205.pdf&#xA;https://www.grc.com/sn/sn-205-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 16 Jul 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0205/sn0205.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo examine the operation of one of the most prevalent computer algorithm inventions in history: Lempel-Ziv data compression.  Variations of this invention form the foundation of all modern data compression technologies.
 
 Show notes:
-https://www.grc.com/sn/sn-205.pdf
-https://www.grc.com/sn/sn-205.txt
+<a href="https://www.grc.com/sn/sn-205.txt">https://www.grc.com/sn/sn-205.txt</a>
+<a href="https://www.grc.com/sn/sn-205.pdf">https://www.grc.com/sn/sn-205.pdf</a>
+<a href="https://www.grc.com/sn/sn-205-notes.pdf">https://www.grc.com/sn/sn-205-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -483,14 +541,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0206/sn0206.mp3</guid>
       <title>206: Mega Security News Update</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0206/sn0206.mp3</link>
-      <description>A LOT of security news transpired during the three previous weeks since Steve and Leo last recorded live.  So instead of the regularly scheduled Q&amp;A episode (which is moved to next week), today they catch up with this week&#39;s &#34;mega security news update.&#34;&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-206.pdf&#xA;https://www.grc.com/sn/sn-206.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>A LOT of security news transpired during the three previous weeks since Steve and Leo last recorded live.  So instead of the regularly scheduled Q&amp;A episode (which is moved to next week), today they catch up with this week&#39;s &#34;mega security news update.&#34;&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-206.txt&#xA;https://www.grc.com/sn/sn-206.pdf&#xA;https://www.grc.com/sn/sn-206-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 23 Jul 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0206/sn0206.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[A LOT of security news transpired during the three previous weeks since Steve and Leo last recorded live.  So instead of the regularly scheduled Q&A episode (which is moved to next week), today they catch up with this week's "mega security news update."
 
 Show notes:
-https://www.grc.com/sn/sn-206.pdf
-https://www.grc.com/sn/sn-206.txt
+<a href="https://www.grc.com/sn/sn-206.txt">https://www.grc.com/sn/sn-206.txt</a>
+<a href="https://www.grc.com/sn/sn-206.pdf">https://www.grc.com/sn/sn-206.pdf</a>
+<a href="https://www.grc.com/sn/sn-206-notes.pdf">https://www.grc.com/sn/sn-206-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -499,14 +559,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0207/sn0207.mp3</guid>
       <title>207: Listener  Feedback #71</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0207/sn0207.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-207.pdf&#xA;https://www.grc.com/sn/sn-207.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-207.txt&#xA;https://www.grc.com/sn/sn-207.pdf&#xA;https://www.grc.com/sn/sn-207-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 30 Jul 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0207/sn0207.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-207.pdf
-https://www.grc.com/sn/sn-207.txt
+<a href="https://www.grc.com/sn/sn-207.txt">https://www.grc.com/sn/sn-207.txt</a>
+<a href="https://www.grc.com/sn/sn-207.pdf">https://www.grc.com/sn/sn-207.pdf</a>
+<a href="https://www.grc.com/sn/sn-207-notes.pdf">https://www.grc.com/sn/sn-207-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -515,14 +577,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0208/sn0208.mp3</guid>
       <title>208: Listener Feedback #72</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0208/sn0208.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-208.pdf&#xA;https://www.grc.com/sn/sn-208.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-208.txt&#xA;https://www.grc.com/sn/sn-208.pdf&#xA;https://www.grc.com/sn/sn-208-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 06 Aug 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0208/sn0208.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-208.pdf
-https://www.grc.com/sn/sn-208.txt
+<a href="https://www.grc.com/sn/sn-208.txt">https://www.grc.com/sn/sn-208.txt</a>
+<a href="https://www.grc.com/sn/sn-208.pdf">https://www.grc.com/sn/sn-208.pdf</a>
+<a href="https://www.grc.com/sn/sn-208-notes.pdf">https://www.grc.com/sn/sn-208-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -531,14 +595,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0209/sn0209.mp3</guid>
       <title>209: Vitamin D</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0209/sn0209.mp3</link>
-      <description>Steve and Leo kick off the podcast&#39;s fifth year with a rare off-topic discussion of something Steve has been researching for the past eight weeks and passionately believes everyone needs to know about:  Vitamin D.  After next week&#39;s Q&amp;A, the podcast will return to topics of Internet security.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-209.pdf&#xA;https://www.grc.com/sn/sn-209.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo kick off the podcast&#39;s fifth year with a rare off-topic discussion of something Steve has been researching for the past eight weeks and passionately believes everyone needs to know about:  Vitamin D.  After next week&#39;s Q&amp;A, the podcast will return to topics of Internet security.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-209.txt&#xA;https://www.grc.com/sn/sn-209.pdf&#xA;https://www.grc.com/sn/sn-209-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 13 Aug 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0209/sn0209.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo kick off the podcast's fifth year with a rare off-topic discussion of something Steve has been researching for the past eight weeks and passionately believes everyone needs to know about:  Vitamin D.  After next week's Q&A, the podcast will return to topics of Internet security.
 
 Show notes:
-https://www.grc.com/sn/sn-209.pdf
-https://www.grc.com/sn/sn-209.txt
+<a href="https://www.grc.com/sn/sn-209.txt">https://www.grc.com/sn/sn-209.txt</a>
+<a href="https://www.grc.com/sn/sn-209.pdf">https://www.grc.com/sn/sn-209.pdf</a>
+<a href="https://www.grc.com/sn/sn-209-notes.pdf">https://www.grc.com/sn/sn-209-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -547,14 +613,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0210/sn0210.mp3</guid>
       <title>210: Listener Feedback #73</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0210/sn0210.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-210.pdf&#xA;https://www.grc.com/sn/sn-210.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-210.txt&#xA;https://www.grc.com/sn/sn-210.pdf&#xA;https://www.grc.com/sn/sn-210-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 20 Aug 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0210/sn0210.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-210.pdf
-https://www.grc.com/sn/sn-210.txt
+<a href="https://www.grc.com/sn/sn-210.txt">https://www.grc.com/sn/sn-210.txt</a>
+<a href="https://www.grc.com/sn/sn-210.pdf">https://www.grc.com/sn/sn-210.pdf</a>
+<a href="https://www.grc.com/sn/sn-210-notes.pdf">https://www.grc.com/sn/sn-210-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -563,14 +631,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0211/sn0211.mp3</guid>
       <title>211: Voting Machine Hacking</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0211/sn0211.mp3</link>
-      <description>This week Steve and Leo describe the inner workings of one of the best designed and apparently most secure electronic voting machines - currently in use in the United States - and how a group of university researchers  hacked it without any outside information to create a 100%!s(int= 211)tealth vote stealing system.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-211.pdf&#xA;https://www.grc.com/sn/sn-%!d(string=Steve Gibson &amp; Leo Laporte).txt&#xA;&#xA;Hosts: %!s(MISSING)</description>
+      <description>This week Steve and Leo describe the inner workings of one of the best designed and apparently most secure electronic voting machines - currently in use in the United States - and how a group of university researchers  hacked it without any outside information to create a 100Steve Gibson &amp; Leo Laportetealth vote stealing system.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-211.txt&#xA;https://www.grc.com/sn/sn-211.pdf&#xA;https://www.grc.com/sn/sn-211-notes.pdf&#xA;&#xA;Hosts: %!s(MISSING)</description>
       <pubDate>Thu, 27 Aug 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0211/sn0211.mp3" length="0" type="audio/mpeg"></enclosure>
-      <itunes:summary><![CDATA[This week Steve and Leo describe the inner workings of one of the best designed and apparently most secure electronic voting machines - currently in use in the United States - and how a group of university researchers  hacked it without any outside information to create a 100%!s(int= 211)tealth vote stealing system.
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
+      <itunes:summary><![CDATA[This week Steve and Leo describe the inner workings of one of the best designed and apparently most secure electronic voting machines - currently in use in the United States - and how a group of university researchers  hacked it without any outside information to create a 100Steve Gibson & Leo Laportetealth vote stealing system.
 
 Show notes:
-https://www.grc.com/sn/sn-211.pdf
-https://www.grc.com/sn/sn-%!d(string=Steve Gibson & Leo Laporte).txt
+<a href="https://www.grc.com/sn/sn-211.txt">https://www.grc.com/sn/sn-211.txt</a>
+<a href="https://www.grc.com/sn/sn-211.pdf">https://www.grc.com/sn/sn-211.pdf</a>
+<a href="https://www.grc.com/sn/sn-211-notes.pdf">https://www.grc.com/sn/sn-211-notes.pdf</a>
 
 Hosts: %!s(MISSING)]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -579,14 +649,16 @@ Hosts: %!s(MISSING)]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0212/sn0212.mp3</guid>
       <title>212: Listener Feedback #74</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0212/sn0212.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-212.pdf&#xA;https://www.grc.com/sn/sn-212.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-212.txt&#xA;https://www.grc.com/sn/sn-212.pdf&#xA;https://www.grc.com/sn/sn-212-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 03 Sep 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0212/sn0212.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-212.pdf
-https://www.grc.com/sn/sn-212.txt
+<a href="https://www.grc.com/sn/sn-212.txt">https://www.grc.com/sn/sn-212.txt</a>
+<a href="https://www.grc.com/sn/sn-212.pdf">https://www.grc.com/sn/sn-212.pdf</a>
+<a href="https://www.grc.com/sn/sn-212-notes.pdf">https://www.grc.com/sn/sn-212-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -595,14 +667,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0213/sn0213.mp3</guid>
       <title>213: Cracking GSM Cellphones</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0213/sn0213.mp3</link>
-      <description>Steve and Leo discuss the state of GSM (Global System of Mobile communications) cracking.  Steve shows where to purchase the required hardware, from where to download the software, and just how easy and practical it has become to &#34;crack&#34; the old and very weak &#34;security&#34; employed by the three billion cellphones now in worldwide use.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-213.pdf&#xA;https://www.grc.com/sn/sn-213.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the state of GSM (Global System of Mobile communications) cracking.  Steve shows where to purchase the required hardware, from where to download the software, and just how easy and practical it has become to &#34;crack&#34; the old and very weak &#34;security&#34; employed by the three billion cellphones now in worldwide use.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-213.txt&#xA;https://www.grc.com/sn/sn-213.pdf&#xA;https://www.grc.com/sn/sn-213-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 10 Sep 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0213/sn0213.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the state of GSM (Global System of Mobile communications) cracking.  Steve shows where to purchase the required hardware, from where to download the software, and just how easy and practical it has become to "crack" the old and very weak "security" employed by the three billion cellphones now in worldwide use.
 
 Show notes:
-https://www.grc.com/sn/sn-213.pdf
-https://www.grc.com/sn/sn-213.txt
+<a href="https://www.grc.com/sn/sn-213.txt">https://www.grc.com/sn/sn-213.txt</a>
+<a href="https://www.grc.com/sn/sn-213.pdf">https://www.grc.com/sn/sn-213.pdf</a>
+<a href="https://www.grc.com/sn/sn-213-notes.pdf">https://www.grc.com/sn/sn-213-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -611,14 +685,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0214/sn0214.mp3</guid>
       <title>214: Listener Feedback #75</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0214/sn0214.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-214.pdf&#xA;https://www.grc.com/sn/sn-214.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-214.txt&#xA;https://www.grc.com/sn/sn-214.pdf&#xA;https://www.grc.com/sn/sn-214-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 17 Sep 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0214/sn0214.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-214.pdf
-https://www.grc.com/sn/sn-214.txt
+<a href="https://www.grc.com/sn/sn-214.txt">https://www.grc.com/sn/sn-214.txt</a>
+<a href="https://www.grc.com/sn/sn-214.pdf">https://www.grc.com/sn/sn-214.pdf</a>
+<a href="https://www.grc.com/sn/sn-214-notes.pdf">https://www.grc.com/sn/sn-214-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -627,14 +703,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0215/sn0215.mp3</guid>
       <title>215: Security Maxims</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0215/sn0215.mp3</link>
-      <description>Steve and Leo discuss the first portion of a collection of pithy and apropos &#34;Security Maxims&#34; that were assembled by a member of the Argonne Vulnerability Assessment Team at the Nuclear Engineering Division of the Argonne National Laboratory, U.S. Department of Energy.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-215.pdf&#xA;https://www.grc.com/sn/sn-215.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the first portion of a collection of pithy and apropos &#34;Security Maxims&#34; that were assembled by a member of the Argonne Vulnerability Assessment Team at the Nuclear Engineering Division of the Argonne National Laboratory, U.S. Department of Energy.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-215.txt&#xA;https://www.grc.com/sn/sn-215.pdf&#xA;https://www.grc.com/sn/sn-215-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 24 Sep 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0215/sn0215.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the first portion of a collection of pithy and apropos "Security Maxims" that were assembled by a member of the Argonne Vulnerability Assessment Team at the Nuclear Engineering Division of the Argonne National Laboratory, U.S. Department of Energy.
 
 Show notes:
-https://www.grc.com/sn/sn-215.pdf
-https://www.grc.com/sn/sn-215.txt
+<a href="https://www.grc.com/sn/sn-215.txt">https://www.grc.com/sn/sn-215.txt</a>
+<a href="https://www.grc.com/sn/sn-215.pdf">https://www.grc.com/sn/sn-215.pdf</a>
+<a href="https://www.grc.com/sn/sn-215-notes.pdf">https://www.grc.com/sn/sn-215-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -643,14 +721,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0216/sn0216.mp3</guid>
       <title>216: Listener Feedback #76</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0216/sn0216.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-216.pdf&#xA;https://www.grc.com/sn/sn-216.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-216.txt&#xA;https://www.grc.com/sn/sn-216.pdf&#xA;https://www.grc.com/sn/sn-216-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0216/sn0216.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-216.pdf
-https://www.grc.com/sn/sn-216.txt
+<a href="https://www.grc.com/sn/sn-216.txt">https://www.grc.com/sn/sn-216.txt</a>
+<a href="https://www.grc.com/sn/sn-216.pdf">https://www.grc.com/sn/sn-216.pdf</a>
+<a href="https://www.grc.com/sn/sn-216-notes.pdf">https://www.grc.com/sn/sn-216-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -659,14 +739,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0217/sn0217.mp3</guid>
       <title>217: The Fundamentally Broken Browser Model</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0217/sn0217.mp3</link>
-      <description>Steve and Alex discuss the serious security problems created by the way SSL connections are specified by non-secured web pages, and how easily a &#34;man in the middle&#34; attack can compromise this amazingly weak web-based security.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-217.pdf&#xA;https://www.grc.com/sn/sn-217.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Alex Lindsay</description>
+      <description>Steve and Alex discuss the serious security problems created by the way SSL connections are specified by non-secured web pages, and how easily a &#34;man in the middle&#34; attack can compromise this amazingly weak web-based security.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-217.txt&#xA;https://www.grc.com/sn/sn-217.pdf&#xA;https://www.grc.com/sn/sn-217-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Alex Lindsay</description>
       <pubDate>Thu, 08 Oct 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0217/sn0217.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Alex discuss the serious security problems created by the way SSL connections are specified by non-secured web pages, and how easily a "man in the middle" attack can compromise this amazingly weak web-based security.
 
 Show notes:
-https://www.grc.com/sn/sn-217.pdf
-https://www.grc.com/sn/sn-217.txt
+<a href="https://www.grc.com/sn/sn-217.txt">https://www.grc.com/sn/sn-217.txt</a>
+<a href="https://www.grc.com/sn/sn-217.pdf">https://www.grc.com/sn/sn-217.pdf</a>
+<a href="https://www.grc.com/sn/sn-217-notes.pdf">https://www.grc.com/sn/sn-217-notes.pdf</a>
 
 Hosts: Steve Gibson & Alex Lindsay]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -675,14 +757,16 @@ Hosts: Steve Gibson & Alex Lindsay]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0218/sn0218.mp3</guid>
       <title>218: Listener Feedback #77</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0218/sn0218.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-218.pdf&#xA;https://www.grc.com/sn/sn-218.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-218.txt&#xA;https://www.grc.com/sn/sn-218.pdf&#xA;https://www.grc.com/sn/sn-218-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 15 Oct 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0218/sn0218.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-218.pdf
-https://www.grc.com/sn/sn-218.txt
+<a href="https://www.grc.com/sn/sn-218.txt">https://www.grc.com/sn/sn-218.txt</a>
+<a href="https://www.grc.com/sn/sn-218.pdf">https://www.grc.com/sn/sn-218.pdf</a>
+<a href="https://www.grc.com/sn/sn-218-notes.pdf">https://www.grc.com/sn/sn-218-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -691,14 +775,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0219/sn0219.mp3</guid>
       <title>219: Badly Broken Browsing</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0219/sn0219.mp3</link>
-      <description>In preparation for episode #221&#39;s guest, John Graham-Cumming, who will take us on a detailed walk-through of the JavaScript language&#39;s security problems, this week Leo and Steve examine the sad and badly broken state of web browsing in general, and how we got to where we are.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-219.pdf&#xA;https://www.grc.com/sn/sn-219.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>In preparation for episode #221&#39;s guest, John Graham-Cumming, who will take us on a detailed walk-through of the JavaScript language&#39;s security problems, this week Leo and Steve examine the sad and badly broken state of web browsing in general, and how we got to where we are.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-219.txt&#xA;https://www.grc.com/sn/sn-219.pdf&#xA;https://www.grc.com/sn/sn-219-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 22 Oct 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0219/sn0219.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[In preparation for episode #221's guest, John Graham-Cumming, who will take us on a detailed walk-through of the JavaScript language's security problems, this week Leo and Steve examine the sad and badly broken state of web browsing in general, and how we got to where we are.
 
 Show notes:
-https://www.grc.com/sn/sn-219.pdf
-https://www.grc.com/sn/sn-219.txt
+<a href="https://www.grc.com/sn/sn-219.txt">https://www.grc.com/sn/sn-219.txt</a>
+<a href="https://www.grc.com/sn/sn-219.pdf">https://www.grc.com/sn/sn-219.pdf</a>
+<a href="https://www.grc.com/sn/sn-219-notes.pdf">https://www.grc.com/sn/sn-219-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -707,14 +793,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0220/sn0220.mp3</guid>
       <title>220: Listener Feedback #78</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0220/sn0220.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-220.pdf&#xA;https://www.grc.com/sn/sn-220.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-220.txt&#xA;https://www.grc.com/sn/sn-220.pdf&#xA;https://www.grc.com/sn/sn-220-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 29 Oct 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0220/sn0220.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-220.pdf
-https://www.grc.com/sn/sn-220.txt
+<a href="https://www.grc.com/sn/sn-220.txt">https://www.grc.com/sn/sn-220.txt</a>
+<a href="https://www.grc.com/sn/sn-220.pdf">https://www.grc.com/sn/sn-220.pdf</a>
+<a href="https://www.grc.com/sn/sn-220-notes.pdf">https://www.grc.com/sn/sn-220-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -723,14 +811,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0221/sn0221.mp3</guid>
       <title>221: The Oxymoron of &#34;JavaScript Security&#34;</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0221/sn0221.mp3</link>
-      <description>This week Steve and Leo are joined by author and software developer John Graham-Cumming to discuss many specific concerns about the inherent, designed-in, insecurity of our browser&#39;s JavaScript scripting language.  Now 14 years old, JavaScript was never meant for today&#39;s high-demand Internet environment - and it&#39;s having problems.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-221.pdf&#xA;https://www.grc.com/sn/sn-221.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>This week Steve and Leo are joined by author and software developer John Graham-Cumming to discuss many specific concerns about the inherent, designed-in, insecurity of our browser&#39;s JavaScript scripting language.  Now 14 years old, JavaScript was never meant for today&#39;s high-demand Internet environment - and it&#39;s having problems.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-221.txt&#xA;https://www.grc.com/sn/sn-221.pdf&#xA;https://www.grc.com/sn/sn-221-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 05 Nov 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0221/sn0221.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[This week Steve and Leo are joined by author and software developer John Graham-Cumming to discuss many specific concerns about the inherent, designed-in, insecurity of our browser's JavaScript scripting language.  Now 14 years old, JavaScript was never meant for today's high-demand Internet environment - and it's having problems.
 
 Show notes:
-https://www.grc.com/sn/sn-221.pdf
-https://www.grc.com/sn/sn-221.txt
+<a href="https://www.grc.com/sn/sn-221.txt">https://www.grc.com/sn/sn-221.txt</a>
+<a href="https://www.grc.com/sn/sn-221.pdf">https://www.grc.com/sn/sn-221.pdf</a>
+<a href="https://www.grc.com/sn/sn-221-notes.pdf">https://www.grc.com/sn/sn-221-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -739,14 +829,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0222/sn0222.mp3</guid>
       <title>222: Listener Feedback #79</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0222/sn0222.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-222.pdf&#xA;https://www.grc.com/sn/sn-222.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-222.txt&#xA;https://www.grc.com/sn/sn-222.pdf&#xA;https://www.grc.com/sn/sn-222-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 12 Nov 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0222/sn0222.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-222.pdf
-https://www.grc.com/sn/sn-222.txt
+<a href="https://www.grc.com/sn/sn-222.txt">https://www.grc.com/sn/sn-222.txt</a>
+<a href="https://www.grc.com/sn/sn-222.pdf">https://www.grc.com/sn/sn-222.pdf</a>
+<a href="https://www.grc.com/sn/sn-222-notes.pdf">https://www.grc.com/sn/sn-222-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -755,14 +847,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0223/sn0223.mp3</guid>
       <title>223: A Security Vulnerability in SSL</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0223/sn0223.mp3</link>
-      <description>This week Steve and Leo plow into a recently discovered serious vulnerability in the fundamental SSL protocol that provides virtually all of the Internet&#39;s communications security:  SSL - the Secure Sockets Layer.  Steve explains exactly how an attacker can inject his or her own data into a new SSL connection and have that data authenticated under an innocent client&#39;s credentials.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-223.pdf&#xA;https://www.grc.com/sn/sn-223.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>This week Steve and Leo plow into a recently discovered serious vulnerability in the fundamental SSL protocol that provides virtually all of the Internet&#39;s communications security:  SSL - the Secure Sockets Layer.  Steve explains exactly how an attacker can inject his or her own data into a new SSL connection and have that data authenticated under an innocent client&#39;s credentials.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-223.txt&#xA;https://www.grc.com/sn/sn-223.pdf&#xA;https://www.grc.com/sn/sn-223-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 19 Nov 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0223/sn0223.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[This week Steve and Leo plow into a recently discovered serious vulnerability in the fundamental SSL protocol that provides virtually all of the Internet's communications security:  SSL - the Secure Sockets Layer.  Steve explains exactly how an attacker can inject his or her own data into a new SSL connection and have that data authenticated under an innocent client's credentials.
 
 Show notes:
-https://www.grc.com/sn/sn-223.pdf
-https://www.grc.com/sn/sn-223.txt
+<a href="https://www.grc.com/sn/sn-223.txt">https://www.grc.com/sn/sn-223.txt</a>
+<a href="https://www.grc.com/sn/sn-223.pdf">https://www.grc.com/sn/sn-223.pdf</a>
+<a href="https://www.grc.com/sn/sn-223-notes.pdf">https://www.grc.com/sn/sn-223-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -771,14 +865,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0224/sn0224.mp3</guid>
       <title>224: Listener Feedback #80</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0224/sn0224.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-224.pdf&#xA;https://www.grc.com/sn/sn-224.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-224.txt&#xA;https://www.grc.com/sn/sn-224.pdf&#xA;https://www.grc.com/sn/sn-224-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 26 Nov 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0224/sn0224.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-224.pdf
-https://www.grc.com/sn/sn-224.txt
+<a href="https://www.grc.com/sn/sn-224.txt">https://www.grc.com/sn/sn-224.txt</a>
+<a href="https://www.grc.com/sn/sn-224.pdf">https://www.grc.com/sn/sn-224.pdf</a>
+<a href="https://www.grc.com/sn/sn-224-notes.pdf">https://www.grc.com/sn/sn-224-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -787,14 +883,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0225/sn0225.mp3</guid>
       <title>225: Same Origin Troubles</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0225/sn0225.mp3</link>
-      <description>This week Steve and Leo plow into the little understood and even less known problems which arise when user-provided content - postings, photos, videos, etc. - are uploaded to trusted web sites from which they are then subsequently served to other web users.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-225.pdf&#xA;https://www.grc.com/sn/sn-225.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>This week Steve and Leo plow into the little understood and even less known problems which arise when user-provided content - postings, photos, videos, etc. - are uploaded to trusted web sites from which they are then subsequently served to other web users.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-225.txt&#xA;https://www.grc.com/sn/sn-225.pdf&#xA;https://www.grc.com/sn/sn-225-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 03 Dec 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0225/sn0225.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[This week Steve and Leo plow into the little understood and even less known problems which arise when user-provided content - postings, photos, videos, etc. - are uploaded to trusted web sites from which they are then subsequently served to other web users.
 
 Show notes:
-https://www.grc.com/sn/sn-225.pdf
-https://www.grc.com/sn/sn-225.txt
+<a href="https://www.grc.com/sn/sn-225.txt">https://www.grc.com/sn/sn-225.txt</a>
+<a href="https://www.grc.com/sn/sn-225.pdf">https://www.grc.com/sn/sn-225.pdf</a>
+<a href="https://www.grc.com/sn/sn-225-notes.pdf">https://www.grc.com/sn/sn-225-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -803,14 +901,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0226/sn0226.mp3</guid>
       <title>226: Listener Feedback #81</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0226/sn0226.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-226.pdf&#xA;https://www.grc.com/sn/sn-226.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-226.txt&#xA;https://www.grc.com/sn/sn-226.pdf&#xA;https://www.grc.com/sn/sn-226-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 10 Dec 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0226/sn0226.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-226.pdf
-https://www.grc.com/sn/sn-226.txt
+<a href="https://www.grc.com/sn/sn-226.txt">https://www.grc.com/sn/sn-226.txt</a>
+<a href="https://www.grc.com/sn/sn-226.pdf">https://www.grc.com/sn/sn-226.pdf</a>
+<a href="https://www.grc.com/sn/sn-226-notes.pdf">https://www.grc.com/sn/sn-226-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -819,14 +919,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0227/sn0227.mp3</guid>
       <title>227: Cyberwarfare</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0227/sn0227.mp3</link>
-      <description>Steve and Leo examine the amorphous and difficult-to-grasp issue of nation-state sponsored cyberwarfare.  They examine what it means when nations awaken to the many nefarious ways the global Internet can be used to gain advantage against international competitors and adversaries.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-227.pdf&#xA;https://www.grc.com/sn/sn-227.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo examine the amorphous and difficult-to-grasp issue of nation-state sponsored cyberwarfare.  They examine what it means when nations awaken to the many nefarious ways the global Internet can be used to gain advantage against international competitors and adversaries.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-227.txt&#xA;https://www.grc.com/sn/sn-227.pdf&#xA;https://www.grc.com/sn/sn-227-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 17 Dec 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0227/sn0227.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo examine the amorphous and difficult-to-grasp issue of nation-state sponsored cyberwarfare.  They examine what it means when nations awaken to the many nefarious ways the global Internet can be used to gain advantage against international competitors and adversaries.
 
 Show notes:
-https://www.grc.com/sn/sn-227.pdf
-https://www.grc.com/sn/sn-227.txt
+<a href="https://www.grc.com/sn/sn-227.txt">https://www.grc.com/sn/sn-227.txt</a>
+<a href="https://www.grc.com/sn/sn-227.pdf">https://www.grc.com/sn/sn-227.pdf</a>
+<a href="https://www.grc.com/sn/sn-227-notes.pdf">https://www.grc.com/sn/sn-227-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -835,14 +937,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0228/sn0228.mp3</guid>
       <title>228: Listener Feedback #82</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0228/sn0228.mp3</link>
-      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-228.pdf&#xA;https://www.grc.com/sn/sn-228.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo discuss the week&#39;s major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world &#39;application notes&#39; for any of the security technologies and issues we have previously discussed.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-228.txt&#xA;https://www.grc.com/sn/sn-228.pdf&#xA;https://www.grc.com/sn/sn-228-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 24 Dec 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0228/sn0228.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  They tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.
 
 Show notes:
-https://www.grc.com/sn/sn-228.pdf
-https://www.grc.com/sn/sn-228.txt
+<a href="https://www.grc.com/sn/sn-228.txt">https://www.grc.com/sn/sn-228.txt</a>
+<a href="https://www.grc.com/sn/sn-228.pdf">https://www.grc.com/sn/sn-228.pdf</a>
+<a href="https://www.grc.com/sn/sn-228-notes.pdf">https://www.grc.com/sn/sn-228-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>
@@ -851,14 +955,16 @@ Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <guid>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0229/sn0229.mp3</guid>
       <title>229: The Rational Rejection of Security Advice</title>
       <link>https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0229/sn0229.mp3</link>
-      <description>Steve and Leo turn everything around this week to question the true economic value of security advice.   They consider the various non-zero costs to the average, non-Security Now! listener.  They compared those real costs with the somewhat unclear and uncertain benefits of going to all the trouble of following sometimes painful advice.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-229.pdf&#xA;https://www.grc.com/sn/sn-229.txt&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
+      <description>Steve and Leo turn everything around this week to question the true economic value of security advice.   They consider the various non-zero costs to the average, non-Security Now! listener.  They compared those real costs with the somewhat unclear and uncertain benefits of going to all the trouble of following sometimes painful advice.&#xA;&#xA;Show notes:&#xA;https://www.grc.com/sn/sn-229.txt&#xA;https://www.grc.com/sn/sn-229.pdf&#xA;https://www.grc.com/sn/sn-229-notes.pdf&#xA;&#xA;Hosts: Steve Gibson &amp; Leo Laporte</description>
       <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
       <enclosure url="https://media.blubrry.com/35015/www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0229/sn0229.mp3" length="0" type="audio/mpeg"></enclosure>
+      <itunes:author> (Steve Gibson, Leo Laporte)</itunes:author>
       <itunes:summary><![CDATA[Steve and Leo turn everything around this week to question the true economic value of security advice.   They consider the various non-zero costs to the average, non-Security Now! listener.  They compared those real costs with the somewhat unclear and uncertain benefits of going to all the trouble of following sometimes painful advice.
 
 Show notes:
-https://www.grc.com/sn/sn-229.pdf
-https://www.grc.com/sn/sn-229.txt
+<a href="https://www.grc.com/sn/sn-229.txt">https://www.grc.com/sn/sn-229.txt</a>
+<a href="https://www.grc.com/sn/sn-229.pdf">https://www.grc.com/sn/sn-229.pdf</a>
+<a href="https://www.grc.com/sn/sn-229-notes.pdf">https://www.grc.com/sn/sn-229-notes.pdf</a>
 
 Hosts: Steve Gibson & Leo Laporte]]></itunes:summary>
       <itunes:image href="https://raw.githubusercontent.com/kyleloyka/securitynow/master/assets/sn-image.png"></itunes:image>

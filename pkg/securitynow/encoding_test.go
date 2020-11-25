@@ -13,12 +13,6 @@ func TestProperDecoding(t *testing.T) {
 		"parties as add-ons.  And they carefully compare the security benefits of Vista on " +
 		"64-bit versus 32 bit hardware platforms."
 
-	originalURL := showNotesURL
-	defer func() {
-		showNotesURL = originalURL
-	}()
-	showNotesURL = "https://raw.githubusercontent.com/kyleloyka/sn/master/sn-%03d.txt"
-
 	resp, err := Fetch(66)
 	if err != nil {
 		t.Errorf("Decode test failed to retrieve show notes, %v", err)
