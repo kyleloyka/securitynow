@@ -28,7 +28,7 @@ func NewFeed(year int, allYears bool) *Feed {
 	feed.Year = year
 	create := time.Date(year, time.January, 1, 0, 0, 0, 0, time.UTC)
 	modified := time.Date(year, time.January, 1, 0, 0, 0, 0, time.UTC)
-	if modified.After(time.Now()) {
+	if modified.After(time.Now()) || allYears {
 		modified = time.Now()
 	}
 
